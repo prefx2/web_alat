@@ -76,7 +76,7 @@ if selected_basemap == 'ZOM':
     except Exception as e:
         st.warning(f"Gagal memuat layer ZOM: {e}")
 else:
-    st.info("📌 Basemap: Provinsi (tanpa layer tambahan)")
+    st.info("📌 Basemap: Provinsi ")
 
 # Tambahkan Marker Cluster
 if not df_filtered.empty:
