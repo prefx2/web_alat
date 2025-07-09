@@ -1,0 +1,32 @@
+﻿id_station;name_station;nama_propinsi;nama_kota;kecamatan;kelurahan;latt_station;long_station;elv_station;status_operasional;hp_petugas;tgl_pasang;addr_instansi;data_transport;instansi;nama_vendor
+STA6012;ASRS Jembrana;Bali;Kab. Jembrana;Negara;Baler Bale Agung;-8.34058;114.617503;22;operasional;81315065082;11/21/2017;Jl. Leli No. 9 Baler Bale Agung Negara;;BMKG;MMI-LSI
+STA6016;Staklim Banten (ASRS);Banten;Kota Tangerang Selatan;Pondok Aren;Pondok Betung;-6.26159;106.75079;24;operasional;81398888485;10/29/2019;Jl.Raya Kodam Bintaro No.82;;Stasiun Klimatologi Banten;
+STA6009;ASRS Bengkulu;Bengkulu;Kota Bengkulu;Kampung Melayu;Kandang;-3.864852;102.3121;13;operasional;81386249230;12/07/2017;Jl.IR Rustandi Sugianto Pulau Baai;;Staklim Bengkulu;MMI-LSI
+STA6010;ASRS Mlati;DI Yogyakarta;Kab. Sleman;Mlati;Sendangadi;-7.73106406;110.3535783;181;operasional;85291221608;11/13/2017;Jl.Kabupaten KM 5.5;FTP;Stasiun Klimatologi D.I. Yogyakarta;MMI-LSI
+STA6014;ASRS Tilongkabila;Gorontalo;Kab. Bone Balango;Tilongkabila;Moutong;0.555833;123.140546;47;operasional;;11/30/2017;Jl.BJ.Habibie;;Stasiun Klimatologi Gorontalo;MMI-LSI
+STA6007;ASRS Jambi;Jambi;Kab. Muaro Jambi;Jaluko;simpang sungai duren;-1.60111;103.4944;23;operasional;82283308762;12/04/2017;Jalan Raya Jambi-Muara Bulian KM18;;BMKG;MMI-LSI
+STA6001;ASRS Bogor;Jawa Barat;Kota Bogor;Bogor Barat;Situgede;-6.55311;106.74285;176;operasional;89503229575;10/27/2017;Jl.Alternatif IPB - Situ Gede;;Sta.Klimat Kelas I Jawa Barat;MMI-LSI
+STA6018;ASRS Staklim Jawa Tengah;Jawa Tengah;Kota Semarang;Semarang Barat;Kalibanteng Kulon;-6.984;110.3809;;operasional;8995839858;10/29/2019;Jl. Siliwangi No. 291  Semarang ;;Stasiun Klimatologi  Semarang;
+STA6011;ASRS Staklim Jawa Timur;Jawa Timur;Kab. Malang;Karang Ploso;Ngijo;-7.90136;112.597789;600;operasional;81233534679;11/15/2017;Jl.Zetana No.33;;Stasiun Klimatologi Jawa Timur;MMI-LSI
+STA6003;ASRS Staklim Kalbar;Kalimantan Barat;Kab. Mempawah;Jongkat;Sungai Nipah;0.075277;109.190833;2;operasional;89662653094;11/04/2017;Jl. Raya Sei Nipah Km.20.5 Jungkat;;BMKG;MMI-LSI
+STA6002;ASRS Banjarbaru;Kalimantan Selatan;Kota Banjar Baru;Banjarbaru Selatan;Sungai Besar;-3.46221;114.840631;48;operasional;87816694477;01/01/2018;Stakilm Banjarbaru Jln Trikora;;BMKG;MMI-LSI
+STA6025;ASRS Panarung;Kalimantan Tengah;Kota Palangkaraya;Panarung;Pahandut;-2.228055556;113.9462222;10;operasional;0;10/28/2020;Jl. A Donis Samad;;Stasiun Meteorologi Tjilik Riwut Palangkaraya;
+STR1005;ASRS Stasiun Meteorologi Nunukan;Kalimantan Utara;Kab. Nunukan;Nunukan;Nunukan Timur;4.1358615;117.6662083;8.2;operasional;85247119278;09/04/2023;Stasiun Meteorologi Nunukan  Nunukan Timur  Nunukan  Kab Nunukan;;Stasiun Meteorologi Nunukan;EKO
+STA6017;Stasiun Klimatologi Bangka Belitung (ASRS);Kepulauan Bangka Belitung;Kab. Bangka Tengah;Koba;Padang Mulia;-2.518023;106.4228;5.8;operasional;82280190609;10/29/2019;Komplek perkantoran pemerintahan kab. Bangka Tengah Jl. Kartika 1 koba 33181;;Stasiun Klimatologi Bangka Belitung;
+ASRS333;ASRS Pesawaran;Lampung;Kab. Pesawaran;Tegineneng;Sidobasuki;-5.17225;105.180383;70;operasional;85219701259;9/13/2016;Tanjung Karang;FTP;staklim lampung;BMKG-Jinyang
+STA6015;ASRS Seram Bagian Barat;Maluku;Kab. Seram Bagian Barat;Kairatu;Kairatu;-3.3388;128.3684;10;operasional;;11/27/2017;Jl.Hunitetu;;STAKLIM Kairatu;MMI-LSI
+STA6021;Stasiun Meteorologi  Babullah (ASRS);Maluku Utara;Kota Ternate;Ternate Utara;Tafure;0.82934;127.38159;;operasional;81340042148;10/29/2019;Jl. Bandar Udara Babullah Ternate;;Sta. Met Ternate;
+STA6004;ASRS Aceh Besar;Nanggroe Aceh Darusalam;Kab. Aceh Besar;Indrapuri;Lampana Ranjo;5.403609;95.464794;64;operasional;85261923611;11/08/2017;Jl.Banda Aceh - Medan KM 27.5;;Stasiun Klimatologi Aceh Besar;MMI-LSI
+ASRS111;ASRS Staklim Lombok Barat;Nusa Tenggara Barat;Kab. Lombok Barat;Kediri;Montong Are;-8.6364;116.1702;52;operasional;82231314969;9/13/2016;Jl. TGH Ibrahim Khalidy Kediri;FTP;Stasiun Klimatologi Nusa Tenggara Barat;BMKG-Casella
+STA6027;ASRS Kupang;Nusa Tenggara Timur;Kab. Kupang;Kelapa Lima;Lasiana;-10.139;123.667;19;operasional;81337081760;12/21/2010;Jl. Timor Raya KM. 10 7 Lasiana Kupang NTT - 85361 / Tlp. 0380-881681 / Fax. 0380-881680 ;;Stasiun Klimatologi Kelas II NTT;
+STA6020;Stasiun Klimatologi Tanah Miring (ASRS);Papua;Kab. Merauke;Tanah Miring;Tanah Miring;-8.38709;140.5165;6;operasional;81247860558;10/29/2019;Jl. Poross mangga;;BMKG;
+STA6023;Stasiun Klimatologi  Jayapura (ASRS);Papua;Kab. Jayapura;Nimboran;Tabri;-2.5925;140.1678;62;operasional;85825089954;10/29/2019;Jl. Yaring Tabri;;staklim Jayapura;
+STA6022;Stasiun G.A.W Sorong (ASRS);Papua Barat;Kota Sorong;Sorong;Aimas;-0.87452;131.26777;220;operasional;85157710895;10/29/2019;Jl. Puncak Vihara Klademak II Malawele;;Sta. G.A.W Sorong;
+STA6024;ASRS Stasiun Klimatologi Riau;Riau;Kab. Kampar;Tambang;Kuapan;0.40751419;101.2172733;32.4;operasional;81338968352;10/21/2020;Jl. Pulau Birandang Desa Kuapan Kec. Tambang  Kab. Kampar;HTTP GET;BMKG;
+STA6028;ASRS Simboro;Sulawesi Barat;Kab. Mamuju;Simboro;Rangas;-2.666155;118.849829;39;operasional;82848192873;11/14/2020;Komp. Perkantoran Pemprov. Sulbar;;BMKG Mamuju;
+ASRS222;ASRS Stasiun Klimatologi Sulawesi Selatan;Sulawesi Selatan;Kab. Maros;Maros Baru;Marumpa;-4.997173;119.5716611;13;operasional;89669053710;9/13/2016;Maros Makasar;FTP;Stasiun Klimatologi Sulawesi Selatan;Arkan-Digitalisasi
+STA6026;ASRS Lore Tengah;Sulawesi Tengah;Kab. Poso;Lore Tengah;Hanggira;-1.650041944;120.183;1369;operasional;85163511995;11/14/2020;Jl. Abdurrahman Saleh  Komplek Bandar Udara Mutiara Sis Al Jufri  Palu;;Stasiun Pemantau Atmosfer Global Lore Lindu Bariri;
+STA6019;Stasiun Klimatologi Sulawesi Tenggara (ASRS);Sulawesi Tenggara;Kab. Konawe Selatan;Ranomeeto;Ranooha;-4.05619;122.44927;;operasional;82246687960;10/29/2019;Jl. Poros Bandara Lrg. Mekar;;Stasiun Klimatologi  Ranomeeto;
+STA6013;ASRS Minahasa Utara;Sulawesi Utara;Kab. Minahasa Utara;Talawaan;Paniki Atas;1.5010318;124.9180548;80;operasional;85966683098;11/28/2017;Jl.Raya Paniki Atas;;Staklim Minahasa Utara;MMI-LSI
+STA6006;ASRS Padang Pariaman;Sumatera Barat;Kab. Padang Pariaman;Kayu Tanam;Nagari Kapalo Hilalang;-0.5452778;100.297777;128;operasional;85375456935;11/08/2017;Jl.Raya Padang Bukit Tinggi KM 51;;Stasiun Klimatologi Sumatera Barat;MMI-LSI
+STA6005;ASRS Deli Serdang;Sumatera Utara;Kab. Deliserdang;Percut Sei Tuan;Sampali;3.620937;98.714706;25;operasional;81396907439;12/06/2017;Jl.Meteorologi Raya No.17;;Stasiun Klimatologi Sumatera Utara;MMI-LSI

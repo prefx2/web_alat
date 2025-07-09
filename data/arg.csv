@@ -1,0 +1,747 @@
+﻿id_station;name_station;nama_propinsi;nama_kota;kecamatan;kelurahan;latt_station;long_station;elv_station;status_operasional;hp_petugas;tgl_pasang;addr_instansi;data_transport;instansi;nama_vendor
+150026;ARG Gerogak;Bali;Kab. Buleleng;Gerogak;Patas;-8.197266967;114.79333;;operasional;82147447424;07/03/2015;"Gerokgak	Ds. Patas  Kec. Gerokgak  Buleleng";FTP;BPP Gerogak;BMKG-LSI
+150027;ARG Kerambitan;Bali;Kab. Tabanan;Kerambitan;Meliling;-8.505048455;115.0834132;150;operasional;81338222726;10/30/2015;Jl. Raya Timpay Kerambitan;FTP;BPP Kerambitan;BMKG-LSI
+150028;ARG Sukawati;Bali;Kab. Gianyar;Sukawati;Celuk;-8.601745;115.2651;71;operasional;82145011875;07/03/2015;Jl. Raya Celuk;HTTP GET;Lab. Pertanian Celuk;BMKG-LSI
+150029;ARG Denpasar Barat;Bali;Kota Denpasar;Denpasar Barat;Sanglah;-8.660629159;115.205751;;operasional;85100013812;07/03/2015;Jl. Pulau Tarakan;FTP;BMKG;BMKG-LSI
+150030;ARG Karangasem;Bali;Kab. Karang Asem;Abang;Kerta Mandala;-8.364629039;115.6106439;157;operasional;85238552765;07/03/2015;Jl. Raya Kahang-kahang;FTP;BMKG ;BMKG-LSI
+150317;ARG Gilimanuk;Bali;Kab. Jembrana;Negara;Gilimanuk;-8.187332686;114.4406104;7;operasional;8.81039E+11;09/08/2017;Jl. Raya Gilimanuk;FTP;Kantor Balai TNBB;MMI-LSI
+150318;ARG Busungbiu;Bali;Kab. Buleleng;Busungbiu;Bisungbiu;-8.26064;114.970596;273;operasional;85237094584;08/10/2017;JL Seririt Pupuan;HTTP GET;BPP Busungbiu;MMI-LSI
+STA0066;ARG Buleleng;Bali;Kab. Buleleng;Sukasada;Sukasada;-8.13387329;115.0997239;89;operasional;87762973091;9/13/2016;JL Jelantik Gingsir No 2.;HTTP GET;BPP Sukasada;BMKG-MSP
+STA0067;ARG Kintamani;Bali;Kab. Bangli;Kintamani;Kintamani;-8.25065;115.3295;1447;operasional;85338512311;9/13/2016;JL Raya Kintamani;HTTP GET;BPP Kintamani Timur;BMKG-MSP
+STA0068;ARG Petang;Bali;Kab. Badung;Petang;Petang;-8.391552;115.21862;586;operasional;82266473871;9/13/2016;Jl. Raya Petang  Badung  Bali;HTTP GET;UPPT Petang;BMKG-MSP
+STA0115;ARG Nusa Penida;Bali;Kab. Klungkung;Nusa Penida;Pulukan;-8.67455;115.4994;20;operasional;85338223970;9/13/2016;Jl. Raya Pupuan - Pekutatan;HTTP GET;BPP Nusa Penida;BMKG-MSP
+STA0136;ARG Abiansemal;Bali;Kab. Badung;Abiansemal;Blahkuih;-8.517779989;115.2083602;184;operasional;85937009510;9/13/2016;-;FTP;BPP Abiansemal;BMKG-MSP
+STA0137;ARG Catur;Bali;Kab. Bangli;Kintamani;;-8.223791366;115.2450447;;operasional;81529346467;9/13/2016;-;FTP;BPP Kintamani Barat;BMKG-MSP
+STA0138;ARG Baturiti;Bali;Kab. Tabanan;Baturiti;Desa Candikuning;-8.260966072;115.1632997;1727;operasional;85954596365;9/13/2016;Jl. Raya Baturiti;FTP;UPTD BBI Kembang Merta;BMKG-MSP
+STA0139;ARG Pupuan;Bali;Kab. Tabanan;Pupuan;;-8.344;115.03;778;operasional;83114631517;11/23/2010;-;FTP;BPP Pupuan;BMKG-MSP
+STA0140;ARG Seririt;Bali;Kab. Buleleng;Seririt;Desa Tangguwisia;-8.1908;114.96;7;operasional;87762037367;11/23/2010;Jl. Raya Seririt;FTP;Lab Pertanian Tangguwisia;BMKG-MSP
+STA0141;ARG Kubu;Bali;Kab. Karang Asem;Kubu;Desa Banyupoh;-8.23668;115.5556;29;operasional;81338466372;9/13/2016;Jl. Raya Singaraja - Gilimanuk;FTP;BMKG;BMKG-MSP
+STA0156;ARG Tampak Siring;Bali;Kab. Gianyar;Tampak Siring;Tampak Siring;-8.4832;115.29433;305;operasional;85737705551;11/23/2010;Tampak siring;FTP;BPP Tampak Siring;BMKG-MSP
+STA0157;ARG Kubutambahan (Ex ARG Tejakula);Bali;Kab. Buleleng;Kubutambahan;Kubutambahan;-8.081273824;115.2069973;42;operasional;87863066482;9/13/2016;Jalan Raya Air Sanih  Desa Kubutambahan  Kecamatan Kubutambahan  Kubutambahan  Buleleng ;FTP;SMA Bali Mandara;BMKG-MSP
+STA0177;ARG Pekutatan;Bali;Kab. Jembrana;Pekutatan;Pulukan;-8.4245431;114.8379361;39.6;operasional;85738721915;03/08/2017;Jl. Raya Pupuan - Pekutatan;HTTP GET;PT Perkebunan Pulukan;BMKG-LSI
+STG1009;ARG Pecatu;Bali;Kab. Badung;Kuta Selatan;Desa Pecatu;-8.82527;115.105756;124;operasional;856384535;9/16/2023;Sta. Klim. Kelas II Bali;;BMKG;
+STG1062;ARG Selemadeg Barat;Bali;Kab. Tabanan;Selemadeg Barat;Lalang Linggah;-8.489718;114.953051;64;operasional;81353025688;4/23/2024;Lalang Linggah;;Dinas Pertanian Prov. Bali;BMKG-Campbell
+STG1063;ARG Tista;Bali;Kab. Buleleng;Busung Biu;Tista;-8.356888;114.919266;753;operasional;81337061182;4/23/2024;Jl. Raya Tista Pupuan;;UPTD Kesatuan Pengelolaan Hutan Bali Utara;BMKG-Campbell
+150086;ARG Malingping;Banten;Kab. Lebak;Malingping;Malingping Utara;-6.775808;106.010669;32;operasional;85289696176;09/11/2015;Kp Pasir Haur RT 13/RW 01.;HTTP GET;Dinas PUPR Kabupaten Lebak Provinsi Banten;BMKG-LSI
+150087;ARG Banjarsari;Banten;Kab. Lebak;Banjar sari;Bendungan;-6.493481;106.015454;26;operasional;81386485900;09/10/2015;UPT PU Wilayah III;FTP;Dinas PUPR Lebak;BMKG-LSI
+150088;ARG Kresek;Banten;Kota Tangerang;Kresek;Kresek;-6.127633;106.3802;10;operasional;85218977319;9/22/2015;JL Raya Syeh Nawawi No.10;HTTP GET;Dinas PUPR LDinas PUPR Kabupaten Tangerangebak;BMKG-LSI
+150274;ARG Bendung Ciliman;Banten;Kab. Pandeglang;Banjarsari;Lebak Leusik;-6.611524;105.95678;18;operasional;85210828239;08/10/2017;BENDUNG CILIMAN;FTP;Dinas PUPR Kabupaten Lebak Provinsi Banten;MMI-LSI
+150275;ARG Kramat Watu;Banten;Kota Serang;Kramat Watu;Margasana;-6.060724;106.130983;9;operasional;85890115354;08/09/2017;;FTP;Dinas PUPR Kabupaten Serang;MMI-LSI
+150276;ARG Menes;Banten;Kab. Pandeglang;Menes;Menes;-6.376618;105.919965;110;operasional;85287206257;08/10/2017;Dinas PSDA Kab. Pandeglang;FTP;Dinas PUPR Kabupaten Pandeglang;MMI-LSI
+150277;ARG Padarincang;Banten;Kab. Serang;Padarincang;Kadu beureum;-6.220089;105.933051;108;operasional;85774333554;08/10/2017;Jl. Raya Palka Padarincang ;FTP;UPTD PUPR Kecamatan Padarincang;MMI-LSI
+150278;ARG Banjar Irigasi;Banten;Kab. Lebak;Lebak Gedong;Banjar Irigasi;-6.569224;106.411325;22;operasional;85776836511;08/11/2017;Pasir Ona Rangkas Bitung;FTP;Dinas PUPR Lebak;MMI-LSI
+30001;PH Digital Tigaraksa;Banten;Kab. Tangerang;Tigaraksa;Tapos;-6.2956944;106.4755556;42;operasional;6.28128E+12;02/12/2020;BPP Carenang;HTTP GET;BPP Carenang;
+30003;PH Digital Kibin;Banten;Kab. Serang;Kibin;Kentos;-6.1301944;106.3135556;10;operasional;81511169026;02/12/2020;PU Pengairan Serang;HTTP GET;Dinas PUPR Kabupaten Serang;
+30010;BPP Cimanuk (PH);Banten;Kab. Pandeglang;Cimanuk; Batu Bantar;-6.3506;106.0436;194;operasional;87871284443;10/24/2019; Jl. Raya Labuhan - Pandeglang;FTP;Dinas PUPR Kabupaten Pandeglang;
+30011;BPP Sepatan (PH);Banten;Kab. Tangerang;Sepatan;Pondok Jaya;-6.116474;106.584349;110;operasional;8.95322E+11;10/28/2019;Jl. Raya Paku Haji No. 3;FTP;BPP Sepatan;
+30012;BPTPHP Serang (PH);Banten;Kota Serang; Kasemen;Sawah luhur;-6.041636;106.2038;4;operasional;81220262231;10/24/2019;Jl. Sawah Luhur Pos KM. 07;FTP; BPTPHP Serang;
+STA0033;ARG Cisalak Baru;Banten;Kab. Tangerang;Maja;Cisalak;-6.373468;106.302063;78;operasional;85289737465;9/13/2016;KEBUN CISALAK;HTTP GET;PTPN VIII Kebun Cisalak Baru;BMKG-MSP
+STA0034;ARG Ciomas;Banten;Kab. Serang;Ciomas;Ciomas;-6.204;106.0168;155;operasional;81386080886;9/13/2016;-;HTTP GET;Kantor Kecamatan Ciomas;BMKG-MSP
+STA0035;ARG Pandeglang;Banten;Kab. Pandeglang;Karang Tanjung;;-6.28679;106.125497;220;operasional;81808539029;9/13/2016;GRH Pancasila No 2;HTTP GET;Dinas PUPR Kabupaten Pandeglang;BMKG-MSP
+STA0036;ARG Cikeusal Timur;Banten;Kota Serang;Cikeusal;Cikeusal;-6.260025;106.27774;14;operasional;85946501228;9/13/2016;Jalan Ahmad Suryadi Sudirja Serang;FTP;Dinas PUPR Kabupaten Serang Provinsi Banten;BMKG-MSP
+STA0146;ARG Mauk;Banten;Kab. Tangerang;Mauk;Mauk;-6.06467902;106.5302122;6;operasional;85773873834;9/13/2016;-;FTP;BPP Mauk;BMKG-MSP
+STA0147;ARG Cirinten;Banten;Kab. Lebak;Cirinten;;-6.62840184;106.1550015;379;operasional;85715809870;9/13/2016;BPP CIRINTEN;HTTP GET;Dinas Pertanian dan Perkebunan Kabupaten Lebak;BMKG-MSP
+STA0242;ARG Rekayasa Bojongmenteng;Banten;Kab. Lebak;Leuwidamar;;-6.584045;106.208975;192;operasional;81511755563;12/03/2020;;HTTP GET;Kantor Desa Bojongmenteng;
+STA0243;ARG Rekayasa Sobang;Banten;Kab. Lebak;Sobang;;-6.6596;106.3043;583;operasional;6.28389E+12;12/03/2020;;HTTP GET;Kecamatan Sobang;
+STA3201;ARG SMPK Panggarangan;Banten;Kab. Lebak;Panggarangan;Panggarangan;-6.908222;106.173298;4;operasional;6.28772E+12;09/10/2016;Jl MALINGPING-BAYAH;FTP;Kecamatan Panggarangan;BMKG-LSI
+STA9003;ARG Rekayasa STMKG;Banten;Kota Tangerang Selatan;Pondok Aren;Pondok Betung;-6.2651616;106.74869;70;operasional;81398888485;12/04/2016;;HTTP GET;Stasiun Klimatologi Banten;BMKG-Rekayasa
+STA9007;ARWS Rekayasa Stageof Tangerang;Banten;Kota Tangerang;Tangerang;Tangerang;-6.172;106.647;13;operasional;85695527624;08/10/2017;;HTTP GET;Stageof Tangerang;BMKG-Rekayasa
+STAL111;ARG BPP Balaraja Tangerang;Banten;Kota Tangerang;Sukamulya;Merak;-6.156485;106.418242;15;operasional;87897538310;11/30/2018;Jl. Raya Balaraja No.72;FTP;BPP Kaliasin;
+STAL112;ARG Tirtayasa;Banten;Kota Serang;Tirtayasa;Tanara;-6.024102;106.32961;7;operasional;87806725247;11/30/2018;Jl. Sultan Agung Tirtayasa;FTP;PUPR Dirjen SDA BBWS Cidanau-Ciujung-Cidurian ;
+STG1002;ARG RPH CILEGON;Banten;Kota Cilegon;Jombang;Panggung Rawi;-6.0040262;106.0850053;4;operasional;87808176907;12/01/2021;;;Dinas Pertanian Peternakan & Kelautan Kota Cilegon;
+STG1004;ARG Mandalawangi;Banten;Kab. Pandeglang;Mandalawangi;Cikoneng;-6.309841;105.988958;420;operasional;85892625991;11/02/2022;Kantor Kecamatan Mandalawangi  Jl Raya Pndeglang Pari KM.14  Mandalawangi  Cikoneng  Kabupaten Pandeglang Banten 42261;;Dinas PUPR Kabupaten Lebak Provinsi Banten;BMKG-Campbell
+150153;ARG PH Kabawetan;Bengkulu;Kab. Kepahiang;Kabawetan;Tangsi Baru;-3.60383;102.5941;802;operasional;82282395125;9/13/2016;Desa Tangsi Baru  Kec. Kabawetan;FTP;PT Sarana Mandiri Mukti;MMI-LSI
+150154;ARG Bukit Kaba;Bengkulu;Kab. Rejang Lebong;Selupu Rejang;Sumber Urip;-3.4781;102.645;1174;operasional;81328800877;9/13/2016;Sumber Urip  Selupu Rejang  Rejang Lebong;FTP;PGA BUKIT KABA ;MMI-LSI
+150155;ARG BPK Airmajunto;Bengkulu;Kab. Muko-Muko;Air Majunto;Sido Makmur;-2.50612;101.18774;172;operasional;85267503907;9/13/2016;JL Poros Kecamatan.;FTP;BPP Air Manjunto;BMKG-LSI
+150186;ARG Batu Roto;Bengkulu;Kab. Bengkulu Utara;Hulu Palik;Batu Roto;-3.473366;102.299309;350;operasional;82371865636;08/09/2016;Jl Protokol Lubuk Durian Arga Makmur;HTTP GET;BPP Hulu Palik Baturoto;MMI-LSI
+150187;ARG Padang Jaya;Bengkulu;Kab. Bengkulu Utara;Padang Jaya;Lubuk Banyau;-3.36063;102.077021;77;operasional;81367319155;08/09/2016;Lubuk Banyau;FTP;BPP Padang Jaya Kuro Tidur;MMI-LSI
+150188;ARG Bunga Mas;Bengkulu;Kab. Bengkulu Selatan;Bunga Mas;Gindo Suli;-4.501679;102.9718749;40;operasional;81367582009;08/10/2016;Jl Lintas Sumatra Km 12 Bunga Mas;HTTP GET;BP3K Bunga Mas ;MMI-LSI
+150189;ARG Kedurang Ilir;Bengkulu;Kab. Bengkulu Selatan;Kedurang Ilir;Air Sulau;-4.542978;103.0685129;47;operasional;85377463707;08/11/2016;Jl Lintas Barat Bengkulu Lampung;FTP;Bp3K Sulau BPP Sulau;MMI-LSI
+150190;ARG Kaur Selatan;Bengkulu;Kab. Kaur;Kaur Selatan;Padang Petrun;-4.759099;103.350085;60;operasional;81278297608;08/11/2016;Kaur Selatan;HTTP GET;Dinas Pertanian Tingkat II Kaur;MMI-LSI
+150281;ARG Talang Pauh;Bengkulu;Kab. Bengkulu Tengah;Pondok Kelopopo;Pondo Kelopo 1;-3.694143;102.245;24;operasional;81271787705;09/05/2017;Jl. Raya Bengkulu Lais Km. 15 Pondok Kelapo;FTP;BPP Talang Pauh;MMI-LSI
+150282;ARG Ipuh;Bengkulu;Kab. Muko-Muko;Ipuh;Pulau payung;-2.99579;101.49364;35;operasional;82373886634;09/07/2017;;FTP;BPP MEDAN JAYA ;MMI-LSI
+150283;ARG Air Rami;Bengkulu;Kab. Muko-Muko;Air Rami;Rami mulya;-3.09592;101.55373;30;operasional;81393355905;09/06/2017;Komp Perkantoran Dinas pertanian;FTP;BPP air rami;MMI-LSI
+STA0085;ARG Rejang Lebong;Bengkulu;Kab. Rejang Lebong;Bermani Ulu Raya;;-3.351756;102.443273;988;operasional;85383619792;9/13/2016;Jl. Ir Rustandi Sugianto  gang Semen  Kota Bengkulu;FTP;BBI Holtikultural;BMKG-MSP
+STA0216;ARG Karang Tinggi;Bengkulu;Kab. Bengkulu Tengah;Karang Tinggi;Ujung Karang;-3.77436389;102.390886;65;operasional;81272327162;09/07/2020;Jl. Raya Bengkulu - Kepahiyang  KM.20;HTTP GET;BP3K Bengkulu Tengah ;
+STA0261;ARG Semidang Alas Maras;Bengkulu;Kab. Seluma;Semindang Alas Maras;Tedunan;-4.31035;102.755911;17;operasional;82299290387;4/20/2021;Komplek Perkantoran Tanjung Aur Seluma;;BPP Kembang Mompu;
+STA9012;ARG Rekayasa Sukaraja Seluma;Bengkulu;Kab. Seluma;Sukaraja;Talang Benuang;-3.9694417;102.4185;36;operasional;85273271505;8/21/2017;Desa Talang Benuang  Sukaraja  Seluma;HTTP GET;BPP Kec. Sukaraja;BMKG-Rekayasa
+STAL071;ARG BP3 Tes;Bengkulu;Kab. Lebong;Lebong Selatan;Tes;-3.226881;102.34502;601;operasional;85267937800;11/22/2018;Jl. Raya Curup - Muara Aman.;HTTP GET;BP3 Tes;
+STAL072;ARG Suka Bumi;Bengkulu;Kab. Lebong;Lebong sakti;Suka Bumi;-3.139963;102.2441;362;operasional;81367670187;11/23/2018;Jl. Raya Curup - Muara Aman. Komplek Rumah Dinas Ka UPTD;FTP;BP3 Suka Bumi;
+150306;ARG Piyungan;DI Yogyakarta;Kab. Bantul;Piyungan;Srimartani;-7.82413;110.4754;95;operasional;8190493943;8/24/2017;Piyungan  Bantul;FTP;Balai Benih Piyungan;MMI-LSI
+150307;ARG Moyudan;DI Yogyakarta;Kab. Sleman;Moyudan;Sumber Agung;-7.739689336;110.2631438;150;operasional;85156055950;8/28/2017;Moyudan  Sleman;FTP;BP 4 Wil 1 Sleman;MMI-LSI
+150308;ARG Kalibawang;DI Yogyakarta;Kab. Kulon Progo;Kalibawang;Banjarharjo;-7.687176;110.25779;160;operasional;82324641334;8/21/2017;Ngrajun  Banjarharjo  Kalibawang  K.Progo;FTP;BPP Kalibawang;MMI-LSI
+150309;ARG Panjatan;DI Yogyakarta;Kab. Kulon Progo;Panjatan;tayuban;-7.925;110.159;10;operasional;85743383211;8/22/2017;Panjatan  Tayuban  ARG. Panjatan;HTTP GET;BMKG;MMI-LSI
+150310;ARG Waduk Sermo;DI Yogyakarta;Kab. Kulon Progo;Kokap;Sermo Lor Hargowilis;-7.823245;110.123754;169;operasional;87839539255;8/24/2017;Jl. Solo Janti Yogyakarta;FTP;BBWSO Yogyakarta;MMI-LSI
+STA0012;ARG Playen;DI Yogyakarta;Kab. Gunung Kidul;Playen;Bandung;-7.9214;110.5611;204;operasional;82322462199;9/13/2016;Jl. Yogya-Wonosari KM 8.5 Bandung  Playen  Gunung Kidul;HTTP GET;BPP Playen;BMKG-Campbell
+STA0013;ARG Saptosari;DI Yogyakarta;Kab. Gunung Kidul;Saptosari;Jetis;-8.04;110.496;308;operasional;87779754306;9/13/2016;Jl.Raya Panggang - Wonosari  Saptosari  Gunung Kidul;HTTP GET;BPP Saptosari;BMKG-Campbell
+STA0158;ARG Tepus;DI Yogyakarta;Kab. Gunung Kidul;Tepus;Sidoharjo;-8.0994;110.6286;244;operasional;81804195629;9/13/2016;JL Wonosari - Jepitu KM 14.7  Bintaos;HTTP GET;BPP Tepus;BMKG-MSP
+STA0179;ARG Kepuharjo;DI Yogyakarta;Kab. Sleman;Cangkringan;Kepuharjo;-7.6235;110.448;669;operasional;857490411;7/13/2017;Kantor Balai Cangkringan  Sleman;HTTP GET;Kantor Balai Desa Kepuharjo;BMKG-MSP
+STA3215;ARG SMPK Sleman;DI Yogyakarta;Kab. Sleman;Ngemplak;Karangsari - Wedomartani;-7.750058;110.4198;172;operasional;8990742111;09/10/2016;Karangsari  Wedomartan  Ngemplak  Sleman;FTP;BPTP Yogyakarta;BMKG-LSI
+30009;ARG Pakubuwono;DKI Jakarta;Jakarta Selatan;Pakubuwono;Gunung;-6.2331047;106.7931924;15;operasional;811974927;4/19/2021;;HTTP GET;Stasiun Klimatologi Banten;
+30013;BPP Sukapura (PH);DKI Jakarta;Jakarta Utara;Cilincing;Marunda;-6.131808;106.957408;2;operasional;85880683807;7/19/2022; Jl. Malaka I Gg. Veteran;FTP;BPP Sukapura;
+STA0026;ARG Manggarai;DKI Jakarta;Jakarta Selatan;Menteng;Manggarai;-6.20748;106.8487;8;operasional;81295823390;9/28/2022;-;HTTP GET;SDA Provinsi DKI Jakarta;BMKG-MSP
+STA0027;ARG Ciganjur;DKI Jakarta;Jakarta Selatan;Jagakarsa;Ciganjur;-6.3443;106.799;51;operasional;89602522651;9/13/2016;JL Brigif Raya KV Pemadam.;HTTP GET;SDA Provinsi DKI Jakarta ;BMKG-MSP
+STA0028;ARG Pulomas;DKI Jakarta;Jakarta Timur;Kelapa Gading;Kelapa Gading;-6.16666;106.8809;1;operasional;8.9562E+11;7/21/2022;Jl. Perintis Kemerdekaan;HTTP GET;Gedung Pompa Air Pulomas;BMKG-MSP
+STA0029;ARG Lebak Bulus;DKI Jakarta;Jakarta Selatan;Cilandak;;-6.304318;106.7774;39;operasional;81389845026;9/15/2022;JL Pertanian Raya no.47;HTTP GET;Kebun dan Laboratorium Lebak Bulus Jakarta;BMKG-MSP
+STA0030;ARG Tomang;DKI Jakarta;Jakarta Barat;Tomang;Tanjung Duren;-6.166699;106.78;2;operasional;85325244441;9/13/2016;Jl. Tj. Duren Utara;FTP;SDA Provinsi DKI Jakarta;BMKG-MSP
+STA0031;ARG Kelapa Gading;DKI Jakarta;Jakarta Utara;Kelapa Gading;Kelapa Gading;-6.166633;106.9136;1;operasional;8.81024E+11;9/13/2016;-;HTTP GET;Dinas SDA DKI Jakarta;BMKG-MSP
+STA9001;ARG Rekayasa Kemayoran;DKI Jakarta;Jakarta Pusat;Kemayoran;;-6.155415;106.842308;1;operasional;81316511345;03/01/2016;Jl.Angkasa No.1;HTTP GET;Sub Bidang Instrumentasi Rekayasa Klimatologi;BMKG-Rekayasa
+STG1011;ARG Kebun Bibit Ragunan;DKI Jakarta;Jakarta Selatan;Pasar Minggu;Ragunan;-6.2952608;106.8194739;39;operasional;8170943142;7/25/2023;Jl. Harsono RM No. 1 Rt. 001/04 Kel. Ragunan Ps. Minggu  Jakarta Selatan;;Kebun Bibit Ragunan;BMKG-Campbell
+STG1012;ARG Kembangan Utara;DKI Jakarta;Jakarta Barat;Kembangan;Kembangan Utara;-6.174436;106.732117;10;operasional;896356830;08/08/2023;Jl. K.H. Hasyim  RT.1/RW.1  Kembangan Utara  Kec. Kembangan  Kota Jakarta Barat  Daerah Khusus Ibukota Jakarta 11610;;Dinas SDA DKI Jakarta;BMKG-Campbell
+150347;ARG BPP Kwandang;Gorontalo;Kab. Gorontalo Utara;Kwandang;Titidu;0.828205;122.919503;12;operasional;82192617536;9/13/2017;Jl. Trans Sulawesi;FTP;BPP Kwandang;MMI-LSI
+150348;ARG BPP Tolangohula;Gorontalo;Kab. Gorontalo;Tolangohula;Sukamakmur;0.70253;122.559914;29;operasional;85394296431;9/15/2017;Jl. Raya Talanghula;FTP;BPP Tolangohula;MMI-LSI
+STA0113;ARG Sumalata;Gorontalo;Kab. Gorontalo Utara;Biau;Buloila;0.991668;122.22077;7;operasional;85240323976;9/13/2008;-;FTP;BP3K Biau;BMKG-MSP
+STA0135;ARG Bone Bolango;Gorontalo;Kab. Bone Balango;Suwawa Timur;Tulabola Timur;0.5131;123.24;70;operasional;82195312976;9/13/2011;Desa Tulabola Timur Kecamatan Suwawa Timur;HTTP GET;BPP Suwawa Timur;BMKG-MSP
+STA0182;ARG Bulango Ulu;Gorontalo;Kab. Bone Balango;Bulango Ulu;Mongiilo;0.6603374;123.13338;103;operasional;85267862812;03/01/2017;;FTP;BPP Bolango Ulu;BMKG-MSP
+STA0221;ARG Sumalata Timur;Gorontalo;Kab. Gorontalo Utara;Sumalata Timur;Motihelumo;0.954778;122.562976;2;operasional;82346854040;8/25/2020;Komplex Block Plan Kwandang;HTTP GET;BPP Sumalata;
+STA0222;ARG Dulupi;Gorontalo;Kab. Boalemo;Dulupi;Mohungo;0.578597904;122.4316559;88;operasional;82293989439;8/25/2020;Jl. Trans Sulawesi Pangi Boalemo;HTTP GET;Dinas Pertanian Gorontalo Utara;
+STA0266;ARG Gentuma Raya;Gorontalo;Kab. Gorontalo Utara;Gentuma Raya;Bohusami;0.9241057;123.0321265;39;operasional;83133783806;3/25/2021;;;BPP Gentuma Raya;
+STAL251;ARG Bone Pantai;Gorontalo;Kab. Bone Balango;Bonepantai;Tunas Jaya;0.39733;123.20953;30;operasional;82344810507;11/18/2018;;FTP;BPP Bone Pantai;
+STAL252;ARG Popayato;Gorontalo;Kab. Pahuwato;Popayato;Desa Popayato;0.50763;121.47099;14;operasional;81244400032;11/24/2018;BPP Popayato;FTP;BPP Popayato Barat;
+150001;ARG Tebo Ulu;Jambi;Kab. Tebo;Tebo Ulu;Pulau Temiang;-1.2394;102.2383;-;operasional;85266004338;6/17/2015;Pulau Temiang  Tebo Ulu  Tebo;FTP;BMKG;BMKG-LSI
+150002;ARG Sungai Manau;Jambi;Kab. Merangin;Sungai Manau;Benteng;-2.1162;102.0096;-;operasional;82249281110;6/16/2015;Kantor UPTD Dinas Pertanian Sungai Manau;FTP;BMKG;BMKG-LSI
+150003;ARG Muara Bulian;Jambi;Kab. Batanghari;Muara Bulian;Muara Bulian;-1.714715;103.2642;0;operasional;85266522052;6/15/2015;Jl. Jendral Sudirman  Muara Bulian;FTP;BMKG;BMKG-LSI
+150004;ARG Pamenang Barat;Jambi;Kab. Merangin;Pemenang Barat;Pinang Merah;-2.12231;102.4129;0;operasional;81379658348;6/16/2015;Kantor BP3K Pemenang Barat;FTP;BMKG;BMKG-LSI
+150005;ARG Sumay;Jambi;Kab. Tebo;Sumay;Teluk Singkawang;-1.378143;102.4184;0;operasional;82289547611;6/14/2015;BPP Kecamatan Sumay Kabupaten Tebo;FTP;BMKG;BMKG-LSI
+150161;ARG Singkut;Jambi;Kab. Sarolangun;Singkut;Pasar Singkut;-2.514652;102.668109;0;operasional;82281161174;7/29/2016;Jl Budi Utomo KM 5;FTP;BMKG;MMI-LSI
+150162;ARG Pengabuan;Jambi;Kab. Tanjung Jabung Barat;Pengabuan;Teluk Nilau;-0.839798;103.208483;0;operasional;85368308618;7/27/2016;Jl Sultan Thaha;HTTP GET;BMKG;MMI-LSI
+150163;ARG Rantau Rasau;Jambi;Kab. Tanjung Jabung Timur;Rantau Rasau;Bandar Jaya;-1.21168;104.068794;0;operasional;82177168844;7/26/2016;Jl Sungai Puding;FTP;BMKG;MMI-LSI
+150164;ARG Tanah Sepenggal;Jambi;Kab. Bungo;Tanah Sepenggal;Teluk Pondok;-1.428512;102.028278;;operasional;85366553558;7/28/2016;Jl Tanah Tumbuh Km16;HTTP GET;BP3K Tanah Sepenggal;MMI-LSI
+150165;ARG Sekernan;Jambi;Kab. Muaro Jambi;Sekernang;Bukit Baling;-1.449861;103.5198;-;operasional;85267464478;7/29/2016;Komp. perkantoran bukit cintokenang;FTP;BMKG;MMI-LSI
+150270;ARG Kumun Debai;Jambi;Kota Sungai Penuh;Kumun Debai;Kumun Mudik;-2.0926423;101.4140587;0;operasional;85266238177;8/17/2020;;HTTP GET;BMKG;MMI-LSI
+150271;ARG Jujuhan Ilir;Jambi;Kab. Bungo;Jujuhan Ilir;Bukit Sari ;-1.160127;101.888313;0;operasional;81366603708;9/21/2017;Jl. Lintas Tengah Sumatera;FTP;BMKG;MMI-LSI
+150272;ARG Pelepat ilir;Jambi;Kab. Bungo;Pelepat Ilir;Purwosari;-1.629312;102.348282;0;operasional;82375586035;9/21/2017;Jl. Asahan desa Purwosari;FTP;BMKG;MMI-LSI
+150273;ARG Batang Asam;Jambi;Kab. Tanjung Jabung Barat;Batang Asam;Sri Agung;-1.045142;102.927772;;operasional;85268759139;9/24/2017;;FTP;BP3K Kec. Batang Hari;MMI-LSI
+150293;ARG Kumpeh Ulu;Jambi;Kab. Muaro Jambi;Kumpeh Ulu;Arang Arang;-1.596262;103.796127;0;operasional;82380945150;9/25/2017;Jl. Suak Kandis km 35;FTP;BMKG;MMI-LSI
+STA0086;ARG Pauh Sarolangun (Ex ARG Staklim Muaro Jambi);Jambi;Kab. Sarolangun;Pauh;Pauh;-2.1392;102.8159;43;operasional;85377225992;09/11/2017;Jl. Lintas Sarolangun-Tembesi KM.24;HTTP GET;BMKG;BMKG-MSP
+STA0087;ARG Merlung (Ex ARG Sarolangun);Jambi;Kab. Tanjung Jabung Barat;Merlung; Tanjung Beranak;-1.3824;102.977;-;operasional;82280617237;9/13/2016;PT. WKS Distrik IV;HTTP GET;BMKG;BMKG-MSP
+STA0088;ARG Tanjung Jabung Barat;Jambi;Kab. Tanjung Jabung Barat;Tungkal Ulu;;-0.8418889;103.4266;4;operasional;85266655280;9/13/2016;;HTTP GET;BMKG;BMKG-MSP
+STA0089;ARG Nipah Panjang;Jambi;Kab. Tanjung Jabung Timur;Nipah Panjang;;-1.076111;104.171944;22;operasional;82374613822;6/15/2021;Nipah Panjang.;HTTP GET;BMKG;BMKG-MSP
+STA0160;ARG Depati Parbo;Jambi;Kab. Kerinci;Sitinjau Laut;Hiang kota baru;-2.091278;101.4619;0;operasional;82280238933;9/13/2016;Kerinci;FTP;BMKG;BMKG-MSP
+STA0164;ARG PTPN VI Muaro Jambi;Jambi;Kab. Muaro Jambi;Bahar Utara;Markanding;-1.88541;103.4;28.5;operasional;81366057083;9/13/2016;Muaro Jambi;FTP;BMKG;BMKG-LSI
+STA0165;ARG Muara Bungo;Jambi;Kab. Bungo;Seibuluh;Bandara Muara bungo;-1.54344;102.1786;0;operasional;85731212322;9/13/2016;-;FTP;BMKG;BMKG-LSI
+STA0166;ARG BPPT Muara Sabak;Jambi;Kab. Tanjung Jabung Timur;Muara Sabak Barat;Rano;-1.179694;103.7654;39;operasional;85266901612;9/13/2016;Muara sabak barat.;FTP;BMKG;BMKG-LSI
+STA0255;ARG Tabir Lintas;Jambi;Kab. Merangin;Tabir Lintas;Mensango;-1.910869;102.30486;0;operasional;83825396720;12/17/2020;;HTTP GET;BMKG;
+STAL051;ARG Tanah Sepengal Lintas;Jambi;Kab. Bungo;Tasep Lintas;Desa Sungai Lilin;-1.3914;101.9513;61;operasional;81278107746;11/22/2018;BPP Tasep Lintas;FTP;BMKG;
+STAL052;ARG Tanah Tumbuh;Jambi;Kab. Bungo;Tanah Tumbuh;Desa Bukit Kemang;-1.439821;101.872335;17;operasional;81259480389;11/23/2018;BPP Tanah Tumbuh;HTTP GET;BMKG;
+14032800;ARG Gegesik;Jawa Barat;Kab. Cirebon;Gegesik;Gegesik Kidul;-6.60138;108.41591;6;operasional;85224357065;10/30/2014;jl.KI Gesang No.61;FTP;UPT PSDA KUMPULKWISTA;BMKG-LSI
+14032801;ARG Cidaun;Jawa Barat;Kab. Cianjur;Cidaun;Cidamar;-7.49112;107.36078;22;operasional;8723267960;11/11/2014;Jl. Raya Cidaun  Kp. Babakan Garut RT.02/RW.07;FTP;PSDA Wilayah VII Cidaun;BMKG-LSI
+14032802;ARG Cariu;Jawa Barat;Kab. Bogor;Cariu;Cariu;-6.49821;107.12513;80;operasional;85779822087;11/03/2014;Jl. Raya Jonggol - Cariu;FTP;UPT Pertanian XII Cariu;BMKG-LSI
+150066;ARG Sukaraja;Jawa Barat;Kab. Sukabumi;Sukaraja;Pasir Heulang;-6.921103;106.9811;652;operasional;857597758;08/11/2015;Jl.Tugu KM.2 KP Pangkalan Sukaraja;FTP;PT. SAPA Biotek Agrinusa;BMKG-LSI
+150067;ARG Sukanegara;Jawa Barat;Kab. Cianjur;Sukanegara;Ciguha;-7.104323;107.0618;964;operasional;82317048089;08/12/2015;Jl. H. Hasan No. 1 Kp. Sukajadi RT.02/RW.03;FTP;PT. LAMTEH PERKEBUNAN CIWANGI;BMKG-LSI
+150068;ARG Cikalong Kulon;Jawa Barat;Kab. Cianjur;Cikalong Kulon;Gudang;-6.71335;107.21174;286;operasional;8176761877;08/12/2015;Jl. Meleber KM2 Cikalong Kulon;FTP;BPP Cikalong Kulon;BMKG-LSI
+150070;ARG Cibiuk;Jawa Barat;Kab. Garut;Cibiuk ;Cibiuk kaler;-7.06965;107.96429;591;operasional;85321740020;03/05/2019;Jl. Raya Leles No. 27;FTP;BPP Cibiuk;BMKG-LSI
+150071;ARG Salopa;Jawa Barat;Kab. Tasikmalaya;Salopa;Karyamandala;-7.53416;108.27877;293;operasional;81222318555;08/12/2015;Jl. Raya Cikatomas No. 25;FTP;Perkebunan Karet PT. NARIEWATTIE;BMKG-LSI
+150072;ARG Kawali;Jawa Barat;Kab. Ciamis;Kawali;Karang Pawitan;-7.18908;108.3747;390;operasional;85222890592;8/13/2015;JL Nangela;FTP;BP3K Kawali;BMKG-LSI
+150073;ARG Rengasdengklok;Jawa Barat;Kab. Karawang;Rengasdengklok;Rengas Dengklok Utara;-6.14625;107.3025333;7;operasional;85881361810;8/27/2015;JL Raya Medangasem;FTP;BPP Rengasdengklok;BMKG-LSI
+150074;ARG Subang;Jawa Barat;Kab. Subang;Subang;Dangder;-6.55248;107.75367;89;operasional;81298775449;8/27/2015;JL Arief Rahman Hakim No 16;FTP;DIV Pengelolaan Air  III PJT III;BMKG-LSI
+150075;ARG Sukahaji;Jawa Barat;Kab. Majalengka;Sukahaji;Cikalong;-6.82484;108.28847;206;operasional;85324722362;8/27/2015;JL Raya Maja Sukahaji.;FTP;BPP Sukahaji;BMKG-LSI
+150294;ARG Cikasungka;Jawa Barat;Kab. Bogor;Cigudeg;Cigudeg;-6.552729;106.538597;368;operasional;81317725910;8/15/2017;Jl. Raya Cigudeg - Lewiliang;FTP;PTPN VII Cikasungka;MMI-LSI
+150295;ARG Purwakarta;Jawa Barat;Kab. Purwakarta;Purwakarta;Ciseureuh;-6.52493;107.44752;88;operasional;81294768293;8/16/2017;Jl. Veteran no 175;HTTP GET;Perum Jasa Tirta II;MMI-LSI
+150296;ARG Pusaka Negara;Jawa Barat;Kab. Subang;Pusaka Negara;Pusaka Negara;-6.280766;107.868963;7;operasional;82320327580;8/17/2017;;FTP;BB Padi;MMI-LSI
+150297;ARG Setu Patok;Jawa Barat;Kab. Cirebon;Mundu;Setu Patok;-6.786663;108.572838;31;operasional;8996368625;8/19/2017;Jl. Setu Patok No. 17 Kec. Mundu Kab. Cirebon;FTP;PUPR  Kantor Jaga Pengelola Waduk Situ Patok;MMI-LSI
+150298;ARG Ciberes;Jawa Barat;Kab. Cirebon;Karang Waren;Seuseupan;-6.89001;108.61966;33;operasional;83138258197;8/18/2017;Jl. Raya Karangwangi No 2003;FTP;UPT Pendayagunaan Sumber Daya Air;MMI-LSI
+150299;ARG Kiarasari;Jawa Barat;Kab. Subang;Compreng;Kiarasari;-6.42069;107.89283;18;operasional;81331303316;8/17/2017;Kp. Pulosari;FTP;Kantor Supervisor IV STT;MMI-LSI
+150300;ARG Cisompet;Jawa Barat;Kab. Garut;Cisompet;Cisompet;-7.54493;107.81774;482;operasional;81313901110;8/20/2017;Jl. Raya Cikajang Pamenungpeuk Cisompet;FTP;PTPN VII Kebun Cisompet;MMI-LSI
+30002;PH Digital Tempuran;Jawa Barat;Kab. Karawang;Tempuran;Pancakarya;-6.18211;107.43977;4;operasional;81514505466;02/06/2020;Kantor Camat Tempuran;HTTP GET;Kantor Camat Tempuran;
+30004;PH Digital Sukatani;Jawa Barat;Kab. Bekasi;Sukatani;Sukadarma;-6.17247;107.18012;9;operasional;87779989817;02/05/2020;Perum Jasa Tirta II Unit Usaha Wilayah I Seksi Bekasi Sub Seksi Sukatani;HTTP GET;Perum Jasa Tirta II Sub Seksi Sukatani;
+30005;PH Digital Bekasi Timur;Jawa Barat;Kota Bekasi;Bekasi Timur;Margahayu;-6.24974;106.99718;18;operasional;82231785682;02/12/2020;Perum Jasa Tirta II Unit Usaha Wilayah I  Seksi STB  Bendung Bekasi;HTTP GET;Perum Jasa Tirta II  Bendung Bekasi;
+30006;PH Digital Muara Gembong;Jawa Barat;Kab. Bekasi;Muara Gembong;Pantai Mekar;-5.984693;107.042771;2;operasional;81510964442;2/13/2020;Kantor Kecamatan Muara Gembong;HTTP GET;Kantor Kecamatan Muara Gembong;
+30007;PH Digital Cibuaya;Jawa Barat;Kab. Karawang;Cibuaya;Pajaten;-6.04209;107.34739;4;operasional;85883489600;2/14/2020;Kantor Camat Cibuaya;HTTP GET;Kantor Camat Cibuaya;
+30014;PJT II Jatiasih (PH);Jawa Barat;Kota Bekasi;Jatiasih;Jatirasa;-6.30567;106.96229;30;operasional;81517967923;10/24/2019;Jl. Kutilang Rt. 001 / 01 No. 72;FTP;PJT II Jatiasih;
+30015;PJT II Tapak (PH)Serang;Jawa Barat;Kab. Bekasi;Cabangbungin;desa Lenggah Jasa;-6.072986;107.143099;6;operasional;81395634259;10/24/2019;Kp. Tapak Serang;FTP;Perum Jasa Tirta II;
+30016;PJT II Gabus (PH);Jawa Barat;Kab. Bekasi;Tambun Utara;Desa Sriamur;-6.16733;107.04884;2;operasional;89525264055;10/24/2019;Kp. Turi Rt. 003 / 006 No. 62;FTP;PJT II;
+30017;PJT II Muara (PH);Jawa Barat;Kab. Bekasi;Suka Wangi;Suka Mekar;-6.12492;107.06328;4;operasional;85882682606;10/24/2019;Jl. Raya Pasar Muara Rt. 01/13;FTP;PJT II Muara;
+30018;PJT II Setu (PH);Jawa Barat;Kab. Bekasi;Setu;Cileduk;-6.3397;107.03978;41;operasional;89601202989;10/24/2019;Jl. MT. Haryono  Cileduk Jawa Barat 17320;FTP;PJT II SETU Bekasi;
+30019;PJT II Cibitung (PH);Jawa Barat;Kab. Bekasi;Cibitung;Wanasari;-6.22782;107.09377;11;operasional;85890702159;10/24/2019;Jl. Bosih No. 3 Wanasari  Cibitung;FTP;PJT II Cibitung;
+STA0032;ARG Karawang;Jawa Barat;Kab. Karawang;Tegal Waru;Cintalaksana;-6.51312;107.22747;103;operasional;85695017515;9/13/2016;-;FTP;Kantor Kec.Tegalwaru;BMKG-MSP
+STA0037;ARG Katulampa;Jawa Barat;Kota Bogor;Bogor Timur;Katulampa;-6.63306;106.83682;338;operasional;81315862047;9/13/2016;Pos Bendungan Katulampa  Jl. Katulampa No. 50;HTTP GET;UPTD PSDA CilCis;BMKG-MSP
+STA0038;ARG Jampang Kulon;Jawa Barat;Kab. Sukabumi;Jampang Kulon;Jampang Kulon;-7.25618;106.62553;321;operasional;85659797522;9/13/2016;Jl. Gemarasa No. 03;FTP;BPP Jampang Kulon;BMKG-MSP
+STA0039;ARG Agrabinta;Jawa Barat;Kab. Cianjur;Sindangbarang;Jatisari;-7.40825;106.99152;84;operasional;81573522472;9/13/2016;Kp. Agrabinta RT.004 RW.004;FTP;PTPN VIII Kebun Agrabinta;BMKG-MSP
+STA0040;ARG Pasir Malang;Jawa Barat;Kota Bandung;Pangalengan;Margaluyu;-7.222;107.54124;1477;operasional;85321898125;9/13/2016;Kp. Pasir Malang RT.01/04;HTTP GET;PTPN VIII Pasir Malang;BMKG-MSP
+STA0041;ARG Cibeber;Jawa Barat;Kab. Cianjur;Cibeber;Cipetir;-6.930817;107.1215;469;operasional;83120438777;9/13/2016;Jl. Raya Bandung No. 204 Ciranjang ;FTP;BPP Cibeber;BMKG-MSP
+STA0051;ARG Bekasi;Jawa Barat;Kab. Bekasi;Cikarang Pusat;Sukamahi;-6.37;107.18103;52;operasional;8128409833;9/13/2016;Komplek Pemkab Bekasi  Deltamas;FTP;BPP Cikarang Pusat;BMKG-MSP
+STA0143;ARG Karang Nunggal;Jawa Barat;Kab. Tasikmalaya;Karang Nunggal;Cipari;-7.63149;108.11276;247;operasional;85156934024;9/13/2016;Jl. Syekh Abdul Muhyi;HTTP GET;BPP Karang Nunggal;BMKG-MSP
+STA0144;ARG Kertajati;Jawa Barat;Kab. Majalengka;Kertajati;;-6.69325;108.18428;27;operasional;82117992218;9/13/2016;-;HTTP GET;BPP Kertajati;BMKG-MSP
+STA0145;ARG Ciwidey;Jawa Barat;Kota Bandung;Ciwidey;Lebak Muncang;-7.09838;107.43417;1257;operasional;85321667852;9/13/2016;Jl. Raya Lebak Muncang Ciwidey Telp. 022-85921556;FTP;UPT BPP Ciwidey;BMKG-MSP
+STA0236;ARG Rekayasa Cianten;Jawa Barat;Kab. Bogor;Leuwiliang;;-6.72252;106.60391;941;operasional;85772675707;12/03/2020;;HTTP GET;PTPN VIII Perkebunan Teh Cianten;
+STA0237;ARG Rekayasa Tenjolaya;Jawa Barat;Kab. Bogor;Tenjolaya;;-6.64443;106.69378;527;operasional;85708573544;12/03/2020;;HTTP GET;Kantor Kecamatan Tenjolaya;
+STA0238;ARG Rekayasa Caringin;Jawa Barat;Kab. Bogor;Caringin;;-6.73858;106.83864;504;operasional;85659453601;12/03/2020;;HTTP GET;DAS Cisadane;
+STA0239;ARG  Rekayasa Cibinong;Jawa Barat;Kab. Bogor;Cibinong;Pondok Rajeg;-6.48438;106.83848;123;operasional;8159332773;12/23/2020;JL.TPA Pondok Rajeg Gg Muhari (Jl. H Naing) RT 03/02 No.40;HTTP GET;;
+STA0240;ARG Rekayasa Pacet;Jawa Barat;Kab. Cianjur;Pacet;;-6.751677;107.045836;1129;operasional;85860857571;12/03/2020;;HTTP GET;Kebun Percobaan Pacet BB Biogen;
+STA0241;ARG Rekayasa Tanjungsari;Jawa Barat;Kab. Bogor;Tanjungsari;;-6.5782875;107.1397344;99;operasional;81384314829;12/03/2020;;HTTP GET;Balai Benih Tanjungrasa;
+STA0251;ARG  Rekayasa Bendungan Ciawi;Jawa Barat;Kab. Bogor;Megamendung;Cipayung datar;-6.65493;106.88076;572;operasional;81282833199;11/18/2020;Megamendung  Cipayung datar  Megamendung  Bogor  Jawabarat  16770;HTTP GET;Bendungan Ciawi;
+STA0252;ARG Rekayasa Cilember;Jawa Barat;Kab. Bogor;Cilember;;-6.6605;106.94545;872;operasional;85814838782;12/03/2020;;HTTP GET;DAS Bedadung Kali Putih;
+STA0253;ARG Rekayasa Telaga Saat;Jawa Barat;Kab. Bogor;Cisarua;Tugu utara;-6.68664;106.99525;1430;operasional;89695710724;11/17/2020;Tugu utara  kec.Cisarua  Bogor Jawa Barat;HTTP GET;Telaga Saat Puncak;
+STA0254;ARG Rekayasa Sukajaya;Jawa Barat;Kab. Bogor;Sukajaya;Kiarapandak;-6.62387;106.49531;626;operasional;85715567779;11/16/2020;Jl. Kiarapandak;HTTP GET;Kantor desa Kiarapandak;BMKG-Rekayasa
+STA0263;ARG Sidamulih;Jawa Barat;Kab. Pangandaran;Sidamulih;Sidamulih;-7.6424;108.60611;22;operasional;82217570898;8/20/2021;Jl. Raya Sidamulih - Cikalong No. 80;;BPP Sidamulih;
+STA3210;ARG SMPK Tasikmalaya;Jawa Barat;Kota Tasikmalaya;Cihideung;Cilembang;-7.33082;108.20313;369;operasional;85776467585;09/10/2016;Jalan Pertanian;HTTP GET;Satuan Pelayanan BPTPH Wilayah V;BMKG-LSI
+STA3254;ARG Cimahi;Jawa Barat;Kota Cimahi;Cimahi Utara;Hegarmanah;-6.86876;107.5557;783;operasional;8.81024E+11;09/10/2016;Jl. DR. Mangku;FTP;Dinas Pangan dan Pertanian Kota Cimahi;BMKG-LSI
+STA9004;ARWS Rekayasa Cibeureum;Jawa Barat;Kab. Bogor;Cisarua;;-6.71072;106.95022;1161;operasional;;02/01/2015;Pos Iklim cibereum;HTTP GET;Pos Iklim Cibereum (Stamet Citeko);BMKG-Rekayasa
+STA9008;ARG Rekayasa Pintu Air Cibongas;Jawa Barat;Kab. Bogor;Babakan Madang;Babakan Madang;-6.55687;106.86832;182;operasional;87870925237;08/10/2017;;HTTP GET;Bendungan Cibongas;BMKG-Rekayasa
+STA9009;ARG Rekayasa Citeko;Jawa Barat;Kab. Bogor;Cisarua;Citeko;-6.69814;106.93503;979;operasional;85764655554;08/10/2017;;HTTP GET;Stasiun Meteorologi Citeko;BMKG-Rekayasa
+STA9010;ARG Rekayasa Cisadane;Jawa Barat;Kota Bogor;Bogor Selatan;Empang;-6.60785;106.79298;238;operasional;85813104176;08/10/2017;Jl. Pulo Empang RT.05/RW.01;HTTP GET;Kantor Pengamat PSDA Ciliwung Cisadane;BMKG-Rekayasa
+STA9011;ARG Rekayasa Bendungan Cipamingkis;Jawa Barat;Kab. Bogor;Jonggol;Jatinunggal;-6.50457;107.06525;137;operasional;;08/10/2017;Jalan Inspeksi Pintu air Cipamingkis ;HTTP GET;Pintu Air Cipamingkis;BMKG-Rekayasa
+STAL131;ARG Kebun Raya Bogor;Jawa Barat;Kota Bogor;Bogor Tengah;Paledang;-6.60036;106.7962;263;operasional;85693934869;11/27/2018;Jl. Ir. Haji Juanda No 13;FTP;Pusat Konservasi Tumbuhan Kebun Raya LIPI Bogor;
+STAL132;ARG Pabrik Gula Subang;Jawa Barat;Kab. Subang;Purwadadi;Ps. Muncang;-6.41892;107.69408;31;operasional;81314735294;12/03/2018;Jl. Raya Pasir Bungur No.1;HTTP GET;Pabrik Gula Rajawali 2;
+STG1007;ARG Sumedang Selatan;Jawa Barat;Kab. Sumedang;Sumedang Selatan;Citengah;-6.928741;107.97398;1125;operasional;82118436401;10/14/2022;;;BMKG;BMKG-Campbell
+STG1029;ARG Jatibarang;Jawa Barat;Kab. Indramayu;Jatibarang;Pilangsari;-6.4894305;108.3093485;32;operasional;89626824274;07/09/2024;Jl. Nasional 1 pilangsari  jatibarang  indramayu;;Kantor Kepengamatan PSDA Jatibarang;BMKG-Campbell
+STG1030;ARG Salawu;Jawa Barat;Kab. Tasikmalaya;Salawu;Neglasari;-7.368527;108.00318;673;operasional;85245682024;07/09/2024;Kp. Pasir kincir Rt. 027  Rw. 005;;UPTD BPP Kec. Salawu;BMKG-Campbell
+STG1031;ARG Cimerak;Jawa Barat;Kab. Pangandaran;Cimerak;Legok Jawa;-7.81629;108.41053;19;operasional;85280505017;07/09/2024;Jl. Raya Ciparanti Dsn. Cikuya;;BPP Kec. Cimerak;BMKG-Campbell
+STG1032;ARG Sagaranten;Jawa Barat;Kab. Sukabumi;Sagaranten;Datarnangka;-7.1978312;106.8510983;394;operasional;85723986005;07/09/2024;Sunda Wapan Sagaranten;;UPTD PSDA Sukabumi;BMKG-Campbell
+14032803;ARG Prembun;Jawa Tengah;Kab. Kebumen;Prembun;Tersobo;-7.719429;109.784;0;operasional;8156880177;11/11/2014;Desa Tersobo;FTP;BBPT Sri Madono;BMKG-LSI
+14032804;ARG Majenang;Jawa Tengah;Kab. Cilacap;Majenang;Jenang;-7.295827;108.75078;5;operasional;83844082439;11/11/2014;jl.Margasari no.10;FTP;BP2KP Majenang;BMKG-LSI
+14032805;ARG Kradenan;Jawa Tengah;Kab. Grobogan;Kradenan;Pakis;-7.175692;111.117158;0;operasional;85287394124;11/11/2014;Purwodadi;FTP;DPU Pengairan;BMKG-LSI
+150076;ARG Colo;Jawa Tengah;Kab. Kudus;Dawe;Colo;-6.66625;110.9047;0;operasional;85289405038;8/25/2015;JL Kudus Colo KM.18;FTP;Dinas Pertanian;BMKG-LSI
+150077;ARG Singorojo;Jawa Tengah;Kab. Kendal;Singoraja;Trayu;-7.069769;110.2566;0;operasional;81325290342;9/13/2016;JL Boja Kaliwungu KM.5;FTP;PT Perkebunan Nusantara 9;BMKG-LSI
+150078;ARG Pakisdadu;Jawa Tengah;Kab. Temanggung;Pringsurat;Rejosari;-7.354669;110.2957;620;operasional;88233963968;8/25/2015;JL Raya Magelang-Semarang KM.17;FTP;PSDA Temanggung;BMKG-LSI
+150079;ARG Nguter;Jawa Tengah;Kab. Sukoharjo;Nguter;Daleman;-7.72634;110.8673;0;operasional;8988705186;09/09/2015;JL Raya Solo-Wonogiri;FTP;BPP Pertanian Nguter;BMKG-LSI
+150080;ARG Getas;Jawa Tengah;Kab. Semarang;Pabelan;Kauman Lor;-7.268272;110.5165;0;operasional;85640990983;8/26/2015;JL Pattimura KM.6;FTP;Balai Penelitian Getas;BMKG-LSI
+150081;ARG Masaran;Jawa Tengah;Kab. Sragen;Masaran;Masaran;-7.468426;110.9356;0;operasional;816281849;8/26/2015;JL Sragen Solo KM.11;FTP;UPTD Pengairan;BMKG-LSI
+150082;ARG Pracimantoro;Jawa Tengah;Kab. Wonogiri;Pracimantoro;Mintoharjo;-8.031652;110.8203;0;operasional;85228028461;8/26/2015;JL.Raya Pracimantoro -Wonogiri Km 3;FTP;BPP Pracimantoro;BMKG-LSI
+150083;ARG Karangsembung;Jawa Tengah;Kab. Brebes;Songgom;Karang Sembung;-6.988738;109.025557;0;operasional;85647005287;8/28/2015;JL Raya Songgom;FTP;Dinas PU Pengairan;BMKG-LSI
+150084;ARG Losari;Jawa Tengah;Kab. Brebes;Losari;Losari Lor;-6.847729;108.815435;0;operasional;87821225352;8/26/2015;JL Pulau Sarean.;FTP;Dinas PU Kemantren Losari (Pengairan);BMKG-LSI
+150085;ARG Kertek;Jawa Tengah;Kab. Wonosobo;Keretek;Telogo Mulyo;-7.348869;109.9724;0;operasional;85328247490;8/25/2015;JL Jogonegoro 39 Wonosobo.;FTP;PT Tambi;BMKG-LSI
+150301;ARG Karang Kemiri;Jawa Tengah;Kab. Purbalingga;Kemangkon;Karang Kemiri;-7.46123;109.38123;606;operasional;85287206532;8/30/2017;;FTP;UPTD Balai Benih Mewek;MMI-LSI
+150302;ARG Malahayu;Jawa Tengah;Kab. Brebes;Banjarharjo;Malahayu;-7.02927;108.82082;;operasional;87730681687;8/29/2017;Waduk Malahayu;FTP;BBWS Cimanuk-Cisanggarung;MMI-LSI
+150303;ARG Karanganyar Demak;Jawa Tengah;Kab. Demak;Karang Anyar;Karang Anyar;-6.840852;110.810793;;operasional;85740852479;8/26/2017;Jl. Karang Anyar-Welahan;FTP;BPSDA Wulan;MMI-LSI
+150304;ARG Cabak;Jawa Tengah;Kab. Blora;Jiken;Cabak;-7.0233318;111.52005;;operasional;85225665586;8/25/2017;Ds. Cabak kec. Jiken Blora;FTP;BKPH Cabak;MMI-LSI
+150305;ARG Kandang Serang;Jawa Tengah;Kab. Pekalongan;Kandang serang;Kandang Serang;-7.118652;109.518767;;operasional;8569554210;8/28/2017;Jl. Kajen -  Kandang Serang;FTP;Balai Penyuluhan;MMI-LSI
+STA0043;ARG Toroh;Jawa Tengah;Kab. Grobogan;Toroh;Sugihan;-7.12489;110.9103;0;operasional;85229482191;9/13/2016;JL Purwodadi solo;FTP;BPP Toroh;BMKG-MSP
+STA0044;ARG Kedungombo;Jawa Tengah;Kab. Grobogan;Ngadi ngeyer;Kedungombo / Rambat;-7.2527;110.8371;0;operasional;85327068828;9/13/2016;JL Brigjend Sudiarto 375;FTP;BBWS Pemali Juana;BMKG-MSP
+STA0045;ARG Karimun Jawa;Jawa Tengah;Kab. Jepara;Karimun jawa;Gladagsari;-5.8767;110.4358;12;operasional;8.12229E+11;12/04/2021;Kantor BP3K Kec. Ampel Jl. Raya Ample Gladagsari Ampel;HTTP GET;Dinas Ketahanan Pangan dan Pertanian Kab Jepara;BMKG-MSP
+STA0046;ARG Simo;Jawa Tengah;Kab. Boyolali;Simo;Pelem;-7.4444;110.6778;0;operasional;85647148516;9/13/2016;Kantor BPP Simo Jl. Singprono Raya Simo - Boyolali;HTTP GET;BPP Simo;BMKG-MSP
+STA0047;ARG Karanggede;Jawa Tengah;Kab. Boyolali;Karanggede;Sranten;-7.36273;110.6487;0;operasional;85291074015;9/13/2016;Jl. Raya Karang Gede - Gemolong Km.1 Karanggede;HTTP GET;BPP Karanggede;BMKG-MSP
+STA0048;ARG Serayu;Jawa Tengah;Kab. Wonosobo;Jajar;Kreo;-7.268377;109.94301;600;operasional;85692012739;9/13/2016;-;HTTP GET;INDONESIA POWER;BMKG-MSP
+STA0049;ARG Sigaluh;Jawa Tengah;Kab. Banjarnegara;Sigaluh;Gembongan;-7.396349;109.766;0;operasional;85291310188;9/13/2016;BPP (Kantor Kec. Sigaluh Banjarnegara);HTTP GET;BPP (Kantor Kec. Sigaluh Banjarnegara);BMKG-MSP
+STA0050;ARG Tulis;Jawa Tengah;Kab. Banjarnegara;Pagentan;Soekaraja;-7.325425;109.7976;0;operasional;85692012739;9/13/2016;Jl. Raya Banyumas-Banjarnegara Km. 8 Banjarnegara;FTP;INDONESIA PWR;BMKG-MSP
+STA0052;ARG Wanayasa;Jawa Tengah;Kab. Banjarnegara;Wanayasa;Wanayasa;-7.241598;109.7515;0;operasional;85226689000;9/13/2016;Jl. Raya Wanayasa  Banjarnegara;FTP;RPH Wanayasa;BMKG-MSP
+STA0053;ARG Stageof Banjarnegara;Jawa Tengah;Kab. Banjarnegara;Banjarmangu;Banjarmangu;-7.333353;109.7099;0;operasional;81225146915;9/13/2016;Jl. Raya Banjarmangu KM. 12  Desa Kalilunjar  Kalilunjar  Banjarnegara  Dusun I  Kalilunjar  Banjarmangu  Banjarnegara  Jawa Tengah 53452;HTTP GET;BMKG Banjarmangu;BMKG-MSP
+STA0054;ARG Banyumas;Jawa Tengah;Kab. Banyumas;Kembaran;Bojongsari;-7.423486;109.28;0;operasional;81327220379;9/13/2016;BBP Bojongsari Kec. Kembaran. Banyumas;FTP;BPP Banyumas;BMKG-MSP
+STA0055;ARG Kebumen (Waduk Sempor);Jawa Tengah;Kab. Kebumen;Sempor;Tanjung Seto;-7.56642;109.48326;0;operasional;83808007873;9/13/2016;Waduk Sempor Kebumen  Jawa Tengah;HTTP GET;PUPR;BMKG-MSP
+STA0056;ARG Waduk Mrica;Jawa Tengah;Kab. Banjarnegara;Mrica;Mrica;-7.39719;109.6072;0;operasional;85692012739;9/13/2016;Jl. Raya Banyumas-Banjarnegara Km. 8 Banjarnegara;HTTP GET;Waduk Mrica Indonesia Power;BMKG-MSP
+STA0057;ARG Kledung Temanggung;Jawa Tengah;Kab. Temanggung;Kledung;;-7.339445;110.0335;234;operasional;85601621380;9/13/2016;-;HTTP GET;BMKG;BMKG-MSP
+STA0058;ARG Rembang-Pamotan;Jawa Tengah;Kab. Rembang;Pamotan;Pamotan;-6.76147;111.4757;35;operasional;81326608430;9/13/2016;JL Raya Rembang Pamotan KM.12;HTTP GET;BPP Pamotan;BMKG-Casella
+STA0059;ARG Randublatung;Jawa Tengah;Kab. Blora;Randu Belatung;Kediren;-7.19387;111.4147;70;operasional;85641194212;9/13/2016;Balai Pertanian Kec.Randu Blatung;HTTP GET;BPP Randubelatung;BMKG-MSP
+STA0073;ARG Pulosari;Jawa Tengah;Kab. Pemalang;Pulosari;Pulosari;-7.17015;109.2653;923;operasional;85227208593;9/13/2016;JL Raya Pulosari No 93A;HTTP GET;Kantor Kec.Pulosari;BMKG-MSP
+STA0170;ARG Palur Mojolaban;Jawa Tengah;Kab. Sukoharjo;Mojolaban;Palur;-7.579864;110.8723;0;operasional;85700036062;9/13/2016;Palur mojolaban sukoharjo;HTTP GET;Lab php Palur;BMKG-Casella
+STA0175;ARG Batang;Jawa Tengah;Kab. Batang;Wonotunggal;Brayo;-6.981849;109.749457;129.8;operasional;82333320533;2/17/2017;Balai Benih Tanaman Pangan dan Hotikultura Kandeman - Batang;HTTP GET;Dinas Pertanian Tanaman Pangan Batang;BMKG-MSP
+STA0176;ARG Demak;Jawa Tengah;Kab. Demak;Dempet;Dempet;-6.95341;110.7027;7.1;operasional;85200926700;2/17/2017;Balai Pelaksana Penyuluhan dan Ketahanan Pangan Kab. Demak;HTTP GET;Balai Penyuluhan dan Ketahanan Pangan Kab. Demak;BMKG-MSP
+STA0245;ARG Rekayasa Jatiyoso;Jawa Tengah;Kab. Karanganyar;Jatiyoso;Jatisawit;-7.72986;111.06532;629;operasional;85774266219;12/03/2020;Jatiyoso;HTTP GET;PUPR Kec. Jatiyoso;
+STA0264;ARG Kayen;Jawa Tengah;Kab. Pati;Kayen;Kayen;-6.885777;110.991909;11;operasional;85850912112;03/09/2021;Jl. Raya Pati - Kayen KM.17;;BPP Kayen;
+STA3217;ARG SMPK Sragen;Jawa Tengah;Kab. Sragen;Kedawung;Mojodoyong;-7.52544;111.0438;0;operasional;85229953462;09/10/2016;;HTTP GET;Dinas PU;BMKG-LSI
+STA3265;ARG SMPK Pemalang;Jawa Tengah;Kab. Pemalang;Petarukan;Petarukan;-6.896817;109.4613;0;operasional;85281933076;09/10/2016;Laboratorium Pengamatan Hama dan Penyakit;HTTP GET;Dinas Pertanian Tanaman Pangan dan Hortikultura;BMKG-LSI
+STA9005;ARG Rekayasa Staklim Jawa Tengah;Jawa Tengah;Kota Semarang;Semarang Barat;Kalibanteng Kulon;-6.985;110.38;;operasional;8995839858;2/16/2011;Jl.Siliwangi No.291  Kalibanteng Kulon  Semarang;HTTP GET;Staklim Semarang;BMKG-Rekayasa
+STG1005;ARG Kali Talang;Jawa Tengah;Kab. Klaten;Bayat;Talang;-7.7538498;110.6758315;113;operasional;81328646066;10/12/2022;Jl. Sulawesi Kota Klaten;;PUPR;BMKG-Campbell
+STG1033;ARG Wiradesa;Jawa Tengah;Kab. Pemalang;Wiradesa;Pengkol;-6.93135;109.60736;6;operasional;85643449563;07/09/2024;Jl. Singosari No.1 Kajen Pekalongan;;UPT PU Pengairan Delegtukang;BMKG-Campbell
+STG1034;ARG Randudongkal;Jawa Tengah;Kab. Pemalang;Randudongkal;Randudongkal;-7.09884;109.31783;234;operasional;82322379547;07/09/2024;JL. Raya Randudongkal – Moga Km1;;BPP Randudongkal;BMKG-Campbell
+STG1035;ARG Jeruklegi;Jawa Tengah;Kab. Cilacap;Jeruklegi;Jambusari;-7.55876;109.0324;48;operasional;81327423060;07/09/2024;Jambusari  kec. Jeruklegi Cilaca;;BPP JerukLegi ;BMKG-Campbell
+STG1036;ARG Wanareja;Jawa Tengah;Kab. Cilacap;Wanareja;Wanareja;-7.33522;108.6807;139;operasional;87735151993;07/10/2024;Jl. Gatot Subroto No.9;;BPP Wanareja;BMKG-Campbell
+STG1037;ARG Bendung Kaliduren;Jawa Tengah;Kab. Purworejo;Bener;Kedungloteng;-7.62842;110.06524;150;operasional;8562670757;07/10/2024;Jalan Yogyakarta Km. 05 Desa Popongan Kecamatan Banyuurip Kabupaten Purworejo Telp. (0275) 321676 Faks. (0275) 323676;;Dinas PUPR Purworejo;BMKG-Campbell
+STG1038;ARG Bruno;Jawa Tengah;Kab. Purworejo;Bruno;Pangempon;-7.57639;109.92389;200;operasional;8562670757;07/10/2024;Jl. Raya Kutoarjo-Wonosobo KM. 23  Purworejo  Jawa Tengah 54261;;Kantor Kecamatan Bruno ;BMKG-Campbell
+STG1039;ARG Selo;Jawa Tengah;Kab. Boyolali;Selo;Samiran;-7.499127;110.46951;1534;operasional;85329906695;07/10/2024;Jl. Blabak-Boyolali;;BPP Selo;BMKG-Campbell
+STG1040;ARG Wadunggetas;Jawa Tengah;Kab. Klaten;Wonosari;Wadunggetas;-7.60064;110.70279;137;operasional;81393078970;07/10/2024;Jl. Kartasura-Delanggu  Wadung getas  Wonosari Klaten;;Dinas PUPR Klaten;BMKG-Campbell
+STG1041;ARG Sarang;Jawa Tengah;Kab. Rembang;Sarang;Kalipang;-6.723586;111.654236;3;operasional;85326599986;07/10/2024;Jl. Raya Tuban;;BPP Sarang;BMKG-Campbell
+STG1042;ARG Keling;Jawa Tengah;Kab. Jepara;Keling;Jlegong;-6.481993;110.885811;138.9;operasional;85215291743;07/10/2024;Jl. Raya Kelet-Bangsari;;BPP Keling;BMKG-Casella
+STG1043;ARG Wirosari;Jawa Tengah;Kab. Grobogan;Wirosari;Wirosari;-7.0827;111.11548;43;operasional;85642459221;07/10/2024; Jl. Gajah Mada  Ngringgit  Dapurno  Kec. Wirosari  Kabupaten Grobogan;;BPP Wirosari;BMKG-Campbell
+14032806;ARG Pronojiwo;Jawa Timur;Kab. Lumajang;Prono Jiwo;Supit Turang;-8.172;113.0043;755;operasional;85731282334;9/30/2014;Lurah koboan;FTP;Dinas Pekerjaan umum dan tata ruang;
+14032807;ARG Lamongan;Jawa Timur;Kab. Lamongan;Lamongan;Jetis;-7.12065;112.41747;21;operasional;81286877783;9/30/2014;jl.Ki Sarmidi Mangun Sarbo no.7;FTP;Dinas PU Pengairan;BMKG-LSI
+14032808;ARG Trenggalek;Jawa Timur;Kab. Trenggalek;Trenggalek;Surodakan;-8.040158;111.7077;110;operasional;81359029107;9/30/2014;jl.Supriadi no.2A Trenggalek;FTP;Kantor Pengamatan Pengairan Trenggalek;BMKG-LSI
+150031;ARG Cerme;Jawa Timur;Kab. Bondowoso;Cerme;Cerme;-7.776864;114.0522;103;operasional;81336608020;10/30/2015;jl.Raya bercak;FTP;Dinas PUPR Kab. Bondowoso;BMKG-LSI
+150032;ARG Widang;Jawa Timur;Kab. Tuban;Widang;Widang;-7.0979417;112.1751361;40;operasional;8993659447;10/30/2015;Jl.Pondok pesantren langitan;FTP;UPTD Widang;BMKG-LSI
+150033;ARG Jatibanteng;Jawa Timur;Kab. Situbondo;Jatibanteng;Krajan;-7.775617;113.6844;90;operasional;82331050548;10/30/2015;;FTP;Dinas Pekerjaan Umum dan Penataan Ruang;BMKG-LSI
+150034;ARG Triwong Kidul;Jawa Timur;Kota Probolinggo;Kademangan;Triwong Kidul;-7.7761;113.1879;27;operasional;85258880170;10/30/2015;Jl.Hayamwuruk;FTP;Dinas PU Bidang Pengairan;BMKG-LSI
+150035;ARG Lidjen Jambu;Jawa Timur;Kab. Banyuwangi;Licin;Taman Sari;-8.165272;114.2507;610;operasional;85746574757;10/30/2015;Jl. Raya Ijen;FTP;Perkebunan Lidjien;BMKG-LSI
+150036;ARG Bajul Mati;Jawa Timur;Kab. Banyuwangi;Wongso Rejo;Bajul Mati;-7.926658;114.3862;48;operasional;82330253501;10/30/2015;Jl. Raya Situbondo No. 1;FTP;PU Pengairan Wongso Rejo;BMKG-LSI
+150037;ARG Gondang;Jawa Timur;Kab. Tulungagung;Gondang;Ngerendeng;-8.069261;111.848602;85;operasional;81515123963;10/30/2015;Jl. Raya Gondang no.22;FTP;UPTD Pengairan Gondang;BMKG-LSI
+150038;ARG Sitiarjo;Jawa Timur;Kab. Malang;Sumbermanjing Wetan;Sitiarjo;-8.37876;112.6787;32;operasional;82334041494;10/30/2015;Jl. Raya Sitiarjo No. 13;FTP;Dinas Pengairan Kab. Malang;BMKG-LSI
+150039;ARG Kencong;Jawa Timur;Kab. Jember;Kencong;Kencong;-8.272825;113.3687;26;operasional;82313364799;10/30/2015;Jl. Wijaya Kusuma No.2;HTTP GET;UPT Pengairan Kencong;BMKG-LSI
+150040;ARG Wirolegi;Jawa Timur;Kab. Jember;Sumbersari;Wirolegi;-8.19419;113.7388;140;operasional;85102708169;10/30/2015;Jl. Brawijaya No. 31;FTP;PU Pengairan Kab. Jember;BMKG-LSI
+150041;ARG Mojowarno;Jawa Timur;Kab. Jombang;Mojowarno;Mojowangi;-7.63019;112.3037;82;operasional;85790568429;10/30/2015;Jl. Merdeka;FTP;UPTD Pengairan Mojowarno;BMKG-LSI
+150042;ARG Caruban;Jawa Timur;Kab. Madiun;Caruban;Mejayan;-7.547464;111.653298;72;operasional;81336487207;10/30/2015;Jl. P. Sudirman no. 65 ;FTP;Dis. PU Binamarga dan Cipta Karya;BMKG-LSI
+150043;ARG Siman;Jawa Timur;Kab. Kediri;Kepung;Siman;-7.825152;112.305607;331;operasional;85737172277;10/30/2015;Jl. Siman Selis;FTP;Dinas Pengairan Siman;BMKG-LSI
+150044;ARG Tinap;Jawa Timur;Kab. Magetan;Maospati;Sugiwaras;-7.604084;111.4136;139;operasional;85798582256;10/30/2015;Jl. Raya Maospati - Magetan;FTP;Dis. PU  UPTD PPTM Jejeruk;BMKG-LSI
+150045;ARG Tutur;Jawa Timur;Kab. Pasuruan;Tutur;Wonosari;-7.885347;112.8127;1041;operasional;81252484654;10/30/2015;Jl.Panglima Sudirman no.5;FTP;UPT Pengembangan Benih Hortikultura;BMKG-LSI
+150046;ARG Kademangan;Jawa Timur;Kab. Blitar;Kademangan;Rejowinangun;-8.147645;112.1486;151;operasional;85659690031;10/30/2015;Jl. Banteng Blorok;FTP;UPTD Pengairan Sutojayan;BMKG-LSI
+150047;ARG Sudimoro;Jawa Timur;Kab. Pacitan;Sudimoro;Sukorejo;-8.2486;111.3806;28;operasional;82229552668;10/30/2015;Jl.Raya Sudimoro no.4;FTP;Kantor Desa Sukorejo;BMKG-LSI
+150311;ARG Grajagan;Jawa Timur;Kab. Banyuwangi;Purwoharjo;Grajagan;-8.5522222;114.2502778;37;operasional;85232281545;04/12/2017;;FTP;Dinas Pekerjaan Umum dan Tata Ruang;MMI-LSI
+150312;ARG Pinang Pahit;Jawa Timur;Kab. Bondowoso;Sukosari;Pegalongan;-7.9520944;113.9378417;476;operasional;82338307455;04/12/2017;;FTP;Dinas PU & Penataan Ruang Kab. Bondowoso;MMI-LSI
+150313;ARG Tumpak Mergo;Jawa Timur;Kab. Tulungagung;Panggang Gunung;Ngepoh;-8.21025;111.85783;188;operasional;81233354302;04/12/2017;Jl. Raya Ngepoh;FTP;PT. Lestari Agro Kencana;MMI-LSI
+150314;ARG Karangsuko;Jawa Timur;Kab. Malang;Pagelaran;Karang Suko;-8.154901;112.591065;352;operasional;81331137160;10/10/2017;;FTP;Kebun Benih Karangsuko;MMI-LSI
+150315;ARG Pasrujambe;Jawa Timur;Kab. Lumajang;Pasrujambe;Pasrujambe;-8.1214222;113.0590972;512;operasional;82335157159;04/12/2017;Jl. Jendral Sutoyo No. 4 Lumajang 67315;FTP;Dinas Pekerjaan umum dan tata ruang;MMI-LSI
+150316;ARG Tajinan;Jawa Timur;Kab. Malang;Tajinan;Gunung Sari;-8.04841;112.69517;502;operasional;81354564544;04/12/2017;Jl. Kawi No. 1 Kepanjen Malang 65153;FTP;Dinas Pekerjaan Umum dan Sumberdaya Air;MMI-LSI
+STA0060;ARG Ngawi;Jawa Timur;Kab. Ngawi;Karang Jati;Legundi;-7.46127;111.6134;87;operasional;81358626434;9/13/2016;-;FTP;Dinas Pekerjaan Umum dan Tata Ruang;BMKG-MSP
+STA0061;ARG Magetan;Jawa Timur;Kab. Magetan;Magetan;Candirejo;-7.66228;111.3155;407;operasional;81334854071;12/17/2013;-;HTTP GET;Dinas Pekerjaan Umum dan Pengairan;BMKG-MSP
+STA0062;ARG Srengat;Jawa Timur;Kab. Blitar;Srengat;Srengat;-8.06097;112.0605;140;operasional;85655588208;12/17/2013;-;HTTP GET;Bina Marga dan Pengairan;BMKG-MSP
+STA0063;ARG Ngajum;Jawa Timur;Kab. Malang;Ngajum;Ngajum;-8.09707;112.5427;387;operasional;82245093044;12/17/2013;-;FTP;UPTD Pengairan Ngajum;BMKG-MSP
+STA0064;ARG Panti;Jawa Timur;Kab. Jember;Panti;Serut;-8.14961;113.6371;165;operasional;85100000400;12/17/2013;;FTP;Kantor Desa Serut;BMKG-LSI
+STA0065;ARG Kalibaru;Jawa Timur;Kab. Banyuwangi;Kalibaru;kalibaru kulon;-8.28884;113.9708;428;operasional;82141867888;12/17/2013;;FTP;Dinas Pekerjaan Umum dan Tata Ruang;
+STA0069;ARG Mojokerto;Jawa Timur;Kota Mojokerto;Jatirejo;Dinoyo;-7.59164;112.428;116;operasional;81235421458;12/17/2013;JL Diponegoro No.46;HTTP GET;DPUPR Sumengko;BMKG-MSP
+STA0070;ARG Sampang;Jawa Timur;Kab. Sampang;Ketapang;Ketapang Barat;-6.8957;113.2779;8;operasional;85231305322;12/17/2013;JL Raya Banyuates;FTP;Dinas PU Pengairan;BMKG-MSP
+STA0071;ARG Bojonegoro;Jawa Timur;Kab. Bojonegoro;Kalitidu;Sukorejo;-7.12846;111.75586;25;operasional;81216826374;12/17/2013;JL Basuki Rahmad No.4A;HTTP GET;Dinas Pengairan;BMKG-MSP
+STA0072;ARG Tuban;Jawa Timur;Kab. Tuban;Grabagan;Grabagan;-7.01029;111.9872;338;operasional;81233808645;12/17/2013;JL Raya Grabagan;FTP;Kantor Kec. Grobogan;BMKG-MSP
+STA0074;ARG Kediri;Jawa Timur;Kab. Kediri;Kandangan;Kencong;-7.7764;112.2326;209;operasional;85930253611;12/17/2013;-;FTP;EX Kantor Pengamat Perairan;BMKG-MSP
+STA0116;ARG Kangean;Jawa Timur;Kab. Sumenep;Arjasa;Kalikatak;-6.85895;115.2862;55;operasional;87750060700;12/17/2013;JL Sriwijaya No 341.;FTP;Kantor Kec. Arjasa;BMKG-LSI
+STA0162;ARG Sumber;Jawa Timur;Kab. Probolinggo;Sumber ;Sumber ;-7.921339;113.1204;900;operasional;82288600913;12/17/2013;-;FTP;Dinas Pengairan Probolionggo;BMKG-LSI
+STA0163;ARG Pasirian;Jawa Timur;Kab. Lumajang;Pasirian;Pasirian;-8.206553;113.1143;154;operasional;85607161323;12/17/2013;-;FTP;Dinas PU dan Tata Ruang Kabupaten Lumajang;BMKG-LSI
+STA0183;ARG Bangunsari;Jawa Timur;Kab. Ponorogo;Ponorogo;;-7.87103;111.47438;100;operasional;8.95393E+11;12/31/2008;;FTP;Dinas PU Ponorogo;
+STA0184;ARG Kepatihan;Jawa Timur;Kab. Tulungagung;Tulungagung;;-8.05843;111.90753;90;operasional;82143121085;12/31/2008;;FTP;Dinas PU Pengairan Dan ESDM Kota Tulungagung;
+STA0185;ARG Kartoharjo;Jawa Timur;Kab. Madiun;Kartoharjo;Kartoharjo;-7.62416;111.52047;75;operasional;85232726248;12/31/2008;;FTP;Dinas Pegerjaan Umum Pengairan Kota Madiun;
+STA0187;ARG Nganjuk;Jawa Timur;Kab. Nganjuk;Nganjuk;Begadung;-7.5869889;111.9046556;85;operasional;85235253957;12/31/2008;;FTP;UPTD PENGELOLAAN SUMBERDAYA AIR WIDAS;
+STA0188;ARG Pajarakan Kulon;Jawa Timur;Kab. Probolinggo;Pajarakan;Pajarakan kulon;-7.78061;113.38047;27;operasional;82389428165;12/31/2008;Pajarakan;FTP;Pejarakan;
+STA0189;ARG P3GI;Jawa Timur;Kab. Pasuruan;Panggung Rejo;Pekuncen;-7.646854;112.909495;15;operasional;81231216925;12/31/2008;Pasuruan;FTP;Pusat Penelitian Perkebunan Gula;
+STA0191;ARG Pakong;Jawa Timur;Kab. Pamekasan;Pakong;pakong;-7.031278;113.547444;267;operasional;85235200071;12/31/2008;;FTP;Dinas PU dan Penataan Ruang (PUPR) Pamekasan;
+STA0192;ARG Dasuk;Jawa Timur;Kab. Sumenep;dasuk;dasuk;-6.897139;113.807139;69;operasional;81931062969;02/01/2012;;FTP;Kantor Kecamatan Dasuk;
+STA0193;ARG Tambak Ombo Manyar;Jawa Timur;Kab. Gresik;Manyar;Sembayat;-7.07746;112.573331;15;operasional;82233000439;02/01/2012;;FTP;Dinas PU dan Tata Ruang Kabupaten Gresik;
+STA0194;ARG Sruni Gedangan;Jawa Timur;Kab. Sidoarjo;Gedangan;Kebonanom;-7.3974167;112.71075;10;operasional;82241339564;02/01/2012;;FTP;UPTD P.U PENGAIRAN SUMPUT SIDOARJO;
+STA0196;ARG Lanud Pacitan;Jawa Timur;Kab. Pacitan;Pacitan;;-8.2109;111.08599;30;operasional;87758218427;12/31/2008;;FTP;Bandar Udara TNI AU PACITAN;
+STA0198;ARG Jokarto;Jawa Timur;Kab. Lumajang;Tempeh;jokarto;-8.166393;113.147928;150;operasional;82245456813;12/31/2008;;FTP;Dinas PUPR Kabupaten Lumajang;
+STA0246;ARG Rekayasa Sine;Jawa Timur;Kab. Ngawi;Sine;Wonosari;-7.562111;111.159611;866;operasional;85608726309;12/03/2020;;HTTP GET;Kantor Desa Wonosari Kec. Sine ;
+STA0247;ARG Ngariboyo;Jawa Timur;Kab. Magetan;Ngariboyo;;-7.663633;111.341472;318;operasional;81333811133;12/03/2020;;HTTP GET;Dinas TPHPKP Kabupaten Magetan;
+STA0248;ARG Rekayasa Panti;Jawa Timur;Kab. Jember;Panti;;-8.1218404;113.5938829;345;operasional;81249691881;12/03/2020;;HTTP GET;Dinas PU dan Sumber Daya Air Kab. Jember;
+STA0249;ARG Rekayasa Sukowono;Jawa Timur;Kab. Jember;Sukowono;;-8.05123;113.83477;365;operasional;82143243123;12/03/2020;;HTTP GET;Pengamat SDA sukowono;
+STA0265;ARG Dampit;Jawa Timur;Kab. Malang;Dampit;Dampit;-8.212041;112.751849;377;operasional;89688898469;6/14/2021;Jl. Ngurawan No. 577  Dampit  Malang;;BPP Dampit;
+STA3219;ARG SMPK Sebayi Gemarang;Jawa Timur;Kab. Madiun;Gemarang;Sebayi;-7.60027;111.7428;370;operasional;85233586999;12/17/2013;;HTTP GET;BPP Kecamatan Gemarang;BMKG-LSI
+STG1044;ARG BPP Ngantang;Jawa Timur;Kab. Malang;Ngantang;Kaumrejo;-7.8439;112.3706806;665.6;operasional;85234908688;07/10/2024;Jl. Raya Kaumrejo No. 7 Ngantang;;BPP Ngantang;BMKG-Campbell
+STG1045;ARG BPP Pulung;Jawa Timur;Kab. Ponorogo;Pulung;Pulung;-7.87514;111.61713;471.3;operasional;85204618284;07/10/2024;Bedagan  Pulung  Kec. Pulung  Kabupaten Ponorogo;;BPP Pulung;BMKG-Campbell
+STG1046;ARG BPP Binangun;Jawa Timur;Kab. Blitar;Binangun;Binangun;-8.24041944;112.3344694;345.9;operasional;85736418626;07/10/2024;Jl. Utung Sorapati;;BPP kec. Binangun;BMKG-Campbell
+STG1047;ARG BPP Ambulu;Jawa Timur;Kab. Jember;Wuluhan;Dukuh Dempok;-8.31622;113.55058;15;operasional;81336528806;07/10/2024;Gawok  Dukuh Dempok  Wuluhan  Kabupaten Jember;;BPP Ambulu;BMKG-Campbell
+STG1048;ARG BPP Banyuputih;Jawa Timur;Kab. Situbondo;BPP Banyuputih;Jl. Raya Asembagus 1  Krajan;-7.75878;114.2624;35;operasional;82257430303;07/10/2024;Jl. Raya Asembagus 1  Krajan;;BPP Banyuputih;BMKG-Campbell
+STG1049;ARG Purwosari;Jawa Timur;Kota Pasuruan;Purwosari;Tejowangi;-7.78185309;112.740955;277;operasional;85784979099;07/10/2024;Jl. Raya Purwosari No. 1 ;;UPTD Purwosari;BMKG-Campbell
+STG1050;ARG BPP Dongko;Jawa Timur;Kab. Trenggalek;Dongko;Dongko;-8.18281;111.58678;657.3;operasional;82232470554;07/10/2024;Jl. Raya Dongko – Kampak  Karang Tengah;;BPP Dongko;BMKG-Campbell
+STG1051;ARG BPP Donorojo;Jawa Timur;Kab. Pacitan;Donorojo;Donorojo;-8.10456;110.99051;232.1;operasional;81336071444;07/10/2024;Kebon  Donorojo;;BPP Donorojo;BMKG-Campbell
+STG1052;ARG BPP Tegalombo;Jawa Timur;Kab. Pacitan;Tegalombo;Gemaharjo;-8.04076;111.3561;612.6;operasional;81234534660;07/10/2024;Jl. Nasional III  Clumpring  Gemaharjo;;BPP Tegalombo;BMKG-Campbell
+STG1053;ARG BPP Ngluyu;Jawa Timur;Kab. Nganjuk;Ngluyu;Ngluyu;-7.4443;111.96327;170;operasional;82338816260;07/10/2024;Jl. Gondang-Ngluyu;;BPP Ngluyu;BMKG-Campbell
+STG1054;ARG BPP Kenduruan;Jawa Timur;Kab. Tuban;Kenduruan;Tawaran;-6.91377;111.61088;120;operasional;0;7/17/2024;Gato  Tawaran  Kenduruan  Kabupaten Tuban;;BPP Kenduruan;BMKG-Campbell
+STG1055;ARG BPP Solokuro;Jawa Timur;Kab. Lamongan;Solokuro;Bluri;-6.92003;112.41893;89;operasional;81368384293;5/16/2024;Bluri  Solokuro  Lamongan;;BPP Bluri;BMKG-Campbell
+STG1056;ARG BPP Sepulu;Jawa Timur;Kab. Bangkalan;Sepulu;Sepulu;-6.892074;112.959929;6;operasional;85234890338;05/08/2024;Jl. Samudra;;BPP Sepulu;BMKG-Campbell
+STG1057;ARG BPP Galis;Jawa Timur;Kab. Bangkalan;Galis;Paterongan;-7.10976;112.95651;137;operasional;82338118374;05/06/2024;Jl. Nasional 21  Kec. Galis;;BPP Galis;BMKG-Campbell
+STG1058;ARG Samiran;Jawa Timur;Kab. Pamekasan;Proppo;Samiran;-7.148828;113.441988;24;operasional;82338121311;05/07/2024;Embung Samiran  Keppun;;Bendungan Samiran;BMKG-Campbell
+STG1059;ARG  BPP Karangpenang;Jawa Timur;Kab. Sampang;Karangpenang;Tlambah;-7.03321;113.362763;118;operasional;81703769986;05/07/2024;Jl. Raya Tlambah  Angsana Timur;;BPP Karangpenang;BMKG-Campbell
+STG1060;ARG Stamet Sangkapura;Jawa Timur;Kab. Gresik;Sangkapura;Sawahmulya;-5.850985;112.657705;3;operasional;81334390076;5/14/2024;Jl. Umar Mas'ud;;Stasiun Meteorologi Sangkapura Gresik;BMKG-Campbell
+STG1061;ARG BPP Balongpanggang;Jawa Timur;Kab. Gresik;Balongpanggang;Dapet;-7.305175;112.4276778;54.1;operasional;85706081844;4/22/2024;Lengkong  Tanah Landean  Kec. Balongpanggang  Kabupaten Gresik  Jawa Timur 61173;;BP3K Balongpanggang;BMKG-Campbell
+STG1070;ARG BPP Socah;Jawa Timur;Kab. Bangkalan;Socah;Socah;-7.09086536;112.7071802;14;operasional;85231190939;8/29/2024;Jl. Raya Socah Dalam  Dusun Tedunan Desa Keleyan Kecamatan Socah Kabupaten Bangkalan;;Dinas Pertanian dan Ketahanan Pangan  Kebun Benih Hortikultura Socah Bangkalan;BMKG-Campbell
+STG1071;ARG Wonokromo;Jawa Timur;Kota Surabaya;Wonokromo;Ngagel;-7.299872;112.739407;5;operasional;85233661110;8/29/2024;Jl. Ngagel No.70  Ngagel  Kec. Wonokromo  Surabaya  Jawa Timur;;UPT PSDA WS Buntung Peketingan;BMKG-Campbell
+STG1072;ARG Sidoarjo;Jawa Timur;Kab. Sidoarjo;Buduran;Siwalanpanji;-7.447473;112.718417;1;operasional;81233979191;7/27/2024;Jl. Raya Siwalanpanji No.36  Bedrek  Siwalanpanji  Kec. Buduran  Kabupaten Sidoarjo  Jawa Timur;;"""Dinas Lingkungan Hidup dan Kebersihan Kab. Sidoarjo""";BMKG-Campbell
+STG1073;ARG BPP Wonosalam;Jawa Timur;Kab. Jombang;Wonosalam;Wonosalam;-7.7038384;112.3653303;438;operasional;82229998177;08/09/2024;Notorejo  Wonosalam  Kec. Wonosalam  Kabupaten Jombang  Jawa Timur ;;Kantor  BPP Wonosala;BMKG-Campbell
+STG1074;ARG BPP Prambon;Jawa Timur;Kab. Sidoarjo;Prambon;Tegaron;-7.7288853;112.0239585;59;operasional;85380558555;09/04/2024; Jl. Raya Prambon - Kediri  Prambon  Tegaron  Kec. Prambon  Kabupaten Nganjuk  Jawa Timur;;Kantor  BPP Prambon;BMKG-Campbell
+150094;ARG Nanga Tayap;Kalimantan Barat;Kab. Ketapang;Nanga Tayap;Nangatayab;-1.56021;110.5667;35;operasional;81256359542;09/02/2015;JL Transkalimantan KM.4 Nangatayab;FTP;BPP Nanga Tayap;BMKG-LSI
+150095;ARG Manis Mata;Kalimantan Barat;Kab. Ketapang;Manis Mata;Ratu Elok;-2.449599;111.0264;16;operasional;82153639542;09/03/2015;JL Ratu Elok.;FTP;BPP Manis Mata;BMKG-LSI
+150148;ARG Melawi;Kalimantan Barat;Kab. Melawi;Nanga Pinoh;Sidomulyo;-0.349;111.711;31;operasional;8122734299;9/13/2016;JL Provinsi KM.4 Nanga pinoh;FTP;Kantor Penyuluh Pertanian;BMKG-LSI
+150149;ARG Sintang;Kalimantan Barat;Kab. Sintang;Sintang;Sintang;0.05;111.4833;25;operasional;82154817878;9/13/2016;JL.Dr.Wahidin Sudirohusodo Sintang;HTTP GET;Dinas Ketahanan Pangan dan Perikanan Sintang;BMKG-LSI
+150206;ARG Tayan Hilir;Kalimantan Barat;Kab. Sanggau;Tayan Hilir;Cempedak;0.01716;110.01177;40;operasional;81345053904;8/23/2016;Tayan Hilir;HTTP GET;BP3K Tayan Hilir;MMI-LSI
+150207;ARG Sungai Kakap;Kalimantan Barat;Kab. Kubu Raya;Sungai Kakap;Sungai Kakap;-0.063772;109.230068;1;operasional;85822104565;8/26/2016;Sungai Kakap;FTP;Lab. Pengamat Hama Penyakit;MMI-LSI
+150208;ARG Diperta Sambas;Kalimantan Barat;Kab. Sambas;Sambas;Dalam Kaum;1.36255;109.326858;11;operasional;85252605594;8/24/2016;Jl Sukaramai dalam kaum sambas;FTP;Dinas Pertanian dan Peternakan Sambas;MMI-LSI
+150209;ARG Sanggau Ledo;Kalimantan Barat;Kab. Bengkayang;Sunggau Ledo;Lembang;1.1377758;109.695852;35;operasional;85247238135;8/25/2016;Jl Sujadi no 119;FTP;BP3K Sanggau Ledo;MMI-LSI
+150326;ARG Koramil 1205-19 Sintang;Kalimantan Barat;Kab. Sintang;Kelam Permai;Kebong;0.057678;111.638859;43;operasional;81344807163;10/01/2017;Jl.Kelam;HTTP GET;Koramil 1205-19;MMI-LSI
+150327;ARG Koramil 1206-14 Hulu Gurung;Kalimantan Barat;Kab. Kapuas Hulu;Hulu Gurung;Landau Kupang;0.356966;112.317444;68;operasional;81520948183;9/27/2017;Jl.Panjul Suprapto No:34;FTP;Koramil 1206-14;MMI-LSI
+150328;ARG Koramil 1206-04 Badau;Kalimantan Barat;Kab. Kapuas Hulu;Badau;Bandau;1.040768;111.906248;38;operasional;85213736545;9/29/2017;Jl.Peare Tendean;FTP;Koramil 1207-04 Badau;MMI-LSI
+150329;ARG Koramil 1207-08 Teluk Pakedai;Kalimantan Barat;Kab. Kubu Raya;Teluk Pakedai;Selat Remis;-0.31476;109.152024;3;operasional;85849773786;9/21/2017;Jl.Pematang Mas;FTP;Koramil 1207-08 Teluk Pakedai;MMI-LSI
+150330;ARG Sei Paduan;Kalimantan Barat;Kab. Kayong Utara;Teluk Batang;Sei Paduan;-1.012444;109.789423;12;operasional;85349638941;9/23/2017;Jl.Ayam;FTP;BP3K Teluk Batang;MMI-LSI
+STA0010;ARG Kembayan;Kalimantan Barat;Kab. Sanggau;Kembayan;Tunggal Bhakti;0.64057;110.3747;44;operasional;82152961792;9/13/2016;-;HTTP GET;BP3K Kembayan;BMKG-Campbell
+STA0081;ARG Sanggau;Kalimantan Barat;Kab. Sanggau;Tayan Hulu;Binjai;0.2557488;110.3118526;28;operasional;81345060060;9/13/2016;JL Simpang Parindu Sanggau;HTTP GET;Pusat penelitian kelapa sawit;BMKG-MSP
+STA0082;ARG Singkawang;Kalimantan Barat;Kota Singkawang;Singkawang;Singkawang;0.8922002;108.9676443;2;operasional;85250663224;9/13/2016;-;HTTP GET;Dinas Pertanian dan Kehutanan Singkawang;BMKG-MSP
+STAL201;ARG BPTP KalBar;Kalimantan Barat;Kota Pontianak;Pontianak Utara;Siantan Hulu;0.00278;109.3606;29;operasional;85655665773;11/09/2018;Jl. Budi Utomo;FTP;BPTP Prov. Kalbar;
+STAL202;ARG DinPer TPH KalBar;Kalimantan Barat;Kota Pontianak;Pontianak Kota;Sungai Bangkong;-0.03472222;109.3211;6;operasional;85705462110;11/09/2018;;FTP;Dinas Pertanian TPH KalBar;
+STAL203;ARG Balai Berkuak;Kalimantan Barat;Kab. Ketapang;Simpang Hulu;Balai Pinang;-0.526699;110.3673678;81;operasional;81251115271;11/16/2018;Jl Trans Kalimantan - Balai Berkuak;FTP;KORAMIL 1203-04;
+STG1018;ARG Banyuke Hulu;Kalimantan Barat;Kab. Landak;Banyuke Hulu;Untang;0.6790637;109.5194068;109;operasional;81365087632;9/18/2023;Desa untang  kec. Banyuke hulu  kab. Landak - Kalimantan Barat;;Balai Penyuluh Pertanian (BPP) Kec Banyuke Hulu;EML
+13122300;ARG Kintap;Kalimantan Selatan;Kab. Tanah Laut;Kintap;Kebun Raya Rt. 14;-3.859193;115.291209;15;operasional;81348456144;01/01/2013;Kintap;HTTP GET;BPP Kintap;BMKG-MSP
+13122301;ARG Kelumpang Hilir;Kalimantan Selatan;Kab. Kotabaru;Kelumpang Hilir;Tegal Rejo;-3.180929;115.982344;34;operasional;81283660029;5/21/2014;Serongga  Kelumpang Hilir;HTTP GET;BP3K Kelumpang Hilir;BMKG-LSI
+150058;ARG Mataraman;Kalimantan Selatan;Kab. Banjar;Mataraman;Bawahan Selon;-3.32014;114.9492;26;operasional;81351936470;6/23/2015;Kebun Danau Salak;FTP;PTPN XIII;BMKG-LSI
+150059;ARG Sungai Pandan;Kalimantan Selatan;Kab. Hulu Sungai Utara;Sungai Padan;Sei Sandung;-2.45933;115.2216;10;operasional;83153780405;6/24/2015;Jl.Kesatuan No.40;FTP;BPP Sungai Pandan;BMKG-LSI
+150060;ARG Jaro;Kalimantan Selatan;Kab. Tabalong;Jaro;Jaro;-1.83794;115.6369;75;operasional;81348236885;07/01/2015;Desa Jaro Kec.Jaro;FTP;UPT BPTPH Jaro;BMKG-LSI
+150191;ARG Anjir Pasar;Kalimantan Selatan;Kab. Barito Kuala;Anjir Pasar;Anjir Pasar Kota;-3.14236;114.50341;6;operasional;85348001978;8/23/2016;Jl Trans Kalimantan Km 27;FTP;BP3K Anjir Pasar;MMI-LSI
+150192;ARG Jorong;Kalimantan Selatan;Kab. Tanah Laut;Jorong;Jorong;-3.96727;114.92307;26;operasional;81351257798;8/24/2016;Jl A Yani No 13;FTP;BP3K Jorong;MMI-LSI
+150193;ARG Angsana;Kalimantan Selatan;Kab. Tanah Bumbu;Angsana;Angsana;-3.70964;115.58637;19;operasional;81351219693;8/24/2016;Jl Propinsi Km 194;FTP;BPK Angsana;MMI-LSI
+150194;ARG Kelumpang Barat;Kalimantan Selatan;Kab. Kotabaru;Kelumpang Barat;Bungkukan;-2.79284;116.07459;10;operasional;82149782443;8/25/2016;Jl Raya Batulicin Km 355;FTP;BMKG;MMI-LSI
+150195;ARG Salino;Kalimantan Selatan;Kab. Kotabaru;Pulau Laut Tengah;Salino;-3.478633;116.054942;37;operasional;82151957940;01/01/2016;Kantor Kecamatan Pulau Laut Tengah;FTP;Kecamatan Pulau Laut Tengah;MMI-LSI
+150334;ARG Bumi Makmur;Kalimantan Selatan;Kab. Tanah Laut;Bumi Makmur;Bumi Harapan;-3.58581;114.623848;5;operasional;85349569111;8/22/2017;Jl. Swadaya RT 02 RW 02 Desa Bumi Harapan Bumi Makmur;FTP;BP3K Bumi Makmur;MMI-LSI
+150335;ARG Juai;Kalimantan Selatan;Kab. Balangan;Juai;Makmur Uyam;-2.26869;115.57351;36;operasional;85245934316;01/01/2017;Jl. Datuk Kandang Haji Pal. 16;FTP;BPP Juai;MMI-LSI
+150336;ARG Murung Pudak;Kalimantan Selatan;Kab. Tabalong;Murung Pudak;Maburai;-2.17638;115.43063;36;operasional;81348287037;8/28/2017;Jl. A. Yani Km. 7 5;FTP;BPP Murung Pudak;MMI-LSI
+150337;ARG Kelua;Kalimantan Selatan;Kab. Tabalong;Kelua;Pulau;-2.27243;115.29782;15;operasional;85248963575;8/18/2017;Jl. A. Yani Km. 01;FTP;BPP Kelua;MMI-LSI
+150338;ARG Mekarsari;Kalimantan Selatan;Kab. Barito Kuala;Mekarsari;Tamban Raya ;-3.2959871;114.432346;4;operasional;81349703317;7/17/2017;Jl. Tamban Raya Km. 12;FTP;BPP Mekarsari;MMI-LSI
+STA0011;ARG Angkinang;Kalimantan Selatan;Kab. Hulu Sungai Selatan;Angkinang;Bamban Utara;-2.71215;115.30083;14;operasional;81349470886;01/01/2013;Jl. A. Yani Km 115 Desa Bamban Angkinang;HTTP GET;BPK Angkinang;BMKG-RM.Young
+STA0092;ARG Tanah Bumbu;Kalimantan Selatan;Kab. Tanah Bumbu;Kusan Hilir;Manurung;-3.5625896;115.9524887;5;operasional;81349756404;01/01/2013;Jl. Raya Batulicin-Pleihari Km. 6.5;HTTP GET;Laboratorium PTPH Mudalang;BMKG-MSP
+STA0093;ARG Binuang;Kalimantan Selatan;Kab. Tapin;Binuang;Pulau Pinag Utara;-3.09525;115.0888;18;operasional;85248690019;01/01/2009;Desa Pulau Pinang Binuang;HTTP GET;BP3K Binuang;BMKG-MSP
+STA0094;ARG Hulu Sungai Tengah;Kalimantan Selatan;Kab Hulu Sungai Tengah;Labuan Amas Selatan;Pantai Hambawang Timur;-2.63792;115.33669;19;operasional;85248584974;9/13/2016;Jl Asam Rimbun No 35 Pantai Hambawang 71361;HTTP GET;BMKG;BMKG-MSP
+STA0233;ARG Sengayam;Kalimantan Selatan;Kab. Kotabaru;Pamukan Barat;Sengayam;-2.34604;116.01155;52;operasional;81351271759;8/25/2020;;HTTP GET;BPP Sengayam;
+STA3228;ARG SMPK Batang Alai Utara;Kalimantan Selatan;Kab Hulu Sungai Tengah;Batang Alai Utara;Ilung;-2.50248;115.41651;25;operasional;81349052255;01/01/2010;KP Barabai Desa Muara Rintis Batang Alai Utara;FTP;BPTP Kalsel;BMKG-LSI
+STA3271;ARG SMPK Telaga;Kalimantan Selatan;Kab. Tanah Laut;Pelaihari;Takisung;-3.834218;114.718812;23;operasional;85251053180;01/01/2011;Jl. Raya Takisung Pelaihari 70815;FTP;BPTP Kalsel;
+STAL221;ARG Banjarmasin Timur;Kalimantan Selatan;Kota Banjarmasin;Banjarmasin Timur;Banua Anyar;-3.30802;114.614;6;operasional;87819351585;11/09/2018;Banua Anyar  Banjarmasin Timur;FTP;DKP3 Banjarmasin;
+STAL222;ARG Sukadamai;Kalimantan Selatan;Kab. Tanah Bumbu;Mantewe;Sukadamai;-3.2648;115.7677;30;operasional;85251495599;01/01/2013;Desa Sukadamai  Mantewe  Tanah Bumbu;FTP;BP3K Mantewe;
+150061;ARG Murung;Kalimantan Tengah;Kab. Murung Raya;Murung;Danau Usung;-0.664489;114.6105;0;operasional;81348256791;07/03/2015;Komp.Perkantoran Purungcahu;FTP;BPP;BMKG-LSI
+150062;ARG Seruyan Hilir;Kalimantan Tengah;Kab. Seruyan;Seruyan Hilir;Sungai Undang;-3.407614;112.5443;0;operasional;8534841775;07/02/2015;Jl.A.Yani;HTTP GET;Dinas Pertanian Seruyan;BMKG-LSI
+150096;ARG Bukit Batu;Kalimantan Tengah;Kota Palangkaraya;Bukit Batu;Banturung;-2.00404;113.7596;0;operasional;81352883629;09/04/2015;JL Cilik Riwut KM.31 Tangkiling.;FTP;BPP Tangkiling;BMKG-LSI
+150097;ARG Hayaping;Kalimantan Tengah;Kab. Barito Timur;Awang;Biwan;-1.95613;115.2466;0;operasional;85249434863;8/28/2015;JL Raya Hayaping Patung.;FTP;BPP AWANG;BMKG-LSI
+150142;ARG Pangkalan Lada;Kalimantan Tengah;Kab. Kota Waringin Barat;Pangkalan Lada;;-2.493676;111.7339;0;operasional;82351579459;9/13/2016;JL Jederal Sudirman KM.35;FTP;BPP;BMKG-LSI
+150143;ARG Baamang;Kalimantan Tengah;Kab. Kotawaringin Timur;Baamang;Baamang Tengah;-2.534472;112.8826;0;operasional;81251435346;9/13/2016;JL Jenderal Sudirman KM.6 5;FTP;Dinas Pertanian;BMKG-LSI
+150213;ARG Jekan Raya;Kalimantan Tengah;Kota Palangkaraya;Jekan Raya;Bukit Tunggal;-2.1715547;113.873692;10;operasional;82154735357;08/04/2016;Teweh Selatan;HTTP GET;BPTPH Kalimantan Tengah;BMKG-LSI
+150214;ARG Timpah;Kalimantan Tengah;Kab. Kapuas;Timpah;Timpah;-1.709444444;114.4727778;0;operasional;82158230237;08/04/2016;Timpah;HTTP GET;Kantor Camat;MMI-LSI
+150215;ARG Mihing Raya;Kalimantan Tengah;Kab. Gunung Mas;Mihing Raya;Kampuri;-1.363464;113.91914;0;operasional;85252916126;08/05/2016;Jl Lintas Provinsi No 1;HTTP GET;BPP;MMI-LSI
+150331;ARG Sukamara;Kalimantan Tengah;Kab. Sukamara;Sukamara;Padang;-2.717146;111.18956;0;operasional;81392333250;9/21/2017;Jl. Pahlawan;HTTP GET;BPP;MMI-LSI
+150332;ARG Tewah;Kalimantan Tengah;Kab. Gunung Mas;Tewah;Tewah;-1.061397;113.730547;0;operasional;85350878620;9/23/2017;JL Pertanian;HTTP GET;BPP;MMI-LSI
+150333;ARG BPP Jabiren;Kalimantan Tengah;Kab. Pulang Pisau;Jabiren Raya;Saka kajiang;-2.552467;114.192108;0;operasional;85248982620;9/24/2017;;FTP;BPP;MMI-LSI
+STA0134;ARG Katingan;Kalimantan Tengah;Kab. Katingan;Tewang Sanggalang Draing;Tewangrangkang;-1.7627;113.29;0;operasional;82251515217;9/13/2016;;FTP;BPP;BMKG-MSP
+STA0227;ARG Bahaur;Kalimantan Tengah;Kab. Pulang Pisau;Kahayan Kuala;Bahaur Basangan;-3.239741;114.099006;0;operasional;82250321980;8/25/2020;Jl. Idrus Rt.02 Rw.01;HTTP GET;Kepolisian Kab. Pulau Pisau;
+STA0228;ARG Sidomulyo;Kalimantan Tengah;Kab. Kapuas;Tamban Catur;Sidomulyo;-3.175833;114.399778;0;operasional;;8/25/2020;Jl. Desa Sidomulyo Rt.04 Rw.02 Kec. Tamban Catur;HTTP GET;BPP Kec. Tamban Catur Kab. Kapuas;
+STA3231;ARG Basarang;Kalimantan Tengah;Kab. Kapuas;Basarang;Basarang;-2.980203;114.333408;0;operasional;85232879944;09/10/2016;;HTTP GET;BPP Basarang;BMKG-LSI
+150063;ARG Kota Bangun;Kalimantan Timur;Kab. Kutai Kertanegara;Kota Bangun;Kota Bangun Ulu;-0.256278;116.5924;24;operasional;85331703888;6/25/2015;Jl.Sri Bangun RT 20 Komp BPP;HTTP GET;UPT Penyuluhan Pertanian dan Peternakan;BMKG-LSI
+150064;ARG Sebulu;Kalimantan Timur;Kab. Kutai Kertanegara;Sebulu;Sebulu Ilir;-0.26875;117.0056;40;operasional;81348274920;6/25/2015;Jl.Pemuda RT.06 N0.33;HTTP GET;UPT PENYULUHAN PERTANIAN  DAN PETERNAKAN;BMKG-LSI
+150065;ARG Muara Badak;Kalimantan Timur;Kab. Kutai Kertanegara;Muara Badak;Muara Badak Ilir;-0.347194;117.4267;50;operasional;85348402000;6/24/2015;Jl.H.Mahmud;FTP;UPT PENYULUHAN PERTANIAN DAN PETERNAKAN;BMKG-LSI
+150339;ARG Kariangau;Kalimantan Timur;Kota Balikpapan;Balikpapan Utara;Kariangau;-1.200674;116.818377;2;operasional;85787515506;9/29/2017;;HTTP GET;KANTOR SATPEL PELABUHAN PENYEBERANGAN KARIANGAU;MMI-LSI
+150340;ARG Samboja;Kalimantan Timur;Kab. Kutai Kertanegara;Samboja;Kampung Lama;-1.013479;117.086;5;operasional;85246106705;9/30/2017;JL Balikpapan Handil 2;FTP;UPT PENYULUHAN PERTANIAN DAN PETERNAKAN;MMI-LSI
+150341;ARG Sambutan;Kalimantan Timur;Kota Samarinda;Sambutan;Makroman;-0.559468;117.220974;18;operasional;85247568484;10/01/2017;JL Bila No 1 komp Prevab;FTP;UPTD Perbenihan Dan Perlindungan Hortikultura;MMI-LSI
+STA0097;ARG Ancalong;Kalimantan Timur;Kab. Kutai Timur;Muara Ancalong;Kelinjau Ulu;0.441781;116.6734;4;operasional;82157988476;9/13/2016;-;FTP;UPT PENYULUHAN PERTANIAN PETERNAKAN DAN PERKEBUNAN;BMKG-MSP
+STA0098;ARG Paser;Kalimantan Timur;Kab. Paser;Tanah Grogot;Tanah Grogot;-1.90031;116.1974;7;operasional;85248742497;9/13/2016;JL Kapt Tendean Gg Balai Benih;HTTP GET;UPTD BALAI BENIH TANAMAN PANGAN DAN HORTIKULTURA;BMKG-MSP
+STA0130;ARG Berau (Talisayan);Kalimantan Timur;Kab. Berau;Taliyasan;Taliyasan;1.58014;118.17352;76;operasional;81329145020;1/26/2017;;HTTP GET;Stamet APT Pranoto Samarinda;BMKG-MSP
+STA0167;ARG Linmas;Kalimantan Timur;Kota Balikpapan;Balikpapan Selatan;Sepinggan;-1.24306;116.89333;14;operasional;81346383683;9/13/2016;Jl. Ruhut Rahayu I No.3 ;FTP;BPBD KOTA BALIKAPAPAN;BMKG-LSI
+STA0168;ARG Melak;Kalimantan Timur;Kab. Kutai Barat;Melak;Kampung Empas;-0.2980833;115.7831666;0;operasional;85250799127;9/13/2016;;FTP;UPT AGROBISNIS PERTANIAN EMPAS;BMKG-LSI
+STA0169;ARG Muara Muntai;Kalimantan Timur;Kab. Kutai Kertanegara;Muara Muntai;Muara Muntai;-0.35555;116.38861;10;operasional;81253109991;9/13/2016;Muara Muntai kutai kertanegara;FTP;UPTD DINAS PERTANIAN DAN PETERNAKAN;BMKG-Casella
+STA0225;ARG Timbau;Kalimantan Timur;Kab. Kutai Kertanegara;Tenggarong;Timbau;-0.4466666;116.9943166;5;operasional;81350345602;8/25/2020;Jl. AP. Mangkunegoro No.2 Kel. Timbau  Kec. Tenggaromg  Kab. Kukar;HTTP GET;Kantor BPDB Kab. Kukar;
+STA0226;ARG Gunung Elai;Kalimantan Timur;Kota Bontang;Bontang Utara;Gunung Elai;0.13275;117.47475;5;operasional;85247678778;8/25/2020;Kantor Kelurahan Gunung Elai Jl. Paprika;HTTP GET;BPBD Kota Bontang;
+STAL231;ARG Sangatta;Kalimantan Timur;Kab. Kutai Timur;Bengalon;Tepian Baru;0.694299;117.295019;127;operasional;81347682085;11/26/2018;Jl. Ahmad Yani;FTP;UPT BALAI PENYULUHAN PERTANIAN BENGALON;
+STAL232;ARG Sangkulirang;Kalimantan Timur;Kab. Kutai Timur;Sangkulirang;Benua Baru Hilir;0.98633;117.981478;65;operasional;81221984554;11/27/2018;Banua Baru;FTP;UPT PENYULUHAN PERTANIAN PETERNAKAN DAN PERKEBUNAN;
+STG1008;ARG Rekayasa IKN;Kalimantan Timur;Kab. Penajam Paser Utara;Sepaku;Tengin Baru;-0.910212;116.83882;13;operasional;8125061600;11/30/2022;;;Stamet APT Pranoto Samarinda;BMKG-Rekayasa
+STG1019;ARG Babulu;Kalimantan Timur;Kab. Penajam Paser Utara;babulu;gunung mulia;-1.5303945;116.4029504;12;operasional;81522624134;9/18/2023;Jl. Poros desa gunung mulia km. 05;;Kantor Balai Benih Utama Pertanian;EML
+150157;ARG Tanjung Palas Timur;Kalimantan Utara;Kab. Bulungan;Tanjung Palas Timur;Sajau Hilir;2.721749;117.6366;9;operasional;85246084765;9/13/2016;-;FTP;BP3K Bulungan;BMKG-LSI
+150158;ARG Nunukan;Kalimantan Utara;Kab. Nunukan;Nunukan Selatan;Sei Lancang;3.990138;117.6994;20;operasional;85156628553;9/13/2016;-;HTTP GET;Kantor Kelurahan Tanjung Harapan;BMKG-LSI
+150346;ARG Sesayap Hilir;Kalimantan Utara;Kab. Tana Tidung;Tideng Pale;Sesayap;3.579415;117.00225;19;operasional;81351483333;10/27/2017;JL Perintis KM 01 Kec Sesayap;FTP;Dinas Pertanian;MMI-LSI
+STA0223;ARG Setulang;Kalimantan Utara;Kab. Malinau;Malinau Selatan Hilir;Setulang;3.454777778;116.5016111;22;operasional;81257559030;8/25/2020;Desa Setulang Kec. Malinau Selatan Hilir Kab. Malinau;HTTP GET;Kantor Desa Setulang;
+STA0224;ARG Salap;Kalimantan Utara;Kab. Malinau;Malinau UItara;Salap;3.65575;116.6939833;19;operasional;82157998897;8/25/2020;Jl. Trans Kaltara Rt.2 Desa Salap  Kec. Malinau Utara;HTTP GET;Kantor Desa Salap;
+STAL241;ARG Sebatik Utara;Kalimantan Utara;Kab. Nunukan;Sebatik Utara;Pancang;4.15149;117.88985;8;operasional;8125319931;11/23/2018;Desa Lapri;FTP;Kelompok Tani;
+STAL242;ARG Pulau Bunyu;Kalimantan Utara;Kab. Bulungan;Bunyu;Desa Bunyu Barat;3.468075;117.847168;9;operasional;81350032455;11/25/2018;Jl. Manunggal IX;FTP;Kantor Kecamatan Bunyu;
+STG1020;ARG Sebuku;Kalimantan Utara;Kab. Nunukan;Sebuku;Kunyit;3.953592;116.970537;14;operasional;85347965531;9/18/2023;Jl. Trans sebuku  kunyit;;Tower BTS Bakti;EML
+150139;ARG Air Gegas;Kepulauan Bangka Belitung;Kab. Bangka Selatan;Air Gegas;Air Gegas;-2.684166;106.3883;177;operasional;81279834625;9/13/2016;JL Jenderal Sudirman.;FTP;Kec.Air Gegas;BMKG-LSI
+150140;ARG Belinyu;Kepulauan Bangka Belitung;Kab. Bangka;Belinyu;Kuto Panji;-1.650138;105.7842;160;operasional;82183989090;9/13/2016;Suhaimin;FTP;Kantor Kecamatan Belinyu Pemkab Bangka;BMKG-LSI
+150141;ARG Muntok;Kepulauan Bangka Belitung;Kab. Bangka Barat;Muntok;Sungai Daeng;-2.064166;105.1669;134;operasional;85268983433;9/13/2016;JL Kapten Piere Tendean  No 1.;FTP;Kantor Kecamatan Muntok Kabupaten Bangka Barat;BMKG-LSI
+150181;ARG BPK Parittiga;Kepulauan Bangka Belitung;Kab. Bangka Barat;Parittiga;Kelabat;-1.642863;105.506404;106;operasional;85268677339;08/04/2016;Jl Antara Desa Kelabat PArittiga Jobus;HTTP GET;BPK Parittiga;MMI-LSI
+150182;ARG UPTD Dispernak Kab Bangka;Kepulauan Bangka Belitung;Kab. Bangka;Pemali;Air Duren;-1.924949;106.026982;200;operasional;81373352132;08/04/2016;Jl Raya sungailiat Muntok;FTP;UPTD Dispernak Pemali Kabupaten Bangka;MMI-LSI
+150183;ARG SMA 1 Sungai Selan;Kepulauan Bangka Belitung;Kab. Bangka Tengah;Sungai Selan;Sungai Selan;-2.363524;106.000787;51;operasional;85609384993;08/02/2016;Jl Raya Sungai Selan;HTTP GET;SMA N 1 Sungai Selan Kabupaten Bangka Tengah;MMI-LSI
+150184;ARG BP3K Payung;Kepulauan Bangka Belitung;Kab. Bangka Selatan;Payung;Payung;-2.6099;106.1476;150;operasional;85287555253;08/03/2016;Jl Raya Air Jaya Payung;FTP;BP3K Payung Dinas Pertanian Bangka Selatan;BMKG-LSI
+150185;ARG BP3K Tukak Sadai;Kepulauan Bangka Belitung;Kab. Bangka Selatan;Tukak Sadai;Pasir Putih;-3.034014;106.71283;58;operasional;81918943465;08/03/2016;Jl Raya Sadai;FTP;BP3K Tukak Sadai Dinas Pertanian Bangka Selatan;MMI-LSI
+150279;ARG Lubuk Besar;Kepulauan Bangka Belitung;Kab. Bangka Tengah;Lubuk Besar;Lubuk Besar;-2.543;106.668;49;operasional;81373836294;09/05/2017;JL Komplek Kobatin;FTP;BPP Lubuk Besar Dinas Pertanian Bangka Tengah;MMI-LSI
+150280;ARG Puding Besar;Kepulauan Bangka Belitung;Kab. Bangka;Puding besar;Puding Besar;-1.995;105.955;190;operasional;81367942014;09/06/2017;JL Sungai Liat;FTP;BPP Puding Besar Kabupaten Bangka;MMI-LSI
+150292;ARG Kace Timur;Kepulauan Bangka Belitung;Kab. Bangka;Mendo Barat;Kace timur;-2.136;106.087;111;operasional;82307612711;09/07/2017;JL Raya Muntok KM 4;FTP;BSIP Provinsi Bangka Belitung;MMI-LSI
+STAL091;ARG Air Rembikang;Kepulauan Bangka Belitung;Kab. Belitung;Sijuk;Air Seru;-2.698;107.6775167;26;operasional;87712010988;11/15/2018;Jl Sejuk Air Rembikang;FTP;UPTD Air Rembikang;
+STAL092;ARG Dendang;Kepulauan Bangka Belitung;Kab. Belitung Timur;Dendang;Dendang;-3.0715906;107.9031746;43;operasional;83175045047;11/18/2018;Jl. Raya Dendang;FTP;BPP Dendang;
+150150;ARG Singkep;Kepulauan Riau;Kab. Lingga;Singkep;Tanjung Harapan;-0.486056;104.571937;13;operasional;81276601606;9/13/2016;JL Komplek sekolah Kec.singkep selatan;HTTP GET;Kantor Desa Tanjung Harapan;BMKG-LSI
+150151;ARG Bintan Timur;Kepulauan Riau;Kab. Bintan (Kep.Riau);Bintan Timur;Gunung Lengkuas;0.852616;104.541523;24;operasional;85263318187;9/13/2016;-;FTP;Puskesmas pembantu wak copek;MMI-LSI
+150152;ARG Tanjung Balai Karimun;Kepulauan Riau;Kab. Karimun;Meral;Sungai Raya;1.007174;103.3522;4;operasional;82286553110;9/13/2016;Parit Rampak.;FTP;Pelabuhan Roro ASDP;BMKG-LSI
+150268;ARG Pulau Setokok;Kepulauan Riau;Kota Batam;Bulang;Pulau Setokok ;0.96434;104.046184;4;operasional;81280160726;09/05/2017;Jl. Raya Barelang Jembatan III Pulau Setokok;FTP;Balai Budidaya Laut;MMI-LSI
+150269;ARG Tembeling;Kepulauan Riau;Kab. Bintan (Kep.Riau);Teluk Buntan;Tembeling;1.012567;104.469189;15;operasional;81277207554;09/04/2017;Jl. Tok Sadek No 1;FTP;Kecamatan Teluk Bintan;MMI-LSI
+STG1016;ARG Lingga;Kepulauan Riau;Kab. Lingga;Lingga;Daik;-0.208055;104.598611;3;operasional;85264695874;9/18/2023;Jalan Istana Kota Baru Daik Lingga  29872;;Dinas Perhubungan Kabupaten Lingga;EML
+14032796;ARG Blambangan Umpu;Lampung;Kab. Way Kanan;Blambangan Umpu;Negeri Agung;-4.61377;104.63724;76;operasional;82377606431;06/11/2014;Kampung Kalipatan Kec.Blambangan umpu Kab.Way Kanan;FTP;bmkg;BMKG-LSI
+14032797;ARG Menggala;Lampung;Kab. Tulang Bawang;Menggala;Astra Kestra;-4.61264;105.23633;32;operasional;81373272810;06/10/2014;jl.Lintas Timur Menggala;HTTP GET;bmkg;BMKG-LSI
+14032799;ARG Balik Bukit;Lampung;Kab. Lampung Barat;Balik Bukit;Sabarus;-5.03822;104.09588;883;operasional;81278241306;06/03/2014;jl.Kapten Piere Tendean ;HTTP GET;BMKG;BMKG-LSI
+150016;ARG Kelapa Tujuh;Lampung;Kab. Lampung Utara;Kota Bumi Selatan;Kelapa Tujuh;-4.84669;104.91048;46;operasional;87898691466;6/20/2015;Jl. Letjen Hj. Alamsyah RPN No. 104;FTP;bmkg;BMKG-LSI
+150017;ARG Sragi;Lampung;Kab. Lampung Timur;Sragi;Bakti Rasa;-5.63493;105.74484;11;operasional;81271474459;6/19/2015;Jl. Raya Sragi dusun Fa;FTP;bmkg;BMKG-LSI
+150018;ARG Terbanggi;Lampung;Kab. Lampung Tengah;Terbanggi Besar;Terbanggi;-4.79549;105.1324;32;operasional;82181144799;6/20/2015;PT. GGP / PG 2;FTP;PT. GGP / PG 2;BMKG-LSI
+150019;ARG Sukadana;Lampung;Kab. Lampung Timur;Sukadana;Sukadana ILir;-5.03264;105.52345;17;operasional;81379700689;6/17/2015;Jl. Letnan Sutrasno Sukadana Ilir;FTP;bmkg;BMKG-LSI
+150020;ARG Kalianda;Lampung;Kab. Lampung Selatan;Kalianda;Way Urang;-5.71444;105.5828;14;operasional;82178732748;6/18/2015;Jl. Mustafa Kemal No. 16;FTP;bmkg;BMKG-LSI
+150021;ARG Ganti Warno;Lampung;Kab. Lampung Timur;Pekalongan;Ganti Warno;-5.0655;105.35929;28;operasional;85789118407;6/17/2015;Jl. Pertanian  Ganti Warno Pekalongan Lam-Tim;FTP;BMKG;BMKG-LSI
+150022;ARG Raman Utara;Lampung;Kab. Lampung Timur;Raman Utara;Rejo Binangun;-4.97387;105.41441;30;operasional;82183386573;6/17/2015;Komp. Perkantoran Pemda. Lampung Timur;FTP;bmkg;BMKG-LSI
+150023;ARG Sumber Rejo;Lampung;Kab. Tanggamus;Sumber Rejo;Simpang Kanan;-5.38615;104.71245;568;operasional;81273370072;6/20/2015;Jl. UPT Sumber Rejo;FTP;bmkg;BMKG-LSI
+150024;ARG Way Lima;Lampung;Kab. Pesawaran;Gedong Tataan;Cipadang;-5.41971;105.06747;202;operasional;85788755601;6/16/2015;PTPN VII UKK (Unit Kebun Karet) Wali;FTP;PTPN VII UKK (Unit Kebun Karet) Wali;BMKG-LSI
+150025;ARG Pandan Surat;Lampung;Kab. Pringsewu;Sukoharjo;Pandan Surat;-5.30128;105.00815;126;operasional;85269498588;6/16/2015;Jl. Beringin;FTP;bmkg;BMKG-LSI
+150176;ARG PTPN VII Unit Bekri;Lampung;Kab. Lampung Tengah;Bekri;Sinar Banten;-5.071864;105.134713;52;operasional;81377650595;7/27/2016;Jl Negara Yukum Jaya;FTP;bmkg;MMI-LSI
+150177;ARG BP3K Gunung Sugih;Lampung;Kab. Pesawaran;Gunung sugih;Gunung sugih Pasar;-4.98271;105.20236;48;operasional;85282763553;7/27/2016;Jl Raya Padang Ratu no 4;HTTP GET;BMKG;MMI-LSI
+150178;ARG BP3 Wonosobo;Lampung;Kab. Tanggamus;Wonosobo;Dadi Rejo;-5.49413;104.53114;14;operasional;85307230296;7/25/2016;Jl Nusa Indah no IV;FTP;Dias Pertanian dan perkebunan;MMI-LSI
+150179;ARG Panaragan Jaya;Lampung;Kab. Tulang Bawang Barat;Tulang Bawang Tengah;Panarangan Jaya;-4.518234;105.081999;44;operasional;85279620044;7/26/2016;Panarangan Jaya;HTTP GET;BMKG;MMI-LSI
+150180;ARG BP3K Bunga Mayang;Lampung;Kab. Lampung Utara;Bunga Mayang;Negara Tulang Bawang;-4.59443;104.86474;48;operasional;85216423531;7/26/2016;Jl Nusa Indah IV;HTTP GET;BMKG;MMI-LSI
+150284;ARG Bandar Surabaya;Lampung;Kab. Lampung Tengah;Bandar Surabaya;Surabaya ilir;-4.68247;105.72318;46;operasional;82279119544;11/15/2017;JL Desa Surabaya ilir1;FTP;BMKG;MMI-LSI
+150285;ARG Biha;Lampung;Kab. Pesisir Barat;Pesisr selatan;Biha;-5.316926;104.01585;6;operasional;82371035970;11/18/2017;JL Krui Biha;FTP;bmkg;MMI-LSI
+150286;ARG Krui;Lampung;Kab. Pesisir Barat;Pesisir tengah;Sukanegara;-5.1728417;103.9464187;7;operasional;81369241178;11/18/2017;Pesisir Tengah;FTP;bmkg;MMI-LSI
+150287;ARG Trikora;Lampung;Kab. Lampung Tengah;Jati agung;Rejo mulyo;-5.26783;105.30332;53;operasional;85269739345;11/16/2017;JL Raya krang anyar;FTP;PTPN VII TERIKORA JATIAGUNG;MMI-LSI
+150288;ARG Way Tuba;Lampung;Kab. Way Kanan;Way Tuba;Ramsai;-4.39914;104.38629;102;operasional;85307230296;11/20/2017;JL Lintas Sumatra;FTP;Dinas Pertanian;MMI-LSI
+STA0006;ARG Taman Bogo;Lampung;Kab. Lampung Timur;Purbolinggo;Taman Bogo;-5.00674;105.48898;44;operasional;81272581211;9/13/2016;Taman Bogo;HTTP GET;Kebun percobaan BBi Taman Bogo;BMKG-MSP
+STA0007;ARG Bergen;Lampung;Kab. Lampung Selatan;Tanjung Sari;Kertosari;-5.32643;105.44481;50;operasional;85378779986;9/13/2016;Sukamarga;HTTP GET;bmkg;BMKG-Campbell
+STA3263;ARG Marga Tiga;Lampung;Kab. Lampung Timur;Margatiga;Tulung Aman;-5.1436;105.52357;53;operasional;8584068631;09/10/2016;;HTTP GET;bmkg;BMKG-LSI
+STA3264;ARG SMPK Abung Semuli;Lampung;Kab. Lampung Utara;Abung Semuli;Semuli Raya;-4.79432;105.010058;42;operasional;85269844125;09/10/2016;Jl. Angkasa Semuli Raya;HTTP GET;bmkg;BMKG-LSI
+STAL081;ARG Mesir Ilir;Lampung;Kab. Way Kanan;Bahuga;Desa Mesir Ilir;-4.26527;104.66939;90;operasional;81271279636;11/21/2018;-;FTP;bmkg;
+STAL082;ARG Simpang Pematang;Lampung;Kab. Mesuji;Simpang Pematang;Desa Simpang Mesuji;-4.02596;105.24916;35;operasional;82177951921;11/15/2018;Jl. Pagar Alam No. 3;FTP;bmkg;
+150101;ARG Seram Utara;Maluku;Kab. Maluku Tengah;Seram Utara Tmur SETI;Kobisonta;-2.989722;129.9244;0;operasional;81340247504;9/30/2015;JL Lintas Tengah;FTP;BP3K;BMKG-LSI
+150201;ARG Air Buaya;Maluku;Kab. Buru;Air Buaya;Air Buaya;-3.08644;126.434529;10;operasional;81326715368;08/12/2016;Jl Tomlima Air Buaya;FTP;UPTD Pertanian Air Buaya;MMI-LSI
+150203;ARG Tehoru;Maluku;Kab. Maluku Tengah;Tehoru;Sakanusa Desa Raya;-3.461944;129.5514;5;operasional;85243429479;08/03/2016;Jl Porors Wai Kao Km 5;FTP;BMKG;MMI-LSI
+150204;ARG Bula;Maluku;Kab. Seram Bagian Timur;Bula;Bula;-3.105325;130.496643;;operasional;82198059780;08/04/2016;Jl Pancasila;FTP;Kantor Kec Bula;MMI-LSI
+150205;ARG Waisala;Maluku;Kab. Seram Bagian Barat;Huamual Belakang;Waesata;-3.104969;127.991742;10;operasional;82219211368;08/06/2016;Jl Pemuda 17 No 1;FTP;Rumah Pak Yamin;MMI-LSI
+150361;ARG Saparua;Maluku;Kab. Maluku Tengah;Saparua;Saparua;-3.523713;128.71517;;operasional;;8/28/2017;Jl.Kapitan Pattimura No: 01;FTP;Kantor Kecamatan Saparua;MMI-LSI
+150362;ARG Labuan;Maluku;Kab. Maluku Tengah;Seram Utara Barat;ameth;-2.796667;129.04;10;operasional;82198685763;8/26/2017;kantor desa ameth;FTP;BMKG;MMI-LSI
+STA0199;ARG Mako;Maluku;Kab. Buru;Waeapo;Waeapo;-3.367935;126.974137;13;operasional;82399030071;6/21/2018;;FTP;Kantor Balai Benih Kecamatan Waeapo ;BMKG-MSP
+STA9002;ARG Staklim Maluku;Maluku;Kab. Seram Bagian Barat;Kairatu;Kairatu;-3.3386;128.3686;0;operasional;;09/10/2016;Jl. Hunitetu;HTTP GET;;BMKG-Rekayasa
+STAL311;ARG Kei Besar;Maluku;Kab. Maluku Tenggara;Kei Besar;Ohoiluk;-5.685277778;132.9841667;230;operasional;81240576551;11/26/2018;Jl Raya Ohoiluk Debut No. 1 Ohoiluk-Langgur;FTP;Balai Ohoi Ohoiwang;
+STAL312;ARG Nusaniwe;Maluku;Kota Ambon;Nusaniwe;Ketsoblak;-3.79055556;128.1005556;508;operasional;;12/04/2020;Jl Patimura  Tual;FTP;BMKG;
+150098;ARG Wasile;Maluku Utara;Kab. Halmahera Timur;Wasile;Cemara Jaya;1.079472;128.1334;;operasional;82220222264;09/08/2015;JL Trans Halmahera Timur;FTP;BP3K Wasile;BMKG-LSI
+150099;ARG Oba Utara;Maluku Utara;Kota Tidore Kepulauan;Oba Utara;Kusu;0.694296;127.555;;operasional;82290625093;9/13/2016;JL Raya Halmahera;FTP;BPTP Malut;BMKG-LSI
+150363;ARG Taraudu Kusu;Maluku Utara;Kab. Halmahera Barat;Sahu Timur;Tara Udu Kusu;1.134126;127.481285;;operasional;81384832292;09/12/2017;Jl. Tara udu Kusu;FTP;BP3K;MMI-LSI
+150364;ARG Panam Boang;Maluku Utara;Kab. Halmahera Selatan;Bacan selatan;Panam Boang;-0.694691;127.466797;;operasional;81340144427;10/18/2017;Jl. Panam Boang Km.10;FTP;BP3K Panam Boang;MMI-LSI
+STA0231;ARG Lanud Leo Wattimena;Maluku Utara;Kab. Morotai ;Morotai Selatan;Darame;2.05;128.31666;;operasional;81343616330;2/27/2024;Bandara Lanud Leo Wattimena;HTTP GET;Base Ops Lanud Wattimena;
+STA0232;ARG Taliabu;Maluku Utara;Kab. Pulau Taliabu;Taliabau Barat;Bobong;-1.944624;124.38372;;operasional;82278256383;8/25/2020;Jl. Nurhikmah Desa Wayo;HTTP GET;BPBD;
+STAL321;ARG Tobelo;Maluku Utara;Kab. Halmahera Utara;Tobelo;;1.734923;127.990773;36;operasional;81340695529;02/07/2024;Jl Kawasan Pemerintahan Komplek GOR;FTP;Badan Penanggulangan Bencana Daerah;
+STAL322;ARG Maba;Maluku Utara;Kab. Halmahera Timur;Maba;Soa Gimalaha;0.68919444;128.2930556;10.4;operasional;81284814360;9/27/2022;Jl. Pendidikan;FTP;Dinas Pertanian;
+150251;ARG Tanoh Manyang;Nanggroe Aceh Darusalam;Kab. Aceh Jaya;Teunom;Tanoh manyang;4.47508;95.79156;5;operasional;85277094215;8/25/2017;JL.Banda Aceh meulaboh;HTTP GET;BPP Teunom;MMI-LSI
+150252;ARG Pasie Raja;Nanggroe Aceh Darusalam;Kab. Aceh Selatan;Pasie Raja;Teupin gajah;3.1342484;97.3119289;10;operasional;82273264362;8/26/2017;JL. Bandara T. Cut Ali;HTTP GET;BMKG;MMI-LSI
+150253;ARG Lae Oram;Nanggroe Aceh Darusalam;Kota Subulussalam;Simpang kiri;Lae oram;2.658597;97.998193;76;operasional;81263963377;8/27/2017; Jalan Raja Tua  Desa Lae Oram  Kecamatan Simpang Kiri;HTTP GET;Kantor BPBD Subulussalam;MMI-LSI
+150254;ARG Lae Butar;Nanggroe Aceh Darusalam;Kab. Aceh Singkil;Gunung meriah;Siderejo;2.37415;97.97392;30;operasional;81260086056;8/28/2017;Kebun Lae Butar PT. Soctfindo;HTTP GET;PT Soctfindo;MMI-LSI
+150255;ARG Gapang;Nanggroe Aceh Darusalam;Kota Saban;Suka Karya;Iboih;5.854878;95.267318;21;operasional;85260975362;8/29/2017;Jl.Nol Kilometer Jorong Gavang;HTTP GET;BKSDA Sabang;MMI-LSI
+150256;ARG Bibitan Kebun Baru;Nanggroe Aceh Darusalam;Kota Langsa;Langsa Baro;Pondok Kelapa;4.492817;97.937479;28;operasional;82367959507;8/27/2017;Kebun Baru PTPN I langsa;HTTP GET;PTPN 1 Kantor Pusat Langsa;MMI-LSI
+150257;ARG Cot Girek;Nanggroe Aceh Darusalam;Kab. Aceh Utara;Cot Girek;Cot Girek;4.919339;97.370514;26;operasional;82370223893;8/26/2017;Kebun Cot Girek PTPN I;HTTP GET;PTPN 1;MMI-LSI
+150258;ARG Karang Baru ;Nanggroe Aceh Darusalam;Kab. Aceh Tamiang;Karang Baru;Kebun Medang Ara;4.342116;98.064792;13;operasional;82261034194;8/28/2017;;HTTP GET;PT.Socfindo;MMI-LSI
+STA0016;ARG Aceh;Nanggroe Aceh Darusalam;Kab. Aceh Timur;Idi Rayeuk;Titi Baro;4.924452;97.785654;19;operasional;82165688889;9/13/2016;Pusat Perkantoran Aceh Timur;HTTP GET;Dinas Pertanian Aceh Timur;BMKG-Campbell
+STA0142;ARG Pegasing;Nanggroe Aceh Darusalam;Kab. Aceh Tengah;Pegasing;Lukup Badak;4.595641;96.808088;1225;operasional;82361845200;9/13/2010;-;HTTP GET;Dinas Pangan ;BMKG-MSP
+STA0159;ARG Tangan Tangan;Nanggroe Aceh Darusalam;Kab. Aceh Barat Daya;Tangan-Tangan;Suak Labu;3.66756;96.90368;6;operasional;85212579184;9/13/2016;Kantor BBU Padi Tangan-tangan;HTTP GET;BBU Tangan Tangan;BMKG-MSP
+STA0161;ARG Babul Makmur;Nanggroe Aceh Darusalam;Kab. Aceh Tenggara;Babul Makmur;Lawe Bekung;3.29773;97.9642;156;operasional;85213396277;9/13/2012;BPP Badar;HTTP GET;BPP Babul Makmur ;BMKG-LSI
+STA0258;ARG Simeulue Timur;Nanggroe Aceh Darusalam;Kab. Simeulue;Simeulue Timur;Suak Buluh;2.44389;96.37528;40;operasional;81265982012;03/08/2021;Jl. Teuku Umar;;Dinas Pertanian dan Pangan Kab. Simeulue;
+STA3255;ARG SMPK Aceh Besar;Nanggroe Aceh Darusalam;Kab. Aceh Besar;Lembah Seulawah;Saree;5.43746;95.71528;484;operasional;81396005670;09/10/2016;JL.Banda aceh-medan km.69;HTTP GET;Dinas Ketahanan Pangan Aceh Tengah;BMKG-LSI
+STAL011;ARG Pulo Aceh;Nanggroe Aceh Darusalam;Kab. Aceh Besar;Pulo Aceh;Lampuyang;5.67046;95.12485;3;operasional;82363505797;11/24/2018;BPP Pulo Aceh;FTP;Balai Penyuluhan Pertanian;
+STAL012;ARG Geumpang;Nanggroe Aceh Darusalam;Kab. Pidie;Geumpang;Leupu;4.846328;96.132697;459;operasional;82367002568;11/15/2018;Leupu  Geumpang Pidie;FTP;Balai Penyuluhan Pertanian Geumpang;
+STAL013;ARG Blang Kejeren;Nanggroe Aceh Darusalam;Kab. Gayo Lues;Blang Kejeren;Gunyak;3.99798;97.3223;979;operasional;82167306453;11/16/2018;Dinas Pertanian Gayo Lues;FTP;Dinas Pertanian Gayo Lues;
+STAL014;ARG Laweung;Nanggroe Aceh Darusalam;Kab. Pidie;Muara Tiga;Ujong Pie;5.526096;95.829112;6;operasional;81360344807;11/02/2018;Muara Tiga  Pidie;FTP;Balai Penyuluhan Pertanian;
+STG1075;ARG Meureudu;Nanggroe Aceh Darusalam;Kab. Pidie Jaya;Meureudu;Rungkom;5.226365;96.24273;2;operasional;82225677895;09/12/2024;Rungkom  Meureudu  Pidie Jaya Regency  Aceh;;BPP Meureudu;BMKG-Campbell
+13122303;ARG Sekotong;Nusa Tenggara Barat;Kab. Lombok Barat;Sekotong;Cendi Manik;-8.772888889;116.0528444;14;operasional;81907520087;5/23/2014;jl.Madabelik Cendi Manik Sekotong;FTP;UPTB-BP3K Sekotong;BMKG-MSP
+14032780;ARG Praya Barat Daya;Nusa Tenggara Barat;Kab. Lombok Tengah;Praya Barat Daya;Dusun Baleluwah  Kel. Darek;-8.73489;116.203179;70;operasional;87865579074;02/12/2013;Desa Darek;FTP;UPTD HPT dan Keswan Praya Barat Daya;BMKG-LSI
+14032781;ARG Pemenang;Nusa Tenggara Barat;Kab. Lombok Utara;Pemenang;Dusun Terengan Tanak Ampar;-8.407027;116.114396;40;operasional;87864290286;01/01/2013;;FTP;SDN 2 Pemenang Timur ;BMKG-LSI
+150048;ARG Pekat;Nusa Tenggara Barat;Kab. Dompu;Pekat;Calabi;-8.2213921;117.7181015;75;operasional;87766845000;08/03/2015;Jl.Lintas Pekat - Dompu;FTP;BPP Pekat;BMKG-LSI
+150049;ARG Plampang;Nusa Tenggara Barat;Kab. Sumbawa;Plampang;Plampang;-8.7767411;117.7583511;39;operasional;85337628081;08/03/2015;Jl.Lintas Sumbawa Bima Km.62 ;FTP;BP3K Plampang;BMKG-LSI
+150050;ARG Sekongkang;Nusa Tenggara Barat;Kab. Sumbawa Barat;Sekongkang;Sekongkang Rawan;-8.9996;116.7522;7;operasional;8175765533;08/03/2015;Jl.Lingkar Selatan ;FTP;UPTB BP3K Sekongkang;BMKG-LSI
+150051;ARG Selong;Nusa Tenggara Barat;Kab. Lombok Timur;Selong;Rakam;-8.651411;116.5197;170;operasional;87763157039;7/30/2015;Jl.Pejanggik;FTP;Dinas Pertanian dan Peternakan Lombok Timur;BMKG-LSI
+150052;ARG Bayan;Nusa Tenggara Barat;Kab. Lombok Utara;Bayan;Anyar;-8.245;116.4320917;55;operasional;87759679331;7/30/2015;Jl.Anyar Senaru;FTP;BPP Bayan;BMKG-LSI
+150171;ARG Praya;Nusa Tenggara Barat;Kab. Lombok Tengah;Praya;Ketejer;-8.696;116.2805278;124;operasional;81933161610;7/26/2016;Jl Raya Mantang;FTP;UPT HPT dan Keswan Praya ;MMI-LSI
+150172;ARG Sekarbela;Nusa Tenggara Barat;Kota Mataram;Sekarbela;Sekarbela;-8.618689;116.088669;2;operasional;87865624065;7/26/2016;Jl Dokter Suejono Link selatan Mataram;FTP;BPBD Prov. NTB;MMI-LSI
+150173;ARG Semongkat;Nusa Tenggara Barat;Kab. Sumbawa;Batu Lanteh;Klengkung;-8.573444;117.318888;244;operasional;85338915184;7/28/2016;Dusun Semongkat Desa Klengkung;FTP;Rumah;MMI-LSI
+150174;ARG Huu;Nusa Tenggara Barat;Kab. Dompu;Huu;Rasa Bou;-8.737805;118.439694;30;operasional;85239660550;7/27/2016;Jl Lintas Lakey Dompu;FTP;Rumah Bapak Ramik;MMI-LSI
+150175;ARG Sape;Nusa Tenggara Barat;Kab. Bima;Sape;Sari;-8.575805;118.9933;13;operasional;85338939144;7/27/2016;Jl Mustara no 15;FTP;BPP Sape;MMI-LSI
+150319;ARG Tambora;Nusa Tenggara Barat;Kab. Bima;Tambora;Rasabau;-8.104075;117.872491;15;operasional;82340149892;08/10/2017;Desa Nangarao  RW 01/RT 03;FTP;Rumah;MMI-LSI
+150320;ARG Donggo;Nusa Tenggara Barat;Kab. Bima;DONGGO;OO;-8.424925;118.595777;668;operasional;81384299129;8/14/2017;desa oo kec donggo;FTP;BP3K Kec.Donggo;MMI-LSI
+150321;ARG SMPN 10 Kota Bima;Nusa Tenggara Barat;Kab. Bima;Asakota;Kolo;-8.373539;118.7215;17;operasional;85237300476;08/12/2017;Jl. Lintas Melayu Kolo;FTP;SMP Negeri 10 Kolo;MMI-LSI
+150322;ARG Sembalun;Nusa Tenggara Barat;Kab. Lombok Timur;sembalun;sembalun;-8.360752;116.52675;1154;operasional;87765093724;08/09/2017;;FTP;UPTPP - Sembalun;MMI-LSI
+150323;ARG Jerowaru;Nusa Tenggara Barat;Kab. Lombok Timur;Jerowaru;sepapan;-8.774023;116.477163;50;operasional;81918143223;08/08/2017;Jl.Sepapan Jerowaru;FTP;UPP Kec. Jerowaru;MMI-LSI
+STA0099;ARG Mataram;Nusa Tenggara Barat;Kota Mataram;Selaparang;Rembiga;-8.558358;116.106852;16;operasional;87864396832;07/05/2020;JL.TRUNOJOYO;FTP;Kelompok Tani;BMKG-MSP
+STA0100;ARG Sikur;Nusa Tenggara Barat;Kota Mataram;Sikur;Montong Baan Selatan;-8.636967;116.426475;316.3;operasional;87863435408;11/26/2013;UPP Kecamatan Sikur;HTTP GET;UPP Kecamatan Sikur;BMKG-MSP
+STA0108;ARG Seteluk;Nusa Tenggara Barat;Kab. Sumbawa Barat;Seteluk;Tapir;-8.63360703;116.8590445;20;operasional;85239861230;9/13/2016;;HTTP GET;BP3K Seteluk;BMKG-MSP
+STA0109;ARG Alas;Nusa Tenggara Barat;Kab. Sumbawa Barat;Alas;Dalam;-8.513333;116.9938;15;operasional;85337620062;01/01/2013;JL Pahlawan.;HTTP GET;UPT-PIA Kec.Alas ;BMKG-MSP
+STA0110;ARG Lenangguar;Nusa Tenggara Barat;Kab. Sumbawa Barat;Lenangguar;Lenangguar;-8.730542;117.373154;225;operasional;85253159221;9/13/2016;Desa Lenangguar;HTTP GET;BP3K Lenangguar;BMKG-MSP
+STA0111;ARG Dompu Manggalewa;Nusa Tenggara Barat;Kab. Dompu;Manggalewa;Nusa Jaya;-8.481388889;118.2993333;125;operasional;81237514378;9/13/2016;Ds NusaJjaya;HTTP GET;BPP Kec.Manggalewa;BMKG-MSP
+STA0149;ARG Rasanae;Nusa Tenggara Barat;Kab. Bima;Rasanae Timur;;-8.4793;118.8;80;operasional;85333000662;9/13/2016;-;HTTP GET;Instalasi PDAM Nungga Rasanae;BMKG-MSP
+STA0197;ARG Lunyuk;Nusa Tenggara Barat;Kab. Sumbawa;Lunyuk;;-8.995141;117.203699;10.5;operasional;82359342494;4/17/2018;BP3K Kecamatan Lunyuk;FTP;BP3K Lunyuk;BMKG-MSP
+STA3251;ARG SMPK Santong;Nusa Tenggara Barat;Kab. Lombok Utara;Kayangan;Santong;-8.31777;116.28786;485;operasional;81917951383;9/26/2016;UPB Santong-Balai Benih Inti PPH NTB ;FTP;UPB Santong-Balai Benih Inti PPH NTB;BMKG-MSP
+STG1064;ARG Batukliang utara;Nusa Tenggara Barat;Kab. Lombok Tengah;Batukliang Utara;Teratak;-8.581285;116.32882;1.3;operasional;8191798003;4/25/2024;Jl. Pariwisata Benang Stokel;;UPT Penyuluhan HPT dan Kesehatan Hewan;BMKG-Campbell
+STG1065;ARG Tarano;Nusa Tenggara Barat;Kab. Sumbawa;Tarano;Labuhan Bontong;-8.7465;117.9947;12;operasional;0852-3809-3227;05/01/2024;Jl. Lintas Sumbawa-Bima;;BPP Kec. Tarano;BMKG-Campbell
+STG1066;ARG Tatar;Nusa Tenggara Barat;Kab. Sumbawa Barat;Sekongkang;Tatar;-9.0506;116.8654;9;operasional;8229914699;05/05/2024;Jalan Raya Senunuk;;Kantor Desa Tatar;BMKG-Campbell
+STG1067;ARG Sanggar;Nusa Tenggara Barat;Kab. Bima;Sanggar;Sandue;-8.3767;118.3105;10;operasional;82359070949;05/01/2024;Jalan Raya Kore;;UPPP Kec. Sanggar;BMKG-Campbell
+STG1068;ARG Soritatanga;Nusa Tenggara Barat;Kab. Dompu;Pekat;Soritatanga;-8.3908;117.8817;25;operasional;81295577558;04/03/2024;Jalan Lintas Dompu – Calabai;;PT SMS (Sukses Mantap Sejahtera);BMKG-Campbell
+14032784;ARG Ende Tengah;Nusa Tenggara Timur;Kab. Ende;Ende Tengah;Onekore;-8.84099;121.652;49;operasional;82347966003;09/07/2013;jl.Dipenogoro no.24;;Dinas Pertanian Tanaman Pangan dan Peternakan;BMKG-LSI
+14032785;ARG Bajawa;Nusa Tenggara Timur;Kab. Ngada;Bajawa;Lebijaga;-8.78142;120.9804;1220;operasional;85231495508;09/11/2013;Jl. Tmn Wisata Mengeruda RT 016 RW 03;HTTP GET;Dinas Pertanian Perkebunan dan Peternakan;BMKG-LSI
+150053;ARG Borong;Nusa Tenggara Timur;Kab. Manggarai Timur;Borong;Ranaloba;-8.804412;120.6121;0;operasional;85253320160;8/16/2015;Jl.Lehong Borong;FTP;Dinas Pertanian Tanaman Pangan dan Peternakan;BMKG-LSI
+150054;ARG Baun;Nusa Tenggara Timur;Kab. Kupang;Amarasi Barat;Teun Baun;-10.2907;123.7201;523;operasional;81228143166;08/12/2015;Jl. HR Koroh;HTTP GET;BMKG;BMKG-LSI
+150055;ARG Paga;Nusa Tenggara Timur;Kab. Sikka;Paga;Paga;-8.770616;122.0494;0;operasional;85333943678;8/19/2015;Jl.Lintas Maumere Ende;HTTP GET;BP3K PAGA;BMKG-LSI
+150056;ARG Larantuka;Nusa Tenggara Timur;Kab. Flores Timur;Larantuka;Saratore Timur;-8.313108;123.0194;0;operasional;81339591997;8/21/2015;Jl.Sarobiti;HTTP GET;Dinas Pertanian dan Peternakan Kab. Flores Timur;BMKG-LSI
+150057;ARG Pantai Baru;Nusa Tenggara Timur;Kab. Rote Ndao;Pantai Baru;Olifulihaa;-10.62745;123.2195;0;operasional;81230714240;8/14/2015;Jl.Pelabuhan Pantai Baru Baa;FTP;Balai Penyuluhan Baru Baa;BMKG-LSI
+150196;ARG Hawu Mehara;Nusa Tenggara Timur;Kab. Sabu Raijua;Hawu Mehara;Tana Jawa;-10.562819;121.741493;200;operasional;85378674425;10/12/2016;Lae Lado;HTTP GET;Kecamatan Hawu Mehara;MMI-LSI
+150197;ARG Danga;Nusa Tenggara Timur;Kab. Nagekeo;Aisesa;Danga;-8.557086;121.275032;0;operasional;85239258982;10/17/2016;Jl Inspeksi Sekunder 1;HTTP GET;Dinas Pertanian;MMI-LSI
+150198;ARG Mbeliling;Nusa Tenggara Timur;Kab. Manggarai Barat;Mbeliling;Batu Cermin;-8.598176;120.019646;875;operasional;81238190354;10/19/2016;Jl Frans Nalar;HTTP GET;Kantor Desa Cunca Lolos;MMI-LSI
+150199;ARG Kadi Pada;Nusa Tenggara Timur;Kab. Sumba Barat Daya;Kota Tambolaka;Kadi Pada;-9.4344108;119.1851882;0;operasional;82146265038;10/21/2016;Jl Pusat Pemerintahan Kadul;FTP;Dinas Pertanian Kab. Sumba Barat Daya;MMI-LSI
+150200;ARG Lewoleba Timur;Nusa Tenggara Timur;Kab. Lembata;Nubantuka;Lebolewa Timur;-8.357516;123.457705;80;operasional;82237875314;10/22/2016;Jl Trans Lembata;HTTP GET;Dinas Pertanian Lembata;MMI-LSI
+150324;ARG Lewa;Nusa Tenggara Timur;Kab. Sumba Timur;Lewa;Kambatawundun;-9.69326;119.86392;570.8;operasional;8123728729;10/06/2017;;FTP;BP3K Lewa;MMI-LSI
+150325;ARG Alor;Nusa Tenggara Timur;Kab. Alor;Alor Barat Laut;Kokar;-8.16314;124.44749;46;operasional;85253491892;10/08/2017;JL Perintis no 3;FTP;Kantor Kecamatan;MMI-LSI
+STA0104;ARG Ruteng;Nusa Tenggara Timur;Kab. Manggarai;Langkerembong;Watu;-8.6121;120.4654;204;operasional;8525333336;9/13/2016;Kel Watu;FTP;Kantor BPBD;BMKG-MSP
+STA0105;ARG Soe;Nusa Tenggara Timur;Kab. Timor Tengah Selatan;Soe;;-9.859981;124.258718;875;operasional;82147608070;9/13/2016;-;FTP;Dinas Pertanian dan Perkebunan TTS;BMKG-MSP
+STA0106;ARG Betun;Nusa Tenggara Timur;Kab. Malaka;Betun;Harekakae;-9.560627;124.9229;49;operasional;85289696150;9/13/2016;Smun Betun;FTP;SMUN Betun;BMKG-MSP
+STA0107;ARG Waikabubak;Nusa Tenggara Timur;Kab. Sumba Barat;Loli;Wee Karou;-9.64818;119.39296;452;operasional;81236270269;9/13/2016;JL Weekaroo.;HTTP GET;Kantor Pemkab;BMKG-MSP
+STA0204;ARG Kefamenanu;Nusa Tenggara Timur;Kab. Timor Tengah Utara;Kefamenanu;Maubele;-9.491666;124.493611;446;operasional;82342419324;7/30/2018;;HTTP GET;Dinas Pertanian Tanaman Pangan dan Perkebunan;BMKG-MSP
+STA0215;ARG Atambua;Nusa Tenggara Timur;Kab. Belu;Atambua Selatan;Fatukbot;-9.133113;124.893683;399;operasional;81232117269;08/06/2020;jalan raya Atambua kelurahan Fatukbot  Atambua Selatan Belu;HTTP GET;Dinas Pertanian Kab. Atambua;
+STG1022;ARG Fatumnasi;Nusa Tenggara Timur;Kab. Timor Tengah Selatan;Fatumnasi;Nenas;-9.5906;124.207631;1331;operasional;82147947356;9/18/2023;Jl. Tapatah;;kantor desa nenas;EML
+150102;ARG Kaoreh;Papua;Kab. Jayapura;Yapsi;Taja SP1;-2.81519444;140.1406053;340;operasional;81244040944;09/10/2015;SP1 Jalur 7  Taja;FTP;-;BMKG-LSI
+150103;ARG Arso;Papua;Kab. Keerom;Arso;Sanggaria / Arso I;-2.802611111;140.7529444;0;operasional;6.28125E+12;09/10/2015;JL Cempaka Arso I;FTP;-;BMKG-LSI
+150216;ARG BP3K Kurik;Papua;Kab. Merauke;Kurik;Kurik;-8.288888;140.2689;0;operasional;82238449193;10/16/2016;Jl Moh Hatta;FTP;BP3K Kurik;MMI-LSI
+150217;ARG Ngguti Bob;Papua;Kab. Merauke;Tanah Miring;Ngutti;-8.292777;140.7022;0;operasional;82397192022;10/02/2016;Jl Poros Jagebob;FTP;-;MMI-LSI
+150218;ARG BP3K Wasur;Papua;Kab. Merauke;Merauke;Rimba raya;-8.536111;140.4642;0;operasional;81240396859;10/01/2016;Jl Trans Irian;FTP;BP3K Wasur;MMI-LSI
+150219;ARG Bonggo;Papua;Kab. Sarmi;Bonggo;Kiken;-2.301421;139.5651;;operasional;82198145238;9/21/2016;Koramil Bonggo Spi;FTP;Koramil Bonggo Sp1;MMI-LSI
+150365;ARG Benyom Jaya;Papua;Kota Jayapura;Nimbokrang;Benyom Jaya;-2.538909;140.105366;29;operasional;81344808604;08/08/2017;Jl. Mambruk Benyom Jaya II;FTP;-;MMI-LSI
+150366;ARG Karya Bumi;Papua;Kota Jayapura;Namblong;Karya Bumi;-2.588611;140.231111;100;operasional;81247665618;08/09/2017;Jl. Karya Bumi;FTP;Karya Bumi;MMI-LSI
+STA0171;ARG Dok II;Papua;Kab. Jayapura;Jayapura Utara;Bayangkara;-2.530363;140.7144;;operasional;8111996269;03/05/2016;JL. BHAYANGKARA II KEL. BHAYANGKARA KEC. JAYAPURA ;FTP;BMKG DOK II;
+STA0172;ARG Biak Barat;Papua;Kab. Biak Numfor;Biak Barat;Yomdori;-1.057068;135.8718;137;operasional;85298822877;3/22/2016;Balai Penyuluhan Pertanian. Jl. Biak Wardo;FTP;Balai Penyuluhan Pertanian;
+STA0173;ARG Serui;Papua;Kab. Yapen Waropen;Yapen Selatan;Serui Kota;-1.875458;136.24;0;operasional;81248026465;3/26/2016;Jl. Jend Sudirman;FTP;BMKG;
+STA0229;ARG Tanah Merah;Papua;Kab. Boven Digoel;Mandobo;Tanah Merah;-6.077373;140.34149;39;operasional;81288788522;8/25/2020;Kantor Dinas TPH PP  Jl. Trans Papua  Kilo 4;HTTP GET;Dinas Pertanian Boven digoel;
+STA0230;ARG Kuala Kencana;Papua;Kab. Mimika;Mimika Baru;Kwamki Lama;-4.407561;136.855859;92;operasional;81316465644;8/25/2020;Jl. Raya Freeport  Bandara Timika 99910;HTTP GET;Pt. Freeport;
+STA3245;ARG SMPK Semangga;Papua;Kab. Merauke;Semangga;Semangga Dua;-8.40974;140.469;4;operasional;85254246091;09/10/2016;;FTP;BMKG;BMKG-LSI
+STAL331;ARG Betaf;Papua;Kab. Sarmi;Sarmi;Pantai Timur;-2.125;139.2697222;51;operasional;81248022468;11/29/2018;Kampung Betaf distrik  pantai timur kabupaten sarmi  jayapura;FTP;Koramil;
+STAL332;ARG KORAMIL Senggi;Papua;Kab. Keerom;Senggi;Koramil;-3.430066667;140.7789925;277;operasional;85155284407;11/17/2018;Jl Trans Senggi-Wamena Kab. Keerom;FTP;Koramil;
+STAL333;ARG Arso 2;Papua;Kab. Keerom;Arso 2;Yuwanain Arso 2;-2.90555556;140.755;61;operasional;81342307458;11/24/2018;Jl Merak no 113  desa yuwanain arso 2  kabupaten keerom;FTP;-;
+STAL334;ARG Agats;Papua;Kab. Asmat;Distrik Agats;Kampung bis agats;-5.541667;138.140833;7.92;operasional;82199875577;11/18/2018;Jl. Franskaisiepo  Agats;FTP;Dinas pertanian Agats;
+STAL335;ARG Atsj;Papua;Kab. Asmat;Dist Atsj;Kampung Yasiw;-5.738847;138.383301;7.92;operasional;81247002636;11/16/2018;Kampung Yasiw  Dist Atsj;FTP;Dinas pertanian;
+STG1024;ARG Sarmi Selatan;Papua;Kab. Sarmi;Sarmi Selatan;Kasukwe;-1.98304;138.709;60;operasional;81240882943;9/18/2023;Kasukwe  Distrik Sarmi Selatan  Kabupaten Sarmi  Papua;;Polres Sarmi;EML
+STG1026;ARG Waris;Papua;Kab. Keerom;Waris;Kalifam;-3.2889024;140.8371652;56;operasional;82316444474;11/17/2023;JL. WARIS  KALIFAM  DISTRIK WARIS  KAB. KEEROM  PAPUA;;POLSEK WARIS;BMKG-Campbell
+STG1027;ARG Heram;Papua;Kota Jayapura;Heram;Waena;-2.57279;140.622611;186;operasional;82323771818;11/17/2023;JL. BUPER  WAENA  KEC. HERAM KOTA JAYAPURA;;IPDN;BMKG-Campbell
+STG1028;ARG Kimaam;Papua;Kab. Merauke;Merauke;Rimba Jaya;-7.9857289;138.8482384;9;operasional;0;3/13/2024;Jl. Poros SP2  Yasa Mulya  Tanah Miring  Kabupaten Merauke  Papua 99612;;BMKG;BMKG-Campbell
+150104;ARG Moswaren;Papua Barat;Kab. Sorong Selatan;Moswaren;Bumi Ajo;-1.489985;132.2311;20;operasional;81247977367;9/16/2015;JL Nusa Indah Kel.Mariat;FTP;LPHP Pertanian;BMKG-LSI
+150105;ARG Ayamaru;Papua Barat;Kab. Maybrat;Ayamaru;Miskajim;-1.276918;132.1977;330;operasional;81344932268;09/10/2015;JL Raya Ayamura Sorong.;HTTP GET;KORAMIL 1704_05 ;BMKG-LSI
+150220;ARG Stageof Sorong;Papua Barat;Kota Sorong;Sorong Barat;Klabala;-0.8622913;131.2590919;164;operasional;85215869821;9/14/2016;Jl Danau Siwiki No 1 Puncak Rafidin sorong;HTTP GET;Stasiun Geofisika sorong;MMI-LSI
+STA0080;ARG Manokwari;Papua Barat;Kab. Manokwari;Masni;Sumber Boga;-0.791858;133.7289;42;operasional;85344254762;9/13/2016;Kampung Masni  SP7  Papua Barat.;HTTP GET;BPP Distrik masni;BMKG-MSP
+STA0234;ARG Manimere;Papua Barat;Kab. Teluk Bintuni;Manimere;Konaro Jaya;-2.0677777;133.7208334;;operasional;85254384477;9/29/2020;Jl. Bintuni - Manokwari;HTTP GET;Distrik / Kecamatan;
+STA0235;ARG Senopi;Papua Barat;Kab. Tambrauw;Senopi;Senopi;-0.838888889;132.9275;;operasional;81278857055;10/02/2020;Jl. Trans Manokwari - Tambrauw;HTTP GET;Distrik / Kecamatan;
+STAL341;ARG Suteibey;Papua Barat;Kab. Pegunungan Afrak;Anggi;Suteibey;-1.30554;133.92241;2220;operasional;85358028903;11/15/2018;Suteibey  Anggi  Manokwari Regency  West Papua 98354;HTTP GET;Kantor Bupati Pegaf;
+STAL342;ARG UNIPA Amban;Papua Barat;Kab. Manokwari;Manokwari Barat;Amban;-0.83333;134.06868;139;operasional;82273298351;11/17/2018;Jalan Gunung Salju  Amban  Manokwari Barat  Amban  Manokwari  Kabupaten Manokwari  Papua Bar. 98314;FTP;Universitas Negeri Papua;
+STG1023;ARG Kaimana;Papua Barat;Kab. Kaimana;Kaimana;Kaimana Kota;-3.663693;133.764641;9;operasional;81344505786;9/18/2023;Jl. Veteran  Kaimana Kota;;SMAN 1 Kaimana;EML
+150116;ARG Kuala Kampar;Riau;Kab. Pelalawan;Kuala Kampar;Kuala Kampar;0.531027;103.2677;0;operasional;81365367004;9/13/2016;JL Bono Sakti No.3 Teluk Dalam.;FTP;Kantor Kec. Kuala Kampar;BMKG-LSI
+150117;ARG Minas;Riau;Kab. Siak;Minas;Minas Jaya;0.699143;101.438512;47;operasional;85265432432;9/13/2016;JL Hutan KM.10;FTP;UPTD Pertanian Minas;BMKG-LSI
+150118;ARG Pusako;Riau;Kab. Siak;Pusako;Pusaka;1.017705;102.116015;15;operasional;82283663636;9/13/2016;JL Pemda Kec Pusako;FTP;BPP Pusako;BMKG-LSI
+150119;ARG Tandun;Riau;Kab. Rokan Hulu;Tandun;Dayo;0.611507;100.55404;25;operasional;82173781573;9/13/2015;Jl. Bukit Sugili Km. 6 Desa Dayo;FTP;BPP Tandun;BMKG-LSI
+150120;ARG Tambusai;Riau;Kab. Rokan Hulu;Tambusai;Talikumain;1.056944;100.2611;83;operasional;82284133741;9/13/2016;JL Tuanku Tambusai;HTTP GET;Dinas Tanaman Pangan;BMKG-LSI
+STA0133;ARG Kandis;Riau;Kab. Siak;Kandis;;0.8896927;101.2369606;0;operasional;85364596017;9/13/2016;-;FTP;BPP Kandis;BMKG-MSP
+STA0150;ARG Tanah Putih;Riau;Kab. Rokan Hilir;Tanah Putih;Sedinginan;1.572556;101.0006;0;operasional;82387410057;9/13/2016;Rokan Hilir;FTP;BPP Pertanian;BMKG-MSP
+STA0151;ARG Bantan;Riau;Kab. Bengkalis;Bantan;Bengkalis;1.499444;102.1459;4;operasional;81365950011;9/13/2016;Bengkalis.;FTP;Kantor Dinas Balai Benih Pertanian;BMKG-MSP
+STA0152;ARG Siak;Riau;Kab. Siak;Siak;Siak;0.814548;102.021211;0;operasional;85314534360;9/13/2016;-;FTP;Dinas Tanaman Pangan;BMKG-MSP
+STA0153;ARG Kuantan Tengah;Riau;Kab. Kuantan Singingi;Kuantan Tengah;Kuansing;-0.540839;101.554764;56;operasional;82382255401;9/13/2016;Kuansing Kuantan tengah.;FTP;Dinas Pertanian;BMKG-MSP
+STA0154;ARG Pasir Pangaraian;Riau;Kab. Rokan Hulu;Rambah;Pasir Pangaraian;0.896111;100.3039;64;operasional;85265806520;9/13/2016;Rambah Rokan Hulu.;FTP;Kantor Dinas Tanaman Pangan;BMKG-MSP
+STA0155;ARG XIII Koto Kampar;Riau;Kab. Kampar; XIII Koto Kampar; XIII Koto Kampar;0.317775;100.735327;87;operasional;82172924848;9/13/2016;Kampar;FTP;Dinas Pertanian;BMKG-MSP
+STA0174;ARG Teluk Meranti;Riau;Kab. Pelalawan;Teluk Meranti;;0.149333;102.5604;;operasional;82390145354;12/20/2016;;FTP;Dinas Pertanian;
+STA0201;ARG SMPK Bangkinang;Riau;Kab. Kampar;Bangkinang;bangkinang;0.326326;101.039558;59;operasional;81365353914;4/25/2018;Dinas Pertanian Tk II;FTP;Dinas Pertanian Kab. Kampar;
+STA0202;ARG Bukit Batu;Riau;Kab. Bengkalis;Bukit Batu;;1.364224;102.154964;3;operasional;85356331765;6/25/2018;;FTP;Dinas Pertanian;BMKG-MSP
+STA0205;ARG Rokan IV Koto;Riau;Kab. Rokan Hilir;Rokan IV Koto;Pendalian IV Koto;0.571355;100.427113;35;operasional;81276253148;8/14/2018;;FTP;UPTD Kec Rokan IV Koto Pendalian IV Koto;MX Turbo
+STA0206;ARG Tembilahan;Riau;Kab. Indragri Hilir;Tembilahan Kota;Tembilahan;-0.324388;103.157754;5;operasional;85271846112;10/04/2018;Kantor PemKab. Indragiri Hilir;FTP;Dinas Pertanian;
+STA0207;ARG Tebing Tinggi;Riau;Kab. Kep. Meranti;Tebing Tinggi;Selat Panjang Kota;1.007886;102.716065;6.8;operasional;82171747573;10/04/2018;Jalan Pertanian Raya Dinas Pertanian Pemerintah Kab. Kep. Meranti;FTP;Dinas Pertanian;
+STA0208;ARG Batang Cenaku;Riau;Kab. Indragiri Hulu;Batang Cenaku;Aur Cina;-0.663637;102.278824;43;operasional;81378460349;10/04/2018;Jl. Aur Cina  Batang Cinaku;FTP;Kantor Kec. Batang Cinaku;
+STA0209;ARG Dumai Timur;Riau;Kota Dumai;Dumai Timur;;1.669771;101.459353;2;operasional;81277096524;10/10/2018;;FTP;Kantor Dinas Sosial;BMKG-Rekayasa
+STA3259;ARG SMPK Bunga Raya;Riau;Kab. Siak;Bunga Raya;;0.960321;102.072948;0;operasional;85272133133;10/09/2016;;FTP;UPTD Pertanian;BMKG-LSI
+STAL041;ARG BPP Rumbai Timur;Riau;Kota Pekanbaru;Rumbai Timur;Limbungan;0.566667;101.46;10;operasional;85372983906;11/23/2018;Jl. Limbungan No.21;FTP;BPP Rumbai;
+STAL042;ARG BPP Kampar Kiri;Riau;Kab. Kampar;Kampar Kiri;Lipat Kain Utara;0.04721;101.204541;22;operasional;85263332608;11/08/2018;Jl. Irigasi Sungai Paku Lipat Kain Utara;FTP;BPP Kampar Kiri;
+150092;ARG Pasangkayu;Sulawesi Barat;Kab. Mamuju Utara;Pasang Kayu;Marta Jaya;-1.16745;119.4373;20;operasional;82189416379;10/15/2015;JL Poros Trans Sulawesi Barat.;FTP;BPP Marta Jaya;BMKG-LSI
+150093;ARG Mamasa;Sulawesi Barat;Kab. Mamasa;Mamasa;Tondok Bakaru;-2.918888;119.3689;1125;operasional;81340045502;10/06/2015;JL Tondok Bakaru.;FTP;BP3K Mamasa;BMKG-LSI
+150357;ARG Topoyo;Sulawesi Barat;Kab. Mamuju Tengah;Topoyo;Kabubu;-2.05521;119.270962;12;operasional;82188503432;9/15/2017;Kabubu  Topoyo  Kabupaten Mamuju  Sulawesi Barat ;FTP;Kantor Kecamatan;MMI-LSI
+150358;ARG Campalagian;Sulawesi Barat;Kab. Majene;Campalagian;Botto;-3.428908;119.156917;8;operasional;85397112281;9/16/2017;JL Poros majene No 77.;FTP;BPP Pertanian;MMI-LSI
+STA0076;ARG Mamuju;Sulawesi Barat;Kab. Mamuju;Simboro;;-2.686976;118.861718;5;operasional;85256565636;9/13/2016;JL Martadinata No.4;HTTP GET;Dinas Pertanian dan Peternakan Kab. Mamuju;BMKG-MSP
+STA0078;ARG Polewali;Sulawesi Barat;Kab. Polewali Mamasa;Wonomulyo;Wonomulyo;-3.427;119.3513;7;operasional;81355200830;9/13/2016;JL Poros Kediri;HTTP GET;BPP Wonomulyo;BMKG-MSP
+STA0181;ARG Malunda;Sulawesi Barat;Kab. Majene;Malunda;Malunda;-3.00216;118.857542;9;operasional;85255316235;11/01/2017;Jl. Poros majene mamuju;FTP;BPP Malunda;
+STAL281;ARG Sumarorong Mamasa;Sulawesi Barat;Kab. Mamasa;Sumarorong;Sumarorong;-3.144995;119.312903;898;operasional;85342800300;11/12/2018;Jl. Poros Polewali Mamasa;FTP;Balai Pelatihan Pertanian;
+STAL282;ARG Pamboang Majene;Sulawesi Barat;Kab. Majene;Pamboang;Lalampanua;-3.490758;118.897967;10.7;operasional;82347167569;11/09/2018;Jl. Suryodilogo no.1;FTP;Balai Pelatihan Pertanian;
+14032790;ARG Maiwa;Sulawesi Selatan;Kab. Enrekang;Maiwa;Maroangin;-3.766941;119.857265;47;operasional;85255777080;09/03/2013;jl. Poros Enrekang;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-LSI
+14032791;ARG Minasatene;Sulawesi Selatan;Kab. Pangkep;Minasatene;Minasatene;-4.831852;119.57416;0;operasional;85299034544;09/04/2013;jl.Cempaka no.3;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-LSI
+14032792;ARG Selayar;Sulawesi Selatan;Kab. Selayar;Bontoharu;Matalalang;-6.150729;120.453421;1;operasional;85757068411;09/03/2013;jl.Poros Bandara Arupalla KM.4;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-LSI
+14103431;ARG Gowa;Sulawesi Selatan;Kab. Gowa;Somba Opu;;-5.21774;119.4699;28;operasional;81347679767;9/17/2014;Jl. Poros Malino;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-LSI
+150122;ARG Panaikang;Sulawesi Selatan;Kota Makasar;Panakukkang;;-5.1425978;119.4525853;5;operasional;81388469778;10/02/2015;JL Racing Center No4.;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-LSI
+150124;ARG Tondon;Sulawesi Selatan;Kab. Toraja Utara;Tondon;Tondon Matallo;-2.95833;119.9488889;841;operasional;81344598877;9/30/2015;JL Poros Rantepao-Palopo KM.7;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-LSI
+150125;ARG Soreang;Sulawesi Selatan;Kota Pare-Pare;Bacukiki;Bukit Harapan;-4.0265801;119.6472563;149;operasional;81342915798;10/01/2015;JL Jenderal Ahmad Yani KM.6 Poros Sidrap;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-LSI
+150126;ARG Pattalassang;Sulawesi Selatan;Kab. Takalar;Pattalassang;Sombala Bella;-5.4252854;119.4310124;6.1;operasional;82293715716;10/02/2015;JL PITRA No.14 Pattalasang.;FTP;Stasiun Klimatologi Sulawesi Selatan;MMI-LSI
+150127;ARG Wara Barat;Sulawesi Selatan;Kota Palopo;Wara Utara;Tumarundung;-2.9960701;120.186706;15;operasional;82345569411;9/30/2015;Palopo;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-LSI
+150352;ARG Kappang;Sulawesi Selatan;Kab. Maros;Cenrana;Kappang;-5.014245;119.751401;321;operasional;85231702312;8/16/2017;Jln Poros Cambah Km 60;FTP;Stasiun Klimatologi Sulawesi Selatan;MMI-LSI
+150353;ARG Malangke;Sulawesi Selatan;Kab. Luwu Utara;Malangke;Pattimang;-2.7894842;120.397318;76.2;operasional;85256068599;8/27/2017;Pattimang;FTP;Stasiun Klimatologi Sulawesi Selatan;MMI-LSI
+150354;ARG Pujananting;Sulawesi Selatan;Kab. Barru;Pujananting ;Mattappawalie;-4.58861;119.7013889;197;operasional;85331074365;8/17/2017;Jl. Patappa Baru;FTP;Stasiun Klimatologi Sulawesi Selatan;MMI-LSI
+150355;ARG Anggeraja;Sulawesi Selatan;Kab. Enrekang;Anggeraja;Bubun Lumba;-3.37817;119.794856;672;operasional;85341018519;8/18/2017;Jl. Bumi Kota;FTP;Stasiun Klimatologi Sulawesi Selatan;MMI-LSI
+150356;ARG Panca Lautang;Sulawesi Selatan;Kab. Sidenreng Rappang;Panca Lautang;Prilokka;-4.06167;119.8366667;25;operasional;82233991827;8/30/2017;Jl. Poros Wete e;FTP;Stasiun Klimatologi Sulawesi Selatan;MMI-LSI
+STA0017;ARG Biringere;Sulawesi Selatan;Kab. Sinjai;Sinjai Utara;Bringere Sinjai;-5.1097855;120.2447404;36;operasional;81343527965;9/13/2016;Dinas Pertanian Hortikultura Biringere;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-MSP
+STA0018;ARG Bulukumba;Sulawesi Selatan;Kab. Bulukumba;Ujungbulu;Mario Renu;-5.5635754;120.1780888;1.1;operasional;81242105068;9/13/2016;Mario Renu Gantarang;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-Campbell
+STA0019;ARG Tampo;Sulawesi Selatan;Kab. Tanatoraja;Mengkendek;Tampo;-3.2094943;119.8973729;865;operasional;82344072606;9/13/2016;Tampo-Mebali;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-MSP
+STA0123;ARG Bone;Sulawesi Selatan;Kab. Bone;Sibulue;Sibulele;-4.6634501;120.3605333;4;operasional;85255393472;9/13/2016;-;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-MSP
+STA0124;ARG Wajo;Sulawesi Selatan;Kab. Wajo;Pitumpanua;Bulete;-3.74972;120.3636111;25;operasional;85355110844;9/13/2016;Bulete  Pitumpanua;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-MSP
+STA3236;ARG SMPK Tiroang;Sulawesi Selatan;Kab. Pinrang;Tiroang;Tiroang;-3.82861;119.7402778;20;operasional;82174065727;09/10/2016;Jl.Poros Pinrang Rappang KM12;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-LSI
+STA3239;ARG SMPK Tamuku;Sulawesi Selatan;Kab. Luwu Utara;Bone-Bone;;-2.64222;120.5325;73.2;operasional;81241778443;09/10/2016;;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-LSI
+14032788;ARG Bungku Tengah;Sulawesi Tengah;Kab. Morowali;Bungku Tengah;Bahomoleo;-2.45696;121.9089;22;operasional;85241300453;09/03/2013;jl. Tamburu no.57;HTTP GET;BPP;BMKG-LSI
+14032789;ARG Petasia;Sulawesi Tengah;Kab. Morowali;Petasia;Korololama;-2.020972222;121.3375833;38;operasional;82271281766;07/01/2013;jl.Temangku;FTP;BPP Korolo;BMKG-LSI
+150090;ARG Dolo Barat;Sulawesi Tengah;Kab. Sigi;Dolo Barat;Mantikole;-1.081747;119.8675;94;operasional;85394096950;9/29/2015;JL Pemandian Mantikole.;HTTP GET;BPP Mantikole;BMKG-LSI
+150091;ARG Kulawi;Sulawesi Tengah;Kab. Sigi;Kolawi;Sungku;-1.461361;119.98975;723;operasional;81354275205;9/30/2015;JL Poros Palu Gempu.;FTP;BPP Sungku;BMKG-LSI
+150210;ARG Palolo;Sulawesi Tengah;Kab. Sigi;Pololo;Bahagi;-1.137259;120.083313;594;operasional;82260836126;08/02/2016;Jl Trans Palu Napu;HTTP GET;BP3K Palolo;MMI-LSI
+150211;ARG Kilo;Sulawesi Tengah;Kab. Poso;Poso Pesisir Utara;Kilo;-1.278256;120.59475;18;operasional;85399742279;08/03/2016;Jl Trans Sulawesi;HTTP GET;BP3K Kilo;MMI-LSI
+150212;ARG Bahodopi;Sulawesi Tengah;Kab. Morowali;Bahadopi;Keureang;-2.798;122.130061;17;operasional;85298137756;08/04/2016;Jl Transmigrasi;HTTP GET;BPP ;MMI-LSI
+150349;ARG Tanamea;Sulawesi Tengah;Kab. Donggala;Banawa selatan;Tanamea;-0.825989;119.620549;3;operasional;82349639993;10/18/2017;JL Poros Palu Mamuju;HTTP GET;BP3K Tanahmea;MMI-LSI
+150350;ARG Karyamukti;Sulawesi Tengah;Kab. Donggala;Dampelas;Karyamukti;0.178531;119.92119;562;operasional;85395172302;10/19/2017;JL Gajah mada;FTP;Balai Benih Karyamukti;MMI-LSI
+150351;ARG Ratolindo;Sulawesi Tengah;Kab. Toja Una-Una;Ratolindo;Uemalingku;-0.911277;121.584222;126;operasional;82348815454;10/21/2017;JL Bumi bhakti no7 Ampana;FTP;Dinas Tanaman Pangan dan Holtikultura;MMI-LSI
+STA0096;ARG Poso;Sulawesi Tengah;Kab. Poso;Pamona Selatan;Pancasila I;-2.120361;120.70172;547;operasional;82291996697;9/13/2016;JL Poros poso-Morowali;FTP;Kantor BPP Pamona Selatan;BMKG-MSP
+STAL271;ARG BPBD Donggala;Sulawesi Tengah;Kab. Donggala;Banawa ;Gunungbale;-0.67972222;119.7533333;62.7;operasional;85299249474;11/25/2018;BPBD Donggala;FTP;BPBD Donggala;
+STAL272;ARG UPTD Ampibabo;Sulawesi Tengah;Kab. Parigi Mountong;Ampibabo;Desa Lemo;-0.45305556;120.0666667;12;operasional;82238138766;12/03/2018;Jl. Trans Sulawesi;HTTP GET;UPTD Ampibabo;
+STAL273;ARG Simpangraya;Sulawesi Tengah;Kab. Banggai;Simpangraya;Desa Sumber Mulya;-0.93805556;122.2444444;97.4;operasional;82293827787;11/28/2018;BPP Simpangraya;FTP;BPP Simpangraya;
+STG1021;ARG Tiloan;Sulawesi Tengah;Kab. Buol;Tiloan;Boilan;1.078561;121.298773;11;operasional;82292859472;9/18/2023;Boilan  Kec. Tiloan  Kabupaten Buol  Sulawesi Tengah 94565;;BP3K Boilan;EML
+150089;ARG Wolasi;Sulawesi Tenggara;Kab. Konawe Selatan;Wolasi;Ranowila;-4.2034;122.5831;44;operasional;85241961212;9/17/2015;JL Lorong Pasar Kantor BP3K Wolasi;FTP;BP3K Wolasi;BMKG-LSI
+150121;ARG Ladongi;Sulawesi Tenggara;Kab. Kolaka Timur;Ladongi;Welala;-4.156305;121.952;30;operasional;81311916286;9/29/2015;Kel Welala Jl Halauoleo;FTP;BP3K;BMKG-LSI
+150123;ARG Abuki;Sulawesi Tenggara;Kab. Konawe Kepulauan;Abuki;Asolu;-3.730166;121.8876;0;operasional;85241976083;9/29/2015;JL Poros Padang Guning;FTP;BP3K Abuki;BMKG-LSI
+150128;ARG Rumbia;Sulawesi Tenggara;Kab. Bombana;Rumbia;Lameroro;-4.747083;122.0214;0;operasional;85242433071;10/02/2015;JL Tangkelari Hombes.;FTP;BP3K Rumbia;BMKG-LSI
+150129;ARG Asera;Sulawesi Tenggara;Kab. Konawe Utara;Asera;Wanggudu;-3.576667;122.1503;0;operasional;8114009006;9/21/2015;komplek Perkantoran Kel.Wanggudu;FTP;Kantor BP4K;BMKG-LSI
+150130;ARG Molawe;Sulawesi Tenggara;Kab. Konawe Utara;Molawe;Molawe;-3.612694;122.1954;7;operasional;85242732377;9/21/2015;Komplek Perkantoran Wanggudu.;FTP;BP4K;BMKG-LSI
+150159;ARG Kapontori;Sulawesi Tenggara;Kab. Buton;Kapontori;Watangka;-5.20872;122.8283;9;operasional;8.13342E+11;9/13/2016;JL Poros kamaru KM.51;FTP;BP3K;BMKG-LSI
+150160;ARG Mawasangka;Sulawesi Tenggara;Kab. Buton;Mawasangka;Mawasangka;-5.299703;122.3051;0;operasional;82396682350;9/13/2016;JL Poros Mawasangka;FTP;BP3K;BMKG-LSI
+150359;ARG Wawonii Barat;Sulawesi Tenggara;Kab. Konawe Kepulauan;Wawonii Barat;Lamoluo;-4.0312;122.99;10;operasional;85298612662;5/16/2017;Jl. Wawonii Barat;FTP;Dinas Pertanian;MMI-LSI
+150360;ARG Saraea;Sulawesi Tenggara;Kab. Buton Utara;Kauli Susu;Saraea;-4.780947;123.186897;30;operasional;81355522617;5/17/2017;Jl.Kompleks Perkantoran Bumi Saraea;FTP;BPBD;MMI-LSI
+STA0095;ARG Kolaka;Sulawesi Tenggara;Kab. Kolaka;Wundulako;Kowioha;-4.04966;121.5938;4;operasional;82188585064;9/13/2016;JL Bendungan.;FTP;BP3K Wundulako;BMKG-MSP
+STA0217;ARG Kolono;Sulawesi Tenggara;Kab. Konawe Selatan;Kolono;;-4.298614;122.69184;14;operasional;82290170518;8/25/2020;Komplek Perkantoran Kolono;HTTP GET;BPP Kolono;
+STA0218;ARG Wapae;Sulawesi Tenggara;Kab. Muna;Tiworo Tengah;Wapae;-4.809827;122.405637;20;operasional;85253482007;8/25/2020;Kantor BPP Tiworo Tengah Desa Wapae;HTTP GET;Kantor BPP Tiworo Tengah Desa Wapae;
+STA0267;ARG Rante Angin;Sulawesi Tenggara;Kab. Kolaka Utara;Rante Angin;Rante Angin;-3.65254;121.05032;40;operasional;85242113900;04/08/2021;Kantor BPP Rante Angin Kolaka Utara;;Kantor BPP Rante Angin;
+STAL301;ARG Kalu-Kaluku;Sulawesi Tenggara;Kab. Kolaka Utara;Kodeoha;Desa Kalu-Kaluku;-3.399722;120.897;4;operasional;81253233005;11/28/2018;BPP Desa Kalu-Kaluku;FTP;Balai Penyuluhan Pertanian;
+STAL302;ARG Kontunaga;Sulawesi Tenggara;Kab. Muna;Kontunaga;Desa Liabalano;-4.87361111;122.6388889;185.7;operasional;85399840289;11/28/2018;BPP Kontunaga;FTP;Balai Penyuluhan Pertanian;
+STAL303;ARG Wanci;Sulawesi Tenggara;Kab. Wakatobi;Wangi-wangi Selatan;Desa Tindoi Timur;-5.28083333;123.5502778;132.6;operasional;81217729817;11/28/2018;BPP Desa Tindoi Timur;FTP;Balai Penyuluhan Pertanian;
+14032787;ARG Ratahan;Sulawesi Utara;Kab. Minahasa Tenggara;Ratahan;Ratahan;1.0225;124.7902778;205;operasional;82192754692;6/24/2014;Desa Ratahan;HTTP GET;BP3K Ratahan ;BMKG-LSI
+14103423;ARG Airmadidi;Sulawesi Utara;Kab. Minahasa Utara;Airmadidi;Raprap;1.429855;124.9675;198;operasional;81340004097;6/24/2014;jl. Balai Penyuluhan kelurahan Raprap;HTTP GET;BPP Airmadidi;BMKG-LSI
+150342;ARG Tondano Timur;Sulawesi Utara;Kab. Minahasa;Tondano Timur;Kiniar;1.270275;124.936923;689;operasional;82191120400;10/26/2017;Desa Kinear;FTP;BPP Tondano Timur;MMI-LSI
+150343;ARG Wori;Sulawesi Utara;Kab. Minahasa Utara;Wori;Wori;1.596042;124.86116;9;operasional;81340699989;10/23/2017;Desa Wori  Talawaan;FTP;BPP Wori;MMI-LSI
+150344; ARG Kotamobagu Barat;Sulawesi Utara;Kota Kotamobagu;Kotamobagu Barat;Mongkanai Barat;0.740167;124.282463;201;operasional;85298231223;10/24/2017;Jl. Baru Komp Terminal Bonawang;FTP;BPP Mongkonai;MMI-LSI
+150345;ARG Langowan Barat;Sulawesi Utara;Kab. Minahasa;Langowan Barat;Raranon;1.140924;124.823989;773;operasional;85256491228;10/25/2017;Jl. Trans sulawesi;FTP;BPP Langowan Barat;MMI-LSI
+STA0014;ARG Pinolosian;Sulawesi Utara;Kab. Bolaaang Mongondow Selatan;Pinolosian;Pinolosian;0.39461;124.1172;5;operasional;85289637643;9/13/2016;Pinolosian;HTTP GET;Dinas Perkebunan;BMKG-Campbell
+STA0015;ARG Poigar;Sulawesi Utara;Kab. Bolaaang Mongondow;Poigar;Gogaluman ;0.98788;124.2603;5;operasional;82188095095;9/13/2016;Gogaluman Poigar;HTTP GET;BPP Poigar;BMKG-Campbell
+STA0219;ARG Kopi;Sulawesi Utara;Kab. Bolaaang Mongodow Utara;Bintauna;Kopi;0.87899569;123.5815597;10;operasional;85298577119;8/25/2020;Jl. Trans Sulawesi Desa Kopi;HTTP GET;BPP Bintauna;
+STA0220;ARG Nuangan;Sulawesi Utara;Kab. Bolaaang Mongondow Timur;Nuangan;Nuangan;0.596944444;124.5314611;8;operasional;82349226419;8/25/2020;Jl. Lingkar Selatan Desa Nuangan;HTTP GET;BPP Nuangan;
+STAL261;ARG Tomohon;Sulawesi Utara;Kota Tomohon;Tomohon Selatan;Tumatangtang Satu;1.29683;124.82614;761;operasional;82189498506;11/14/2018;Desa Tumatangtang;FTP;BPP Tomohon Selatan;
+STAL262;ARG Naha;Sulawesi Utara;Kab. Sangihe Talaud;Tabukan Utara;Lenganeng;3.634602;125.51311;505;operasional;82188816312;11/19/2018;-;HTTP GET;BPTP Lenganeng;
+STAL263;ARG Kotabunan;Sulawesi Utara;Kab. Bolaaang Mongondow Timur;Kotabunan;Buyat Selatan;0.8485;124.6865;1;operasional;85256456224;11/16/2018;Ratatotok;FTP;BPP Kotabunan;
+150144;ARG Ampek Nagari;Sumatera Barat;Kab. Agam;Ampek Nagari;Nagari Bawan;-0.1966;99.99694;57;operasional;81267964391;9/13/2016;Jorong Puduang Nagari Bawan;FTP;UPT BP4K2P Bawan;BMKG-LSI
+150145;ARG Linggosari Baganti;Sumatera Barat;Kab. Pesisir Selatan;Linggosari Baganti;Air Haji;-1.906944;100.8828;11;operasional;81277456171;9/13/2016;JL Raya Padang - Tandikat;FTP;BPK Linggo Sari Baganti;BMKG-LSI
+150146;ARG Sijunjung;Sumatera Barat;Kab. Sijunjung;Muara Sijunjung;Nagari Sijunjung;-0.69722;100.9944;190;operasional;82268872719;9/13/2016;Jl. Sijunjung Aie Angek Km. 15;FTP;UPTB-BPK Muara Sijunjung;BMKG-LSI
+150147;ARG Sungai Dareh;Sumatera Barat;Kab. Dharmasraya;Pulau Punjung;Sungai Dareh;-0.982507;101.5378;108;operasional;82174398969;9/13/2016;JL Lintas Sumatera Km. 4 Sungai Dareh;FTP;UPTD Pemberdayaan Desa Sungai Dareh;BMKG-LSI
+150263;ARG Sungai Limau;Sumatera Barat;Kab. Padang Pariaman;Sungai Limau;Piluba;-0.534895;100.102493;5.8;operasional;82249187678;08/09/2017;Sungai Limau;FTP;BPK Sungai Limau;MMI-LSI
+150264;ARG Guguak;Sumatera Barat;Kab. Limapuluhkota;Guguak;Dangung Danguang;-0.153245;100.547546;529;operasional;81363314348;08/11/2017;Jl. Raya Tabek PanjangTan Malaka Km. 14;FTP;Dinas PUPR Guguak;MMI-LSI
+150266;ARG Solok Selatan;Sumatera Barat;Kab. Solok Selatan;Sangir;Kota Tinggi;-1.554706;101.246422;572;operasional;82268946052;8/15/2017;Jl. Raya Padang Aro - Sungai Penuh;FTP;Dinas Pertanian Solok Selatan;MMI-LSI
+150267;ARG Sipora Jaya;Sumatera Barat;Kab. Kep. Mentawai;Sipora Jaya;Sipora Jaya;-2.064373;99.598366;72;operasional;81267824944;8/18/2017;Jl. Raya Tua Pejat Km. 7;FTP;UPT. Balai Benih Utama Sipora;MMI-LSI
+STA0090;ARG Rao Pasaman;Sumatera Barat;Kab. Pasaman;Rao;Rao;0.561;100.0186;260;operasional;85358996003;9/13/2016;JL Raya Rao Pasaman;FTP;UPT PU Irigasi Air Rao Pasaman;BMKG-MSP
+STA0091;ARG Solok;Sumatera Barat;Kab. Solok;Sukarami;Sukarami;-0.9466;100.6242;1035;operasional;81368181946;9/17/2008;Jl. Raya Solok - Padang;HTTP GET;BPTP Sukarami;BMKG-MSP
+STA0260;ARG Kapur IX;Sumatera Barat;Kab. Limapuluhkota;Kapur IX;Muaro Paiti;0.24139;100.55811;120;operasional;82298116906;5/28/2021;JLN. NUSANTARA I NO. 15 MUARO PAITI KEC. KAPUR IX KODE POST 26273 KABUPATEN LUMA PULUH KOTA PROPINSI SUMATERA BARAT;;BPTPHP KABUPATEN LIMA PULUH KOTA;
+STA3258;ARG SMPK Tanah Datar;Sumatera Barat;Kab. Tanah Datar;Rambatan;Rambatan;-0.500556;100.568278;541;operasional;81374043262;09/10/2014;KP Rambatan;FTP;Kebun Percobaan Rambatan;BMKG-LSI
+STA9006;ARWS Rekayasa GAW Bukit Kototabang;Sumatera Barat;Kab. Agam;Palupuh;Rimbo Panjang;-0.20094;100.3281;864.5;operasional;;5/15/2010;Desa Muaro;FTP;Stasiun GAW Bukit Kototabang;BMKG-Rekayasa
+STG1015;ARG Berangin;Sumatera Barat;Kota Sawahlunto;Berangin;Kolok;-0.602222222;100.7269444;254;operasional;85263693897;9/18/2023;Jl Nagari Kolok Nan Tuo  kec Berangin  Sawahlunto;;BPP Kamang Baru;EML
+STG1069;ARG X Koto;Sumatera Barat;Kab. Tanah Datar;X Koto;Koto Baru;-0.3936;100.41301;1325;operasional;82350004125;7/15/2024;Pos Pendakian Gunung Marapi Nagari Koto Baru  Kec. X Koto  Kabupaten Tanah Datar  Sumatera Barat ;;Pos Pendakian Gunung Marapi Nagari X Koto;BMKG-Campbell
+150006;ARG Cinta Manis;Sumatera Selatan;Kab. Ogan Ilir;Lubuk Keliat;Ketiau;-3.435298;104.6737;45;operasional;81367437430;6/20/2015;PTPN-7  Unit Usaha Cinta Manis;FTP;PTPN-7  Unit Usaha Cinta Manis;BMKG-LSI
+150008;ARG Talang Ubi;Sumatera Selatan;Kab. Penukal Abab Lematang Ilir;Talang Ubi;Talang Ubi Timur;-3.272737;103.8253;43;operasional;85268410434;6/18/2015;Kantor Kelurahan Talang Ubi Timur;FTP;Kantor BPP Kecamatan Talang Ubi Timur;BMKG-LSI
+150009;ARG Sungai Lilin;Sumatera Selatan;Kab. Musi Banyuasin;Sungai Lilin;Pinang Banjar;-2.629328;104.1036;13;operasional;81367783765;6/16/2015;Kantor UPTD Distanak Kec. Sungai Lilin;FTP;BPP Kecamatan Sungai Lilin;BMKG-LSI
+150010;ARG Bayung Lencir;Sumatera Selatan;Kab. Musi Banyuasin;Bayung Lencir;Kali Berau;-2.194636;103.7539;15;operasional;8133539566;6/16/2015;Kantor BP3K Kec. Bayung Lencir;FTP;BP3K Kec. Bayung Lencir;BMKG-LSI
+150011;ARG Lubuk Linggau;Sumatera Selatan;Kota Lubuk Linggau;Lubuk Linggau Timur;Air Kuti;-3.270924;102.9733;126;operasional;82281382409;6/17/2015;Ds. Air Kuti  Kec. Lubuk Linggau Timur;FTP;Dinas Tanaman Pangan  Perkebunan dan Kehutanan;BMKG-LSI
+150012;ARG Muara Dua;Sumatera Selatan;Kab. Oku Selatan;Buay Rawan;Sura Jaya;-4.574656;104.0499;210;operasional;8.15273E+11;6/19/2015;Kec. Buay Rawan;FTP;Stasiun Klimatologi Sumatera Selatan;BMKG-LSI
+150013;ARG Buay Madang;Sumatera Selatan;Kab. Oku Timur;Buay Madang;Kurungan Nyawa;-4.1352;104.2335;15;operasional;82269764623;6/19/2015;Kantor UPTD Tanaman Pangan Hortikultura;FTP;BPP Kecamatan Buay Madang Kabupaten OKUT;BMKG-LSI
+150014;ARG Pulau Panggung;Sumatera Selatan;Kab. Muara Enim;Semendo Darat Laut;Karya Nyata;-4.068448;103.6529;754;operasional;81210545968;6/18/2015;Kantor Dinas Tanaman Pangan dan Hortikultura;FTP;Kantor Dinas tanaman Pangan dan Hortikultura;BMKG-LSI
+150015;ARG Suak Tape;Sumatera Selatan;Kab. Banyuasin;Suak Tape;Lubuk Lancang;-2.859353;104.3568;9;operasional;81367783765;6/15/2015;Kantor BP3K Suak Tape  Jl. Palembang - Betung;FTP;BP3K Kec. Suak Tape;MMI-LSI
+150136;ARG Banyu Asin I;Sumatera Selatan;Kab. Banyuasin;Banyu AsinI;Prajin;-2.953133;104.886;2;operasional;82176237874;9/13/2016;JL Sabar Jaya No.116;FTP;Poltektrans ASDP/ BPPTD Mariana ;BMKG-LSI
+150137;ARG Plaju;Sumatera Selatan;Kota Palembang;Plaju;Komperta;-2.992007;104.8217;2;operasional;81377864566;9/13/2016;JL Beringin No 1 Plaju.;FTP;Kantor Pertamina Plaju Palembang;BMKG-LSI
+150138;ARG Indralaya;Sumatera Selatan;Kota Palembang;Indralaya;Tg. Seteko;-3.232205;104.6795;29;operasional;8.52672E+11;9/13/2016;JL Bakti Guna No.1;FTP;BPP Kecamatan Indralaya Kab. Ogan Ilir;BMKG-Vaisala
+150166;ARG KTM Tanjung Lago;Sumatera Selatan;Kab. Banyuasin;Tanjung Lago;Muliasari;-2.645684;104.760298;26;operasional;81320042166;7/25/2016;Jl Tanjung Api-api Km 42;FTP;SMKN 1 Tanjung Lago;MMI-LSI
+150167;ARG Jaka Baring;Sumatera Selatan;Kota Palembang;Seberang Ulu;Is Ulu;-3.027666;104.781354;5;operasional;82127808578;7/26/2016;Jl Amri Yahya Jaka Baring;HTTP GET;Graha Teknologi Sriwijaya Palembang;MMI-LSI
+150168;ARG Pangkalan Lampan;Sumatera Selatan;Kab. Ogan Komering Ilir;Pangkalan Lampan;Pangkalan Lampan;-3.202146;105.098844;27;operasional;85380855606;7/27/2016;Jl Raya Pampangan - Tulung Salapan;FTP;BPPPK Pangkalan Lampan;MMI-LSI
+150169;ARG Tulung Salapan;Sumatera Selatan;Kab. Ogan Komering Ilir;Tulung Salapan;Lebung Itam;-3.164421;105.283653;25;operasional;82179554290;7/27/2016;Jl Raya Kabupaten;FTP;BPP Kecamatan  Tulung Salapan;MMI-LSI
+150170;ARG Babat Toman;Sumatera Selatan;Kab. Musi Banyuasin;Babat Toman;Kasmaran;-2.765371;103.664652;15;operasional;81377767400;7/28/2016;Jl Lintas Sekayu - Lubuk Linggau;FTP;BPP Kasmaran Kec. Babat Toman Kab. Muba;MMI-LSI
+150289;ARG Prabumulih;Sumatera Selatan;Kota Prabumulih;Cambai;Cambai;-3.372838;104.285316;47;operasional;85292323740;09/05/2017;Jl.Nigota;FTP;UPT Laboratorium  Lingkungan Prabumulih;MMI-LSI
+150290;ARG Muara Beliti;Sumatera Selatan;Kab. Musi Rawas;Muara Beliti;Muara Beliti;-3.245865;103.011818;69;operasional;81219572073;09/07/2017;Jl. Pangeran Muhamad Amin  Komp. Perkantoran Pemkab  Muara Beliti;FTP;Dinas Pertanian Kab. Musi Rawas;MMI-LSI
+150291;ARG Batu Lintang;Sumatera Selatan;Kab. Empat Lawang;Ulu Musi;Batu Lintang;-3.629162;103.046417;294;operasional;85377207546;09/07/2017;;FTP;Kantor Camat Ulu Musi;MMI-LSI
+STA0083;ARG Sekayu;Sumatera Selatan;Kab. Musi Banyuasin;Sekayu;Serasan Jaya;-2.89561;103.845;38;operasional;82305792450;9/13/2016;JL Merdeka No.452 Sekayu;FTP;Dinas Pertanian dan Peternakan;BMKG-MSP
+STA0084;ARG Oku;Sumatera Selatan;Kab. Ogan Komering Ulu;Semidang Aji;Raksa Jiwa;-4.0704;104.0188;103;operasional;85268472031;9/13/2016;-;FTP;Kantor UPTD BPP Raksa Jiwa;BMKG-MSP
+STA0125;ARG Gandus;Sumatera Selatan;Kota Palembang;Gandus;;-3;104.7;4;operasional;81278575683;9/13/2016;-;HTTP GET;BPP Kecamatan Gandus;BMKG-MSP
+STA0262;ARG Lempuing;Sumatera Selatan;Kab. Ogan Komering Ilir;Lempuing;Cahaya Maju;-3.915612;104.89571;19;operasional;82280413388;8/17/2021;Desa Cahaya Maju  Kec. Lempuing  Kab. Oki;;BPP Cahaya Maju Kec Lempuing;
+STA3262;ARG SMPK Lahat;Sumatera Selatan;Kab. Lahat;Lahat;Tanjung Tebat;-3.96598;103.4622;405;operasional;85211278611;09/10/2016;;FTP;BPP Kecamatan Tanjung Tebat Kab. Lahat;BMKG-LSI
+STG1010;ARG Sukakarya;Sumatera Selatan;Kab. Musi Rawas;Sukakarya;Yudhakarya;-3.20643;103.16234;56;operasional;85366409153;5/26/2023;Jl Raya Sukakarya  BPP Kecamatan  Sukakarya  Kabupaten Musi  Rawas;;BPP Sukarya;MX Turbo
+STG1013;ARG PENDOPO;Sumatera Selatan;Kab. Empat Lawang;Pendopo;Bandar Agung;-3.82281;102.95429;301;operasional;85803022701;8/15/2023;Kantor BPP Kecamatan Pendopo Kab. Empat Lawang;;BP3K Kecamatan Pendopo Empat Lawang;BMKG-Campbell
+STG1017;ARG Karang Jaya;Sumatera Selatan;Kab. Musi Rawas;Karang jaya;Muara tiku;-2.57778;102.78646;76;operasional;81373029246;9/18/2023;Jalan Lintas Sumatera Desa Muara Tiku Kecamatan Karang Jaya Kabupaten Musi Rawas Utara;;UPTBP Karang Jaya;EML
+14032793;ARG Simanindo;Sumatera Utara;Kab. Samosir;Simanindo;Garoga;2.661403;98.84269;925;operasional;81362472444;9/16/2014;Jl. Pulo Samosir No. 15 Pagururan;HTTP GET;BMKG;BMKG-LSI
+14032795;ARG Lubuk Barumun;Sumatera Utara;Kab. Padang Lawas Utara;Lubuk Barumun;Gunung Marobat;1.09933;99.7504;132;operasional;81375079856;6/17/2014;jl.Lintas Gunung tua Sibuhuan;HTTP GET;Dinas Pertanian Kb. Padang Lawas;BMKG-LSI
+150106;ARG Sinabung;Sumatera Utara;Kab. Karo;Tiga Nderket;Jandi Meriah;3.128;98.3248;695;operasional;82170422935;9/13/2016;Desa Jandi meriah;HTTP GET;BPP Sinabung;BMKG-LSI
+150107;ARG Sipoholon;Sumatera Utara;Kab. Tapanuli Utara;Sipoholon;Hutaraja;2.15;98.9609;1161;operasional;85262908090;9/13/2016;Hutaraja.;HTTP GET;Dinas Pertanian UPT;MMI-LSI
+150108;ARG Harian;Sumatera Utara;Kab. Samosir;Harian;Janji Martahan;2.5365;98.6798;997;operasional;81365578006;9/13/2016;Janji Martahan-Samosir.;HTTP GET;Dinas Perikanan;BMKG-LSI
+150109;ARG Salak;Sumatera Utara;Kab. Pakak Barat;Salak;Salak II;2.541806;98.31689;994;operasional;81396461020;9/13/2016;Komplek Panorama Indah Sindeka.;HTTP GET;Dinas Pertanian Kab. Pakpak Barat;BMKG-LSI
+150110;ARG Pakkat;Sumatera Utara;Kab. Humban Hasundutan;Pakkat;Pakkat Hauagong;2.152389;98.47425;526;operasional;81264141380;9/13/2016;Kantor Kecamatan Pakkat;HTTP GET;Kantor Kec.Pakkat;BMKG-LSI
+150111;ARG Arse;Sumatera Utara;Kab. Tapanuli Selatan;Arse;Aek Haminjon;1.707;99.3204;888;operasional;85262690936;9/13/2016;JALINSUM Sidempuan Padang.;FTP;BP3K Kec.Arse;BMKG-LSI
+150112;ARG Sipispis;Sumatera Utara;Kab. Serdan Bedagai;Sipispis;Bulu Duri;3.214872;99.06091;73;operasional;85262018288;9/13/2016;Kebun gunung Pamela;HTTP GET;PTPN III;BMKG-LSI
+150113;ARG Mompang;Sumatera Utara;Kab. Mandating Natal;Penyabungan Utara;Mompang;0.910712;99.535409;221;operasional;85261323662;9/13/2016;Jalinsum sidempuan-Padang.;FTP;BP3K Penyabungan Utara;BMKG-LSI
+150114;ARG Patiluban;Sumatera Utara;Kab. Mandating Natal;Natal;Balimbing;0.5929;99.19056;13;operasional;81370627428;9/13/2016;JL Panyabungan;HTTP GET;BP3K Patiluban;BMKG-LSI
+150115;ARG Kualuh Selatan;Sumatera Utara;Kab. Labuhanbatu Utara;Kualuh Selatan;Damuli Kebun;2.479092;99.62941;27;operasional;85275257515;9/13/2016;JL Kapten  H.Rakanen;HTTP GET;Dinas Pertanian Kab. Labuhan Batu Utara;BMKG-LSI
+150259;ARG Raya;Sumatera Utara;Kab. Simalungun;Raya;Raya;2.958988;98.848463;1003;operasional;81370212994;9/30/2017;Jl. JH Saragih;FTP;BPP Pematang Raya;MMI-LSI
+150260;ARG PDAM Sunggal;Sumatera Utara;Kota Medan;Sunggal;Sunggal;3.569887;98.610413;34;operasional;85371579147;10/03/2017;Jl Sunggal Pekan 1A;FTP;PDAM Sunggal;MMI-LSI
+150261;ARG Tiga Binanga;Sumatera Utara;Kab. Karo;Tiga Binanga;Simolap;3.067801;98.204643;559;operasional;81260301557;10/02/2017;Jl Tiga Binanga;FTP;BPP Simolap;MMI-LSI
+150262;ARG Merek;Sumatera Utara;Kab. Karo;Merek;Bandar;2.974725;98.540886;1396;operasional;81396350199;9/29/2017;Jl. Kaban Jahe - Merek;FTP;BPP Merek;MMI-LSI
+STA0008;ARG Tapanuli;Sumatera Utara;Kab. Tapanuli Selatan;Angkola Barat;Hutakoje;1.41101;99.2174;519;operasional;81262049141;9/13/2016;-;HTTP GET;BPP Hutakoje;BMKG-Campbell
+STA0009;ARG Sidikalang;Sumatera Utara;Kab. Dairi;Sidikalang;Sitinjo;2.7395;98.3705;1082;operasional;82275503662;9/13/2016;Jl. Sidikalang - Medan;HTTP GET;BPP Sitinjo;BMKG-Campbell
+STA0178;ARG Gurgur Balige;Sumatera Utara;Kab. Toba Samosir;Tampahan;Balige;2.306747;99.01554;1215;operasional;81361688125;4/18/2017;Jl.lintas Balige;HTTP GET;Kebun Percobaan Gurgur;MMI-MSP
+STA0203;ARG Kota Pinang;Sumatera Utara;Kab. labuhanbatu Selatan;Kota pinang;Mampang;1.82352;100.0142;51;operasional;85270442325;6/28/2018;BPP Kec. Kota Pinang;HTTP GET;BPP Kota Pinang;Theis
+STA0259;ARG BAHOROK;Sumatera Utara;Kab. Langkat;BAHOROK;TAMBANG JAYA;3.531303;98.146507;105;operasional;85372277432;3/25/2021;JL. BUKIT LAWANG BAHOROK;;BPP BAHOROK;
+STG1014;ARG Teluk Dalam;Sumatera Utara;Kab. Nias Selatan;Teluk Dalam;Bawonahono ;0.5840786;97.777254;29;operasional;82214926638;09/12/2023;Desa Bawonahono  kec. Teluk Dalam  kab. Nias Selatan - Sumatera Utara;;BPBD Kabupaten Nias Selatan;EML

@@ -1,0 +1,27 @@
+﻿id_station;name_station;nama_propinsi;nama_kota;kecamatan;kelurahan;latt_station;long_station;elv_station
+STI1001;IKRO Staklim Bali;Bali;Kab. Jembrana;Negara;Baler Bale Agung;-8.34058;114.617503;22
+50010;Iklim Mikro Staklim Banten;Banten;Kota Tangerang Selatan;Pondok Betung;Pondok Betung;-6.2618749;106.7507605;24
+50018;Stasiun Klimatologi Bengkulu;Bengkulu;Kota Bengkulu;kampung melayu;kandang;-3.86493;102.311998;13
+50011;Stasiun Klimatologi Mlati;DI Yogyakarta;Kab. Sleman;Mlati;Sendangadi;-7.731175;110.3536861;182
+50001;Staklim Bone Bolango;Gorontalo;Kab. Bone Balango;Tilongkabila;Moutong;0.555833;123.140546;47
+50009;Stasiun Klimatologi Muaro Jambi;Jambi;Kab. Muaro Jambi;Jaluko;Simpang Sungai Duren;-1.60166667;103.4945556;23
+50016;Stasiun Klimatologi Jawa Barat;Jawa Barat;Kota Bogor;Bogor Barat;Situgede;-6.55289;106.74287;176
+50003;IKRO Staklim Jawa Tengah;Jawa Tengah;Kota Semarang;Semarang Barat;;-6.9848;110.3808;3
+STI1002;IKRO Staklim Jawa Timur;Jawa Timur;Kab. Malang;Karang Ploso;Ngijo;-7.90136;112.597789;600
+STI1003;IKRO Staklim Kalbar;Kalimantan Barat;Kab. Mempawah;Siantan;Sungai Nipah;0.075277;109.190833;1
+STI1004;IKRO Staklim Kalsel;Kalimantan Selatan;Kota Banjar Baru;Banjarbaru Selatan;Sungai Besar;-3.462239;114.840757;48
+50008;Stasiun Klimatologi Bangka Belitung (IKLIM MIKRO);Kepulauan Bangka Belitung;Kab. Bangka Tengah;Koba;Padang Mulia;-2.5233;106.4167;5.8
+50017;Stasiun Klimatologi Pesawaran;Lampung;Kab. Pesawaran;Tegineneng;Bumi agung;-5.172232;105.180371;80
+50007;Stasiun Klimatologi Kairatu;Maluku;Kab. Seram Bagian Barat;Kairatu;Kairatu;-3.3388;128.3684;5
+50006;Stasiun Klimatologi Aceh Besar;Nanggroe Aceh Darusalam;Kab. Aceh Besar;Indrapuri;Indrapuri;5.403587;95.46497;
+STI1005;IKRO Staklim NTB;Nusa Tenggara Barat;Kab. Lombok Barat;Kediri;Montong Are;-8.6364;116.1702;52
+50004;Stasiun Klimatologi Kelas II Kupang;Nusa Tenggara Timur;Kab. Kupang;Kelapa Lima;Lasiana;-10.138335;123.66657;19
+50005;Stasiun Klimatologi Jayapura;Papua;Kab. Jayapura;Nimboran;Tabri;-2.593081;140.167757;62
+50013;Stasiun Klimatologi  Tanah Miring;Papua;Kab. Merauke;Tanah Miring;Tanah Miring;-8.38709;140.5165;6
+50014;Stasiun Klimatologi Papua Barat;Papua Barat;Kab. Manokwari Selatan;Ransiki;Ransiki;-1.51059;134.17704;20
+50015;Iklim Mikro Stasiun Klimatologi Riau;Riau;Kab. Kampar;Tambang;Kuapan;0.40751419;101.2172733;32.4
+50020;IKRO Stasiun Klimatologi Sulawesi Selatan;Sulawesi Selatan;Kab. Maros;Maros Baru;BAJU BODOA;-4.9970132;119.5717409;13
+50012;Ikro Stasiun Klimatologi Ranomeeto;Sulawesi Tenggara;Kab. Konawe Selatan;Ranomeeto;Ranooha;-4.055833;122.449166;
+STI1006;IKRO Staklim Sulawesi Utara;Sulawesi Utara;Kab. Minahasa Utara;Talawaan;Paniki Atas;1.5008394;124.9180715;81
+50002;Stasiun Klimatologi Padang Priaman;Sumatera Barat;Kab. Padang Pariaman;Kayu Tanam;Kapalo Hilalang;-0.54585;100.2985;128
+50019;Stasiun Klimatologi Deli Serdang;Sumatera Utara;Kab. Deliserdang;Percut Sei tuan;Sampali;3.6213523;98.7147972;

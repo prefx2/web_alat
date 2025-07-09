@@ -1,0 +1,105 @@
+﻿id_station;name_station;nama_propinsi;nama_kota;kecamatan;kelurahan;latt_station;long_station;elv_station;status_operasional;hp_petugas;tgl_pasang;addr_instansi;data_transport;instansi;nama_vendor
+STA3026;AAWS Klungkung;Bali;Kab. Klungkung;Dawan;Dawan Kelod;-8.54216;115.441;29;operasional;81236108714;9/13/2016;Jalan Sawo kabeh.;FTP;Dinas Pertanian Kab. Klungkung;BMKG-Casella
+STA3055;AAWS Karangasem;Bali;Kab. Karang Asem;Rendang;Singarata;-8.41598;115.4201;590;operasional;85792135188;09/10/2016;;FTP;UPTD BP3 Kab. Karangasem;Theis
+STA3056;AAWS Tabanan;Bali;Kab. Tabanan;Penebel;Buruan;-8.46083333;115.1391667;295;operasional;82236523371;09/10/2016;;FTP;BPP Penebel;Theis
+STA3000;AAWS Lebak;Banten;Kab. Lebak;Cipanas;Cipanas;-6.5461;106.3906;160;operasional;85882229202;9/13/2016;JL Raya Rangkasbitung - Bogor;FTP;BP3K Cipanas;BMKG-Casella
+STA3001;AAWS Serang;Banten;Kota Serang;Curug;Curug;-6.171216;106.1902;41;operasional;87774062331;9/13/2016;JL syech Moh.Nawawi Al Bantani.;FTP;Dinas Pertanian Provinsi Banten;BMKG-Casella
+STA3002;AAWS Teluk Lada;Banten;Kab. Pandeglang;Sobang;Teluk Lada;-6.523345;105.8264;4;operasional;85212294701;9/13/2016;JL Teluk Lada Raya.;FTP;Dinas Pertanian Kab Pandeglang;BMKG-Casella
+AAWS0321;AAWS Lebong;Bengkulu;Kab. Lebong;Lebong Utara;Tunggang;-3.096778;102.1916389;382;operasional;81539466120;9/13/2016;Tunggang Lebong;FTP;BPP Tunggang;Microsep-MIS
+AAWS0322;AAWS Bengkulu Utara;Bengkulu;Kab. Bengkulu Utara;Arga Makmur;Gunung Alam;-3.438154;102.19923;172;operasional;82186521759;10/17/2019;Arga Makmur;FTP;BMKG;
+AAWS0351;AAWS Gunung Kidul;DI Yogyakarta;Kab. Gunung Kidul;Karangmojo;Karangmojo;-7.96221;110.69331;251;operasional;87886218699;9/13/2016;Karangduwet 1  Karangmojo  Gunungkidul;FTP;BMKG;Microsep-MIS
+STA3023;AAWS Bantul;DI Yogyakarta;Kab. Bantul;Jetis;Barongan;-7.907249043;110.3649754;45;operasional;8122941048;01/09/2013;Komplek Balai Benih Barongan   Jetis  Bantul  yogyakarta;FTP;Balai Benih Barongan;BMKG-Casella
+AAWS0325;AAWS Boalemo Wonosari;Gorontalo;Kab. Boalemo;Wonosari ;Bongo Dua ;0.6995013;122.4517;50;operasional;85298280282;9/13/2016;Wonosari;FTP;BPP Wonosari;Microsep-MIS
+AAWS0342;AAWS Anggrek;Gorontalo;Kab. Gorontalo Utara;Anggrek;Tolongio;0.799722;122.8256;20;operasional;82292796235;9/13/2013;Kec Anggrek;FTP;BPP Anggrek;Microsep-MIS
+STA3034;AAWS Pohuwato;Gorontalo;Kab. Pahuwato;Duhiadaa  Marisa 1;Marisa;0.495736;121.9141;11;operasional;85298593473;9/13/2011;;FTP;BP3K Duhiadaa;BMKG-MSP
+AAWS0318;AAWS Muara Limun;Jambi;Kab. Sarolangun;Limun;Desa Temenggun ;-2.432557;102.618544;63;operasional;81366788518;9/13/2016;Desa Temenggun Dusun Mengkadai;FTP;BMKG;Microsep-MIS
+AAWS0319;AAWS Bangko;Jambi;Kab. Merangin;Batang Masumai;Titian Teras ;-2.073987;102.24034;83;operasional;82181382259;9/13/2016;Merangin;FTP;BMKG;Microsep-MIS
+AAWS0344;AAWS Tanjung Jabung Timur;Jambi;Kab. Tanjung Jabung Timur;Berbak;Simpang;-1.290472;104.0828;6;operasional;85266469499;9/13/2016;Kec.Berbak;FTP;BMKG;Microsep-MIS
+AAWS0348;AAWS Lemah Abang;Jawa Barat;Kab. Cirebon;Lemahabang;Cipoji Wetan;-6.82313;108.61802;12;operasional;85351662220;9/13/2016;Lemah Abang;FTP;BPP Lemahabang;Microsep-MIS
+AAWS0354;AAWS Jatinangor ITB;Jawa Barat;Kab. Sumedang;Jatinangor;Sayang;-6.92924;107.76995;744;operasional;81322246049;9/13/2016;Jl. Let. Jend. Purn. Dr. (HC) Mashudi No. 1;FTP;Kampus ITB Jatinangor;Microsep-MIS
+AAWS3010;AAWS Dramaga;Jawa Barat;Kab. Bogor;Bogor Barat;Situgede;-6.55324;106.74283;175;operasional;83154801819;9/13/2016;Jl. Alternatif IPB - Situ Gede;FTP;Stasiun Klimatologi Jawa Barat;Microsep-MIS
+STA3004;AAWS Sumedang;Jawa Barat;Kab. Sumedang;Ranca Kalong;Nagarawangi;-6.82425;107.84493;828;operasional;85320344625;9/13/2016;Jl. Raya Rancakalong - Sumedang;FTP;UPTD Balai Benih Hortikultura dan Perkebunan Rancakalong;BMKG-Casella
+STA3005;AAWS Ujung Genteng ;Jawa Barat;Kab. Sukabumi;Ciracap;Pangumbahan;-7.32476;106.41298;27;operasional;85794861131;9/13/2016;Kampung Citiis;FTP;PT. ASABALAND - Perkebunan Kelapa;BMKG-MSP
+STA3006;AAWS Banjarsari Ciamis;Jawa Barat;Kab. Ciamis;Banjarsari;Cibadak;-7.49796;108.61577;33;operasional;82240561461;9/13/2016;Dusun Cibadak Desa cibeureum.;FTP;BP3K Banjarsari;BMKG-Casella
+STA3007;AAWS Bojongmangu;Jawa Barat;Kab. Bekasi;Bojongmangu;Bojongmangu;-6.43199;107.19197;34;operasional;85862073621;9/13/2016;JL Raya Bojongmangu;FTP;BP3K  Bojongmangu;BMKG-Casella
+STA3008;AAWS Pelabuhan Ratu;Jawa Barat;Kab. Sukabumi;Pelabuhan Ratu;Jayanti;-7.00589;106.562;52;operasional;81221334584;9/13/2016;Jl.Raya Pelabuhan Ratu Km. 3;FTP;Stasiun Geofisika Kelas 1 Bandung (Pos Magnet Pelabuhan Ratu);BMKG-MSP
+STA3009;AAWS Indramayu;Jawa Barat;Kab. Indramayu;Gantar;Baleraja;-6.4904;107.92409;30;operasional;81320355922;9/13/2016;JL Haur geulis gantar waru KM 5;FTP;BPP Gantar;BMKG-MSP
+AAWS0349;AAWS Kroya;Jawa Tengah;Kab. Cilacap;Kroya;Bujur lor;-7.59953;109.2452;9;operasional;81327094947;9/13/2016;UPT DISPERTANAK Â Wil. Kroya jln.Pertanian No. 199 Mujur Lor Kroya;FTP;Dinas Pertanian Kroya;Microsep-MIS
+AAWS0350;AAWS Sruweng;Jawa Tengah;Kab. Kebumen;Sruweng;Kantor Kepala Desa Sruweng;-7.661542;109.604871;15;operasional;85729881326;9/13/2016;Kantor Pertanian Sruweng;FTP;BPP Sruweng;Microsep-MIS
+AAWS0357;AAWS Pati;Jawa Tengah;Kab. Pati;;;-6.734057;111.020859;25;operasional;8156655327;9/13/2016;Rendole-pati;FTP;BPTP;Microsep-MIS
+AAWS0358;AAWS Sukoharjo;Jawa Tengah;Kab. Sukoharjo;Gatak;Sraten;-7.577065;110.716759;134;operasional;85729881326;9/13/2016;Tegal Gondo;FTP;Kantor Kebun Benih Padi Tegal Gondo;Microsep-MIS
+STA3019;AAWS Purwodadi;Jawa Tengah;Kab. Grobogan;Purwodadi;Kalongan;-7.11056;110.9208;207;operasional;82172026075;9/13/2016;JL Diponegoro 20.;FTP;Dinas Pertanian TPH;BMKG-Casella
+STA3020;AAWS Jepara;Jawa Tengah;Kab. Jepara;Jepara;Bulu;-6.591202;110.649736;8;operasional;89525664254;9/13/2016;Jl. Ade Irma Suryani (Pantai Kartini) Jepara;FTP;LPWP UNDIP;BMKG-Casella
+STA3021;AAWS Rembang;Jawa Tengah;Kab. Rembang;Rembang;Bulu;-6.860138;111.403998;24;operasional;81215087267;9/13/2016;Jl. Raya Rembang - Blora Km 19;FTP;KBH Bulu Rembang;BMKG-Casella
+STA3022;AAWS Banyumas;Jawa Tengah;Kab. Banyumas;Banyumas;Danaraja;-7.52897;109.3068;45;operasional;81225402567;9/13/2016;Jl. Raya Desa Danaraja Banyumas Kode Pos 53192;FTP;Bapeluh dan KP Kab.Banyumas;BMKG-Casella
+STA3024;AAWS Klaten;Jawa Tengah;Kab. Klaten;Klaten Tengah;Semangkak;-7.70333;110.6058;170;operasional;85743872768;9/13/2016;JL Andalas No 19.;FTP;AAWS Klaten;BMKG-Casella
+AAWS0336;AAWS Yosowilangun;Jawa Timur;Kab. Lumajang;Yosowilangun;Kalipepe;-8.21596;113.30183;8;operasional;83853732225;9/30/2013;Yosowilangun;FTP;Kantor UPT BPP Yosowilangun;Microsep-MIS
+AAWS0359;AAWS Tuban;Jawa Timur;Kab. Tuban;Merakurak;;-6.883123;112.0136;9;operasional;85231281223;12/14/2012;Tuban;FTP;Kantor BP2KP Tuban;Microsep-MIS
+STA3051;AAWS Bojonegoro;Jawa Timur;Kab. Bojonegoro;Sumber Rejo;Talun;-7.1739;112.0108;35;operasional;81293513416;12/21/2012;;FTP;Kebun Percobaan Sumber Rejo;Theis
+STA3052;AAWS IGG Glenmore;Jawa Timur;Kab. Banyuwangi;Glenmore;Karangharjo;-8.35092806;114.0454411;213;operasional;85236894211;12/21/2012;Jl. Teuku Umar Karang harjo  Glenmore Banyuwangi;FTP;PG Glenmore;Theis
+STA3053;AAWS Tulungagung;Jawa Timur;Kab. Tulungagung;Kauman;Bolorejo;-8.05987;111.8595;105;operasional;82142686864;12/21/2012;;FTP;UPT Pengembangan Benih Padi  Kebun Benih Bolorejo;Theis
+STA3054;AAWS Jember;Jawa Timur;Kab. Jember;Semboro;Semboro;-8.20778;113.4417;30;operasional;81234310990;12/21/2012;;FTP;PT. Perkebunan Nusantara PG Semboro;Theis
+STA3057;AAWS Banyuwangi;Jawa Timur;Kab. Banyuwangi;Gambiran;Krajan;-8.3791;114.14445;156;operasional;85236431368;12/21/2012;;FTP;IP2TP Genteng;Theis
+AAWS0323;AAWS Kendawangan Ketapang;Kalimantan Barat;Kab. Ketapang;Kendawangan;Kendawangan Kiri;-2.516241;110.2169;8;operasional;8528969107;9/13/2016;-;FTP;Dinas Pertanian Ketapang;Microsep-MIS
+AAWS0345;AAWS Landak;Kalimantan Barat;Kab. Landak;Ngabang;Jl. Raya Ngabang;0.390977;109.9467;23;operasional;85247237550;9/13/2016;Landak;FTP;Dinas Pertanian Landak;Microsep-MIS
+AAWS0346;AAWS Bengkayang;Kalimantan Barat;Kab. Bengkayang;Bengkayang;Sebalo;0.865779;109.4998;71;operasional;85345053544;9/13/2016;Bengkayang;FTP;Dinas Pertanian Bengkayang;Microsep-MIS
+STA3044;AAWS Sambas;Kalimantan Barat;Kab. Sambas;Tebas;Sempadung;1.24666;109.1666;4;operasional;81345792124;09/10/2016;;FTP;Citrus Center  DPTP dan Hortikultura;Theis
+AAWS0338;AAWS Karang Bintang;Kalimantan Selatan;Kab. Tanah Bumbu;Karang Bintang;Manunggal;-3.339091;115.92738;17;operasional;81351065472;01/01/2013;Jl. TRANSMIGRASI KM. 13.5;FTP;BP3K  Karang Bintang;Microsep-MIS
+STA3035;AAWS Barito Kuala;Kalimantan Selatan;Kab. Barito Kuala;Marahaban;Ulu Benteng;-2.98235;114.7351;5;operasional;8524772456;01/01/2012;Jl. Jend. Sudirman No. 54 Marabahan 70153;FTP;DPTPH Barito Kuala;BMKG-MSP
+STA3036;AAWS Pelaihari;Kalimantan Selatan;Kab. Tanah Laut;Pelaihari;Angsau;-3.798;114.781;18;operasional;81348047903;01/01/2012;Jl. Datu Insyad  Angsau  Pelaihari 70815 ;FTP;Dinas Pertanian dan Perkebunan;BMKG-Casella
+STA3037;AAWS Hulu Sungai Selatan;Kalimantan Selatan;Kab. Hulu Sungai Selatan;Sungai Raya;Hariti;-2.85522;115.24031;16;operasional;81349300252;01/01/2013;JL JEND SUDIRMAN KM. 8 5;FTP;UPTD BPTPH Hulu Sungai Selatan;BMKG-MSP
+STA3038;AAWS Tabalong;Kalimantan Selatan;Kab. Tabalong;Tanjung;Hikun;-2.13466;115.39008;21;operasional;81348236885;01/01/2012;Desa Hikun  Tanjung  Tabalong 71571 ;FTP;BPP Tanjung;BMKG-MSP
+AAWS0337;AAWS Pandih Batu;Kalimantan Tengah;Kab. Pulang Pisau;Pande Batu;;-3.061743;114.1542;0;operasional;81351593786;9/13/2016;-;FTP;Kantor BPP Pangkeh;Microsep-MIS
+STA3040;AAWS Katingan;Kalimantan Tengah;Kab. Katingan;Tumbang Samba;Samba Kahayan;-1.4686694;113.0837198;17;operasional;85652431090;09/10/2016;;;UPBU Tumbang Samba;BMKG-MSP
+STA3041;AAWS Kotawaringin Timur;Kalimantan Tengah;Kab. Kotawaringin Timur;Mentawa Baru Ketapang;Pelangsian;-2.6058;112.9551;10;operasional;85386205536;09/10/2016;;FTP;BKPP Pemkab Kota Waringin Timur  BPP Pelangsian;BMKG-MSP
+STA3042;AAWS Hanau Seruyan;Kalimantan Tengah;Kab. Seruyan;Danau Seluluk;Asam Baru;-2.376861;112.2502;14;operasional;81352705028;09/10/2016;;FTP;BPP;BMKG-MSP
+STA3043;AAWS Barito Timur;Kalimantan Tengah;Kab. Barito Timur;Dusun Tengah;Rodok;-1.810556;115.1639;20;operasional;81351890580;09/10/2016;;FTP;UPT B3P Dusun Tengah;BMKG-MSP
+STA3039;AAWS Penajam Paser Utara;Kalimantan Timur;Kab. Penajam Paser Utara;Petung;Waru;-1.361629;116.6565;5;operasional;6.28135E+12;9/13/2016;;FTP;BPP Penajam;BMKG-Casella
+AAWS0310;AAWS Toboali;Kepulauan Bangka Belitung;Kab. Bangka Selatan;Toboali;Rias;-2.968735;106.440384;85;operasional;81918948434;12/03/2012;Jl. Raya Rias  Desa Rias  Kec.Toboali  Kab. Bangka Selatan;FTP;BPP RIAS;Microsep-MIS
+AAWS0312;AAWS Tanggamus;Lampung;Kab. Tanggamus;Kota Agung;Kp.Baru;-5.47765;104.68325;314;operasional;85377973510;9/13/2016;Komplek Pemda Kota Agung;FTP;Pemda Kota Agung;Microsep-MIS
+AAWS0313;AAWS Seputih Raman;Lampung;Kab. Lampung Tengah;Seputih Raman;Seputih Raman;-4.9450387;105.34627;50;operasional;85279297667;9/13/2016;Seputih Raman;FTP;BPP Seputih Raman;Microsep-MIS
+AAWS0314;AAWS Sidomulyo;Lampung;Kab. Lampung Selatan;Sidomulyo;Sidodadi;-5.60477;105.56219;52;operasional;85838315881;9/13/2016;-;FTP;BPP Kecamatan Sidomulyo;Microsep-MIS
+AAWS0343;AAWS Mesuji;Lampung;Kab. Mesuji;Mesuji Timur;Sidomulyo;-3.886115;105.426856;34;operasional;85267476735;9/13/2016;Mesuji;FTP;Kantor BP3K Kecamatan Mesuji;Microsep-MIS
+STA3045;AAWS Pringsewu;Lampung;Kab. Pesawaran;Gading Rejo;Wates;-5.372407;105.012726;50;operasional;85758940172;09/10/2016;;FTP;Lab Proteksi Tanaman Pangan dan Hortikultura;Theis
+STA3031;AAWS Peureulak;Nanggroe Aceh Darusalam;Kab. Aceh Timur;Peureulak;Beusa Merano;4.827319;97.890519;6;operasional;85276200598;9/13/2016;Jl.Banda Aceh-Medan Km. 393;FTP;Laboratorium PHP Peureulak;BMKG-MSP
+STA3208;AAWS Kutacane;Nanggroe Aceh Darusalam;Kab. Aceh Tenggara;Badar;;3.524524;97.784899;221;operasional;82362282937;09/03/2016;Dinas Pertanian Aceh Tenggara;FTP;Dinas Pertanian Aceh Tenggara;Theis
+STA3225;AAWS Nagan Raya;Nanggroe Aceh Darusalam;Kab. Nagan Raya;Kuala;;4.086564;96.275452;11;operasional;85260473599;09/10/2016;BPP Pulo Ie;FTP;BPP Pulo Ie;Theis
+STA3227;AAWS Peudada;Nanggroe Aceh Darusalam;Kab. Bireun;Peudada;;5.195601;96.594356;8;operasional;81263332400;09/10/2016;BP3K Peudada;FTP;BP3K Peudada;Theis
+AAWS0339;AAWS Sambelia;Nusa Tenggara Barat;Kab. Lombok Timur;Sambelia;;-8.37888;116.68908;133.7;operasional;85259387056;01/01/2013;-;FTP;BBU Sambelia;Microsep-MIS
+STA3028;AAWS Taliwang;Nusa Tenggara Barat;Kab. Sumbawa Barat;Taliwang;;-8.75591;116.8542;12;operasional;82340709756;01/01/2012;komplek KTC;FTP;BP4K TALIWANG;BMKG-MSP
+STA3029;AAWS Sumbawa;Nusa Tenggara Barat;Kab. Sumbawa;Utan;Stowe Brang;-8.417229;117.1211;27;operasional;82340138600;01/01/2011;;FTP;BP3K Kec.Utan;BMKG-MSP
+STA3030;AAWS Dompu;Nusa Tenggara Barat;Kab. Dompu;Woja;Montebaru;-8.5484;118.4299;16;operasional;85238181098;01/01/2012;JL Diponegoro 19.;FTP;BBU Padi Montebaru;BMKG-MSP
+STA4001;AAWS Staklim Lombok Barat;Nusa Tenggara Barat;Kab. Lombok Barat;Kediri;Montong Are;-8.6364;116.1707;52;operasional;89678433313;01/01/2014;Jl. TGH Ibrahim Khalidy Kediri;FTP;BMKG;BMKG-Campbell
+AAWS0347;AAWS Lembor;Nusa Tenggara Timur;Kab. Manggarai Barat;Lembor;;-8.713;120.1668;116;operasional;81237329077;9/13/2016;-;FTP;UPTB-BP3K Lembor;Microsep-MIS
+STA3025;AAWS Oelbubuk;Nusa Tenggara Timur;Kab. Timor Tengah Selatan;Amanuban Selatan;Oelbubuk;-10.088618;124.230419;60;operasional;81236577001;9/13/2016;DS. Oelbubuk;FTP;BBHK Timor tengah selatan;Theis
+STA3027;AAWS Waingapu;Nusa Tenggara Timur;Kab. Sumba Timur;Umalulu;Mutunggeding;-9.8419;120.6357;47;operasional;81339149598;10/16/2018;Melolo Umalulu;FTP;BP3K-MELOLO;BMKG-MSP
+14083224;AAWS Tanah Miring (AWS Plus );Papua;Kab. Merauke;Tanah Miring;Garsa Mulya;-8.38709;140.5165;6;operasional;81247860558;08/06/2014;Jl. Tanah Miring;FTP;BMKG;Theis
+STA3268;AAWS Koya Barat;Papua;Kab. Jayapura;Muara Tami;;-2.68138889;140.8044444;82;operasional;81230028624;09/10/2016;;FTP;Dinas Tanaman Pangan dan Holtikultura;BMKG-LSI
+AAWS0356;AAWS Gunung Toar Kuantan Singingi;Riau;Kab. Kuantan Singingi;Gunung Toar;Kilian Jao;-0.598066;101.48648;100;operasional;81392045400;9/13/2012;Jl. Lintas Kuantan Singingi;FTP;BPP Gunung Toar;Microsep-MIS
+STA3202;AAWS Tambang Kampar;Riau;Kab. Kampar;Tambang;Lipat Kain;0.40751419;101.2172733;9;operasional;81338968352;09/10/2016;;FTP;BMKG;Theis
+STA3203;AAWS Rimba Melintang Rokan Hilir;Riau;Kab. Rokan Hilir;Rimba Melintang;Rimba Melintang;1.84561319;100.9783333;15;operasional;82389594665;09/10/2016;;FTP;BPP Rokan Hilir;Theis
+AAWS0329;AAWS Polewali Mandar;Sulawesi Barat;Kab. Polewali Mamasa;Binuang ;Tonyaman ;-3.447739;119.3741;4;operasional;85255800425;9/13/2016;Kantor BPP Tonyaman Desa.Tonyaman Kec.Binuang Kab.Polewalimandar;FTP;Kantor BPP Tonyaman;Microsep-MIS
+AAWS0330;AAWS Batukaroppa;Sulawesi Selatan;Kab. Bulukumba;Rilau Ale;Tanah Harapan;-5.46891;120.2081;80.6;operasional;85299171038;9/13/2016;-;FTP;Stasiun Klimatologi Sulawesi Selatan;Microsep-MIS
+AAWS0331;AAWS Bengo;Sulawesi Selatan;Kab. Bone;Bengo;Seli;-4.62306;120.0197222;10;operasional;85348642700;9/13/2016;-;FTP;Stasiun Klimatologi Sulawesi Selatan;Microsep-MIS
+AAWS0332;AAWS Bontouse;Sulawesi Selatan;Kab. Wajo;Tanasitolo;Tancung ;-4.04574;120.0305714;26;operasional;81230847533;9/13/2016;-;FTP;Stasiun Klimatologi Sulawesi Selatan;Microsep-MIS
+AAWS0333;AAWS Bajo;Sulawesi Selatan;Kab. Luwu;Bajo ;Jambu;-3.365879;120.3142275;32.8;operasional;85348799968;9/13/2016;-;FTP;Stasiun Klimatologi Sulawesi Selatan;Microsep-MIS
+AAWS0340;AAWS Rappang;Sulawesi Selatan;Kab. Sidenreng Rappang;Panca Rijang;;-3.848056;119.8264;25;operasional;85394094808;9/13/2016;--;FTP;Stasiun Klimatologi Sulawesi Selatan;Microsep-MIS
+STA3047;AAWS Jeneponto;Sulawesi Selatan;Kab. Jeneponto;Binamu;Balang Toa;-5.6710332;119.7326972;11;operasional;82399206285;09/10/2016;;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-MSP
+AAWS0326;AAWS Donggala;Sulawesi Tengah;Kab. Donggala;Sojol;Tonggolobibi ;0.4750695;119.9745;20;operasional;82292290118;9/13/2016;-;FTP;Kantor Desa Tonggolobibi;Microsep-MIS
+AAWS0327;AAWS Luwuk Banggai;Sulawesi Tengah;Kab. Banggai;Toili;;-1.455985;122.3416;30;operasional;81355133995;9/13/2016;-;FTP;LPHP;Microsep-MIS
+AAWS0328;AAWS Parigi Moutong;Sulawesi Tengah;Kab. Parigi Mountong;Torue;Wonosari;-0.9891467;120.311;22;operasional;81245036653;9/13/2016;-;FTP;-;Microsep-MIS
+AAWS0341;AAWS Sidondo;Sulawesi Tengah;Kab. Sigi;Biromaru;Sidondo;-1.109908;119.9098;20;operasional;82290430335;9/13/2016;-;FTP;Kebun Percobaan Sidondo;Microsep-MIS
+AAWS0334;AAWS Mowila;Sulawesi Tenggara;Kab. Konawe Selatan;Mowila;Mulyasar;-4.096044;122.2374;60;operasional;81245823295;9/13/2016;-;FTP;Kantor BP3K Mowila;Microsep-MIS
+AAWS0335;AAWS Ngapaaha;Sulawesi Tenggara;Kab. Konawe Selatan;Tinanggea; Ngapaaha;-4.459369;122.2099;0;operasional;85241586655;9/13/2016;-;FTP;Kantor BP3K Ngapaha;Microsep-MIS
+AAWS0324;AAWS Pinogaluman;Sulawesi Utara;Kab. Bolaaang Mongodow Utara;Pinogaluman ;Desa.Tontulaw ;0.9130949;123.126;5;operasional;85240830848;9/13/2016;Pinagoluman Desa Tontulaw;FTP;BPP Pinogaluman;Microsep-MIS
+STA3033;AAWS Bolaang Mongondow;Sulawesi Utara;Kab. Bolaaang Mongondow;Mopuya Utara;Dumuga 1;0.5745594;123.9806955;156;operasional;85340365290;9/13/2016;Jl. Trans sulawesi;FTP;TEWS BMKG;BMKG-MSP
+STA3204;AAWS GAW Bukit Kototabang;Sumatera Barat;Kab. Agam;Palupuh;Palupuh;-0.20194;100.3181;851;operasional;81258466974;09/10/2016;Jl. Raya Bukittinggi - Medan Km. 17;FTP;Sta GAW Bukit Koto Tabang;Theis
+STA3205;AAWS Staklim Padang Pariaman;Sumatera Barat;Kab. Padang Pariaman;Kayu Tanam;Kapalo Hilalang;-0.54585;100.2985;128;operasional;85375456935;09/10/2016;Jl.Raya Padang - Bukittinggi Km. 51;FTP;Stasiun Klimatologi Padang Pariaman;Theis
+STA3211;AAWS Balitbu Sumani;Sumatera Barat;Kab. Solok;X Koto Singkarak;Sumani;-0.722417;100.5976;383;operasional;81374418830;09/10/2016;Jl. Raya Solok - Sumani;FTP;Balitbu Sumani;Theis
+AAWS0315;AAWS Belitang;Sumatera Selatan;Kab. Oku Timur;Belitang;Gumawang BK 10 ;-4.106389;104.7581;57;operasional;82184759899;9/13/2016;Gumawang BK 10;FTP;Lab.Pengamat hama ;Microsep-MIS
+AAWS0316;AAWS Muara Enim;Sumatera Selatan;Kab. Muara Enim;Muara Enim;;-3.653785;103.7763;41;operasional;83134193289;9/13/2016;Muara Enim;FTP;Dinas Tanaman Pangan Dan Hortikultura;Microsep-MIS
+AAWS0317;AAWS Pagar Alam;Sumatera Selatan;Kota Pagar Alam;Pagar Alam Utara;Alun Dua;-4.037614;103.2654;707;operasional;85357574854;9/13/2016;-;FTP;Dinas Pertanian Pagar Alam;Microsep-MIS
+STA3046;AAWS Ogan Komering Ilir;Sumatera Selatan;Kab. Ogan Komering Ilir;Kayu Agung;Sidakersa;-3.3977639;104.842417;22;operasional;85267817240;09/10/2016;;FTP;BPTP Kabupaten OKI;BMKG-MSP
+STA3032;AAWS Deli Serdang;Sumatera Utara;Kab. Deliserdang;Pagar Merbau;Pasar Miring;3.49709;98.90636;8;operasional;81265500678;9/13/2016;Jl.Raya Galang Km. 8 Lubuk Pakam Deli Serdang;FTP;BPTP Pasar Miring;BMKG-MSP
+STA3209;AAWS Batu Bara;Sumatera Utara;Kab. Batubara;Air Putih;Indra Sakti;3.297133;99.37202;62;operasional;81361324447;09/10/2016;Jl. H. Barus Siregar;FTP;Dinas Pertanian Kab Batubara;Theis
+STA3212;AAWS Hinai Langkat;Sumatera Utara;Kab. Langkat;Hinai;Cempa;3.87505;98.424967;23;operasional;85371769828;09/10/2016;BPP Langkat;FTP;BPP Hinai;Theis

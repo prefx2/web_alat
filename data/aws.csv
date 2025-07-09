@@ -1,0 +1,385 @@
+﻿id_station;name_station;nama_propinsi;nama_kota;kecamatan;kelurahan;latt_station;long_station;elv_station;status_operasional;hp_petugas;tgl_pasang;addr_instansi;data_transport;instansi;nama_vendor
+14063121;AAWS Gerokgak (AWS );Bali;Kab. Buleleng;Gerokgak;Banyupoh;-8.15056;114.6943;15;operasional;81936468207;10/20/2014;Jl. Singaraja - Gilimanuk;FTP;BMKG;BMKG-LSI
+STA2079;AWS Staklim Jembrana;Bali;Kab. Jembrana;Negara;BB Agung;-8.34058;114.617503;22;operasional;82310340134;9/13/2016;Jl. Leli No. 9 Baler Bale Agung Negara;FTP;BMKG;BMKG-RM.Young
+STA2128;AWS Prancak;Bali;Kab. Jembrana;jembrana;budeng;-8.39295;114.6284;2;operasional;8568569234;9/13/2016;Perancak  Jembrana;FTP;BMKG;BMKG-Casella
+STA2227;AWS Pelabuhan Bali;Bali;Kota Denpasar;Denpasar Selatan;Pedungan;-8.746536;115.211375;1;operasional;;11/27/2017;;FTP;BMKG;
+STA2281;AWS GI Negara;Bali;Kab. Jembrana;Jembrana;Dangin Tukadaya;-8.364681;114.660242;9;operasional;85261348620;8/25/2020;Jl. JCC  Cinere  Depok - 16514;;PT. PLN (PERSERO) UNIT INDUK PUSAT PENGATUR BEBAN;
+STA2282;AWS GI Amlapura;Bali;Kab. Karang Asem;Bebandem;Jl. Nenas;-8.447787;115.58769;171;operasional;85261348620;8/27/2020;Jl. JCC  Cinere  Depok - 16514;;PT. PLN (PERSERO) UNIT INDUK PUSAT PENGATUR BEBAN;
+STA2296;AWS Maritim Gilimanuk;Bali;Kab. Jembrana;Melaya;Gilimanuk;-8.160928;114.437346;3.572;operasional;;01/08/2021;;;;
+STA2297;AWS Maritim Padangbai;Bali;Kab. Karang Asem;Manggis;Padangbai;-8.534063;115.509432;49;operasional;;01/08/2021;;;;
+STA5033;AWS Digi Stamet Ngurah Rai;Bali;Kab. Badung;Kuta;Tuban;-8.75;115.167;4.3;operasional;;11/10/2016;Bandara Ngurah Rai;FTP;BMKG Ngurah Rai;Arkan-Digitalisasi
+STW1013;AWS Tuban;Bali;Kab. Badung;Kuta;Tuban;-8.7381;115.1786;7;operasional;87864307934;12/13/2021;;;BMKG;
+STW1021;AWS Kintamani 2;Bali;Kab. Bangli;Kintamani;Satra;-8.180353;115.2661623;1224;operasional;85238510711;11/15/2022;Staklim Kelas II Bali;;Kebun Induk Kopi Arabica;BMKG-Campbell
+10002;AWS Ujung Kulon;Banten;Kab. Pandeglang;;;-6.78119444;105.5025;1;operasional;;01/05/2019;;FTP;;
+STA19991;Water Level PLTU Labuhan;Banten;Kab. Pandeglang;;;-6.401011;105.817595;1;operasional;;12/29/2018;PLTU Labuhan;FTP;PLTU Labuhan;
+STA2047;AWS BSD Serpong;Banten;Kab. Tangerang;Serpong Utara;Lengkong Wetan;-6.2792;106.6503;18;operasional;87872347111;9/13/2016;Serpong.;FTP;Damai Indah Golf;BMKG-Campbell
+STA2048;AWS Golf Modern;Banten;Kab. Tangerang;Tangerang;Kelapa Indah;-6.1978;106.6448;18;operasional;818876118;5/13/2019;Tangerang;FTP;Modern Land Golf Tangerang Banten;BMKG-Jinyang
+STA2062;AWS Staklim Banten;Banten;Kota Tangerang Selatan;Pondok Aren;Pondok Betung;-6.26147016;106.7509349;24;operasional;81398888485;9/13/2016;-;FTP;Stasiun Klimatologi Banten;BMKG-Jinyang
+STA2080;AWS Maritim Merak;Banten;Kota Cilegon;Cilegon;;-5.918889;105.9853;2;operasional;-;9/13/2016;ASDP Merak;FTP;ASDP;BMKG-Campbell
+STA2119;AWS Leuwidamar;Banten;Kab. Lebak;Leuwidamar ;Lebak Parahiyangan;-6.509814;106.192172;101;operasional;81510636639;9/13/2016;JL Kademangan No 2;FTP;BPP Leuwidamar;BMKG-Casella
+STA2231;AWS Pelabuhan Serang;Banten;Kab. Serang;Ciwandan;kepuh;-6.014822;105.951525;1;operasional;;11/27/2017;;FTP;BMKG;
+STA2258;AWS GI Petukangan;Banten;Kota Tangerang Selatan;Pondok Aren;Pondok Karya;-6.25241431;106.743782;25;operasional;85261348620;11/11/2019;Gardu Induk Petukangan;FTP;PLN;
+STA2273;AWS GI Saketi;Banten;Kab. Pandeglang;Saketi;Malimping;-6.405114;106.001213;98;operasional;85261348620;7/23/2020;Jl. JCC  Cinere  Depok - 16514;;PT. PLN (PERSERO) UNIT INDUK PUSAT PENGATUR BEBAN;
+STA4010;AWS SMPK Cileles;Banten;Kab. Lebak;Cileles;CILELES;-6.5158105;106.0808076;112;operasional;85213757499;09/10/2016;JL CILELES-GUNUNG KENCANA;FTP;Dinas Pertanian dan Perkebunan Kabupaten Lebak;BMKG-Campbell
+STA5062;AWS Digi Stamet Curug;Banten;Kota Tangerang;Legok;Serdang Wetan;-6.287308;106.5677384;30;operasional;;10/20/2016;Komplek PLP Curug;FTP;Stamet Curug;Arkan-Digitalisasi
+STA5072;AWS Digi Stamet Serang;Banten;Kota Serang;Serang Barat;Taktakan;-6.111273;106.1218;26;operasional;;11/21/2017;Jl.Taktakan;FTP;Stamet Serang;MMI-LSI
+STA5082;AWS Digi Stamet Cengkareng;Banten;Kota Tangerang;Benda;Legok;-6.12523;106.6581;8;operasional;;12/01/2017;;FTP;BMKG;MMI-LSI
+STW1014;AWS Singamerta;Banten;Kab. Serang;Ciruas;Singamerta;-6.119277;106.2406;12;operasional;87883105034;9/28/2022;Jl. Ciptayasa No.KM. 01  Singamerta  Kec. Ciruas  Kabupaten Serang  Banten 42182;;BPTP Provinsi Banten;BMKG-Campbell
+STW1056;AWS Cibadak;Banten;Kab. Lebak;Cibadak;Bojong Leles;-6.355214;106.217389;24.6;operasional;87772650340;9/14/2023;Jl. Syech Nawawi KM. 4 Cibadak Banten;;Dinas Pertanian Bojong Leles;BMKG-LSI
+160003;AWS Staklim Bengkulu;Bengkulu;Kota Bengkulu;Kampung Melayu;Kandangan;-3.865056;102.312028;13;operasional;81386249230;9/13/2016;JL Ir.Rustandi Sugianto.;;BMKG Bengkulu;BMKG-LSI
+160014;AWS Tais Seluma;Bengkulu;Kab. Seluma;Seluma;Pematang Aur;-4.08383;102.5534;35;operasional;82136995564;9/13/2016;Komplek Perkantoran Pemda.;FTP;BMKG;BMKG-LSI
+STA3199;AWS Manna;Bengkulu;Kab. Bengkulu Selatan;Manna;Kota Medan;-4.445683;102.904359;33;operasional;82374493186;11/27/2014;Jl. Ir Rustandi Sugianto  gang Semen  Kota Bengkulu;FTP;BPTPH Manna;MMI-MSP
+10003;AWS Stageof Yogya;DI Yogyakarta;Kab. Sleman;Gamping;Balecatur;-7.81665;110.29481;153;operasional;85867465535;1/14/2019;Jl. Wates KM. 8;FTP;Stageof Yogyakarta BMKG;
+160016;AWS UGM Yogyakarta;DI Yogyakarta;Kab. Sleman;Depok;Catur Tunggal;-7.768469;110.38192;145;operasional;81804184953;9/13/2016;Bulaksumur Yogyakarta;FTP;UGM Yogyakarta;BMKG-LSI
+160021;AWS Staklim Mlati;DI Yogyakarta;Kab. Sleman;Mlati;Sendangadi;-7.731175;110.3536861;182;operasional;85291221608;9/13/2016;JL Kabupaten KM.55 Duwet Yogyakarta.;FTP;Staklim Mlati BMKG;BMKG-LSI
+STA2061;AWS Kulonprogo;DI Yogyakarta;Kab. Kulon Progo;Wates;Kulwaru;-7.89177;110.1202;8;operasional;8931727062;9/13/2016;Jl.Wates - Purworejo  Kulwaru  Wates  Kulon Progo;FTP;BPP Wates;BMKG-MSP
+STA2095;AWS Pakem;DI Yogyakarta;Kab. Sleman;Pakem;Pakem Binagun;-7.6605;110.409;415;operasional;81357573539;9/13/2016;Posko Utama Jakal 17 Pakem Sleman;FTP;BPBD Sleman;BMKG-Casella
+STA2139;AWS Prambanan;DI Yogyakarta;Kab. Sleman;Prambanan;Bokoharjo;-7.75288;110.48994;176;operasional;85643079215;9/13/2016;Komplek Candi Prambanan  Jl. Solo KM.16.;FTP;Balai Konservasi Purbakala;BMKG-Jinyang
+STA4014;AWS SMPK Kulonprogo;DI Yogyakarta;Kab. Kulon Progo;Namggulan;Wijimulyo;-7.786658043;110.2214155;86;operasional;81328179616;09/10/2016;Wijimulyo  Nanggulan  Kulon Progo;FTP;Balai Benih Nanggulan;BMKG-Campbell
+STW1030;AWS Digi Stasiun Meteorologi Yogyakarta;DI Yogyakarta;Kab. Kulon Progo;Temon;Glagah;-7.9043263;110.0670249;10;operasional;85255734224;12/01/2020;Yogyakarta International Airport;;Stasiun Meteorologi Yogyakarta;BMKG-Campbell
+STA2041;AWS TMII;DKI Jakarta;Jakarta Timur;Kramat Jati;Dukuh;-6.305489;106.899662;37;operasional;81210866025;9/13/2016;TMII;FTP;TMII;BMKG-Jinyang
+STA2046;AWS PIK;DKI Jakarta;Jakarta Utara;Penjaringan;Penjaringan;-6.116237;106.745451;-2;operasional;81316952944;9/13/2016;Pantai indah kapuk.;FTP;Damai Indah Golf;BMKG-Campbell
+STA2065;AWS Stamet Halim Perdanakusuma;DKI Jakarta;Jakarta Timur;Kramatjati;Kramatjati;-6.26248;106.8971;26;operasional;-;9/13/2016;Halim Perdanakusuma.;FTP;Meteo Halim.;BMKG-Campbell
+STA2081;AWS Maritim Kepulauan Seribu;DKI Jakarta;Kab. Kepulauan Seribu;Kepulauan Seribu Utara;Pulau Kelapa;-5.655457;106.5739;1;operasional;-;9/13/2016;-;FTP;kep.seribu.;BMKG-Campbell
+STA2172;AWS Maritim Tanjung Priok;DKI Jakarta;Jakarta Utara;Pademangan;Tanjung Priok;-6.121074;106.838433;3;operasional;87748443136;4/20/2014;-;FTP;Stamar Tanjung Priok;BMKG-Campbell
+STA2181;AWS Stamet 745 Kemayoran;DKI Jakarta;Jakarta Pusat;Gunung Sahari;Kemayoran;-6.155946;106.8423;3;operasional;-;9/13/2016;BMKG Kemayoran;FTP;Stamet 745;BMKG-Campbell
+STA2256;AWS GI Pulomas;DKI Jakarta;Jakarta Timur;Pulogadung;Pisangan Timur;-6.201873;106.880033;14;operasional;85261348620;11/07/2019;Gardu Induk Pulomas;FTP;PLN;
+STA2257;AWS GI Duren Tiga;DKI Jakarta;Jakarta Selatan;Pancoran;Duren Tiga;-6.25847;106.834242;24;operasional;85261348620;11/08/2019;Gardu Induk Duren Tiga;FTP;PLN Gardu Induk;
+STA2260;AWS GI Duri Kosambi;DKI Jakarta;Jakarta Barat;Cengkareng;Duri Kosambi;-6.1691135;106.7251372;26;operasional;85261348620;11/20/2019;Gardu Induk Kosambi;FTP;PLN;
+STW1031;AWS Kebun Bibit Cibubur;DKI Jakarta;Jakarta Timur;Ciracas;Cibubur;-6.356835;106.890804;63;operasional;81584315674;7/25/2023;Jl. Jambore Blok Jati No.1  RT.5/RW.6  Cibubur  Kec. Ciracas  Kota Jakarta Timur  DKI Jakarta 13720;;Kebun Bibit Cibubur PPBPT DKI Jakarta;BMKG-Campbell
+14063062;AAWS Kota Utara (AWS );Gorontalo;Kab. Gorontalo;Kota Utara;Wongkaditi Barat;0.564599;123.0742;12;operasional;81340112409;11/20/2014;Jl Brigjen Piola Isa;FTP;BP3K Kota Utara;BMKG-LSI
+160007;AWS Staklim Tilongkabila;Gorontalo;Kab. Bone Balango;Tilongkabila;Mautong;0.555833;123.140546;47;operasional;;09/10/2015;JL BJ Habibie;FTP;Stasiun Klimatologi Gorontalo;BMKG-LSI
+160039;AWS Taluditi;Gorontalo;Kab. Pahuwato;Taluditi;Pancakarsa 2;0.627707;121.808449;24;operasional;85350202210;10/05/2017;;FTP;BPP Taluditi;MMI-LSI
+14063114;AAWS Batin III (AWS );Jambi;Kab. Bungo;Batin III Ulu;Sungai Binjai;-1.454972;102.1046;51;operasional;83171424124;10/15/2014;Jl. RM Thaher Muara Bungo 37214;FTP;BMKG;BMKG-LSI
+160002;AWS Staklim Muaro Jambi;Jambi;Kab. Muaro Jambi;Jaluko;Sungai Duren;-1.60111;103.4944;25;operasional;82283308762;9/13/2016;Jl. Raya Jambi-Muara Bulian Km 18 ;FTP;BMKG;BMKG-LSI
+160013;AWS Tujuh Koto Ilir;Jambi;Kab. Tebo;Tujuh Kota Ilir;Cermin Alor;-1.178367;102.1558;52;operasional;85266224578;9/13/2016;BPP Tujuh Koto Ilir;FTP;BMKG;BMKG-LSI
+160047;AWS Bukit Baling;Jambi;Kab. Muaro Jambi;Sekernan;Bukit Baling;-1.411358;103.490285;19;operasional;85266673472;10/27/2017;;FTP;BMKG;MMI-LSI
+160048;AWS Wira Karya Sakti;Jambi;Kab. Tanjung Jabung Timur;Geragai;Pandan Jaya;-1.3575;103.6256;-;operasional;82180188428;10/30/2017;;FTP;BMKG;MMI-LSI
+STA2098;AWS Tebo Jambi;Jambi;Kab. Tebo;Rembo Ilir;Karang dadi;-1.38614;102.1757;61;operasional;85268787998;9/13/2016;Tebo;FTP;BMKG;BMKG-Casella
+STA2099;AWS Tanjung Jabung Barat;Jambi;Kab. Tanjung Jabung Barat;Tungkal Ulu;Kuala Dasal;-1.17897;103.208;44;operasional;85380495571;9/13/2016;Jambi;FTP;BMKG;BMKG-Casella
+STA3257;AWS Kayu Aro;Jambi;Kab. Kerinci;Kayu Aro;Sangir;-1.7672;101.2991;-;operasional;82298672121;09/10/2016;Jl. Raya Batang Sangir;HTTP GET;BMKG;BMKG-LSI
+STA5012;AWS Digi Stamet Jambi;Jambi;Kota Jambi;Paal Merah;Talang Bakung;-1.634501;103.6455;27;operasional;81259623544;10/24/2016;Bandara Sultan Thaha;FTP;BMKG;Arkan-Digitalisasi
+STW1048;AWS  Mesonetwork  Batanghari;Jambi;Kab. Batanghari;Mersam;Pematang  Gadung;-1.65867;102.9931;26;operasional;85266048989;08/07/2023;Jl. SoekarnoHatta Palmerah - Jambi;;Stasiun  Meteorologi  Jambi;BMKG-Campbell
+14042860;AAWS Kota Baru (AWS );Jawa Barat;Kab. Karawang;Kota Baru;Balongan;-6.3848;107.50725;29;operasional;81281156889;09/08/2014;jl.Raya Kaliasin;FTP;BBPOPT;BMKG-LSI
+14042862;AAWS Pondok Salam (AWS );Jawa Barat;Kab. Purwakarta;Pondok Salam;Desa Salam Mulia;-6.61869;107.49781;297;operasional;83824391279;09/10/2014;jl.Terusan Kapten Halim;FTP;PJT II;BMKG-LSI
+14063042;AAWS Indramayu 2 (AWS );Jawa Barat;Kab. Indramayu;Indramayu;Desa Singaraja / Karang Anyar;-6.34439;108.34113;2;operasional;818236696;06/11/2014;jl.Ir.H.Juanda km.3;FTP;Universitas Wiralodra;BMKG-LSI
+160015;AWS Cisurupan;Jawa Barat;Kab. Garut;Cisurupan;Balewangi;-7.30776;107.79789;1208;operasional;81389359972;9/13/2016;-;FTP;UPTD Balai Benih;BMKG-LSI
+160032;AWS STT Cipasung;Jawa Barat;Kab. Tasikmalaya;Padakembang;Cilampunghilir;-7.3416;108.12794;417;operasional;85777770484;10/26/2017;Jl. Raya Cisinga km. 1;FTP;STT Cipasung;MMI-LSI
+160033;AWS UI;Jawa Barat;Kota Depok;kecamatan Beji  kelurahan Pondok Cina;Kemiri Muka;-6.37191;106.82762;77;operasional;8164836421;5/31/2017;Laboratorium Parangtopo FMIPA;FTP;Universitas Indonesia;MMI-LSI
+STA2035;AWS Leuwiliang;Jawa Barat;Kab. Bogor;Leuwiliang ;Leuwiliang ;-6.56485;106.6297;207;operasional;85892806092;9/13/2016;Jl. Karehkel No.14 Km. 1 Parung Panjang Baru;FTP;BP3K Leuwiliang;BMKG-Campbell
+STA2042;AWS SMPK Bojong Picung;Jawa Barat;Kab. Cianjur;Bojong Picung;Mekarsari ;-6.83688;107.27382;102.6;operasional;81394304730;9/13/2016;Jl. Raya Cieungsi - Jonggol Km. 3;FTP;LPHP Bojong Picung Cianjur;BMKG-Jinyang
+STA2043;AWS Jagorawi;Jawa Barat;Kab. Bogor;Gunung putri;Karanggan;-6.46052;106.86946;119;operasional;81219381983;9/13/2016;Jl. Karangan Raya  Jagorawi Golf ;FTP;PT Taman Olahraga Jagorawi;BMKG-Jinyang
+STA2045;AWS IPB;Jawa Barat;Kota Bogor;Bogor tengah;Tegal lega;-6.600471;106.8054;262;operasional;81384126022;9/13/2016;Jalan Padjajaran;FTP;Institut Pertanian Bogor;BMKG-Campbell
+STA2049;AWS Rancah;Jawa Barat;Kab. Ciamis;Rancah;Cileusir;-7.21102;108.47548;403;operasional;8179878471;9/13/2016;;FTP;BPP Rancah;BMKG-Jinyang
+STA2053;AWS Stamet Citeko;Jawa Barat;Kab. Bogor;Cisarua;Citeko;-6.6979;106.935;960;operasional;-;9/13/2016;Citeko-Bogor;FTP;Stamet Citeko;BMKG-Campbell
+STA2064;AWS Cibeureum;Jawa Barat;Kab. Bogor;Cisarua;Cibereum ;-6.71064;106.95029;1160;operasional;8122017485;9/13/2016;Cisarua-cibereum-Kab Bogor;FTP;Pos Iklim Cibereum ;BMKG-Campbell
+STA2083;AWS Sukamandi;Jawa Barat;Kab. Subang;Patokbeusi;Rancamulya;-6.37032;107.62513;17;operasional;81385996811;9/13/2016;Jl. Raya 2 Patokbeusi - Sukamandi;FTP;Balai Riset Pemuliaan Ikan;BMKG-Jinyang
+STA2084;AWS Losarang;Jawa Barat;Kab. Indramayu;Losarang;Jangga;-6.42064;108.16681;7;operasional;8531555199;9/13/2016;-;FTP;-;BMKG-Casella
+STA2085;AWS Kadugede;Jawa Barat;Kab. Kuningan;Kadugede;Cipondok;-6.99982;108.45685;514;operasional;81223855000;9/13/2016;Kantor Kecamatan Kadugede Kab. Tasikmalaya;FTP;Kantor Kecamatan Kadugede;BMKG-Casella
+STA2086;AWS Tasikmalaya;Jawa Barat;Kab. Tasikmalaya;Mangunreja;Margajaya ;-7.368;108.11336;405;operasional;82315394400;12/04/2016;Jl. Raya Mangunreja - Sukaraja;FTP;Dinas Bina Marga dan Pengairan ;BMKG-LSI
+STA2087;AWS Cimalaka;Jawa Barat;Kab. Sumedang;Cimalaka;Cimalaka;-6.81536;107.94875;548;operasional;85321924488;9/13/2016;Jl. Raya Cimalaka RT.02/04;FTP;Kantor Kecamatan Cimalaka;BMKG-Casella
+STA2088;AWS Cikancung (Ex AWS Solokan Jeruk);Jawa Barat;Kab. Bandung;Cikancung;;-6.99864;107.81685;677;operasional;8.95805E+11;9/13/2016;Jl. Raya Cicalengka - Majalaya No.100   KM. 4;FTP;Dinas Pertanian UPT PPP Cikancung;BMKG-Campbell
+STA2115;AWS Stageof Bandung;Jawa Barat;Kota Bandung;Pasteur;Sukajadi;-6.88351;107.59731;791;operasional;81221334584;9/13/2016;Jl. Cemara No. 66 Sukajadi  Bandung;FTP;Stasiun Geofisika Kelas 1 Bandung;BMKG-Campbell
+STA2116;AWS Cisolok;Jawa Barat;Kab. Sukabumi;Cisolok ;Karang Papak;-6.95955;106.47628;25;operasional;81282979079;9/13/2016;Jl. Raya Cisolok Km. 11;FTP;Kantor Dinas perikanan dan Kelautan;BMKG-Casella
+STA2155;AWS Stamet Jatiwangi;Jawa Barat;Kab. Majalengka;Jatiwangi;Jatiwangi;-6.734203;108.26302;85.57;operasional;233881013;9/13/2016;jatiwangi;FTP;BMKG Jatiwangi;BMKG-Campbell
+STA2254;AWS GI Harapan Indah;Jawa Barat;Kab. Bekasi;Tarumajaya;Pusaka Rakyat;-6.15952354;106.989094;4;operasional;85261348620;11/05/2019;Gardu Induk Harapan Indah;FTP;PLN;
+STA2255;AWS GI Bekasi;Jawa Barat;Kab. Bekasi;Bekasi Utara;Harapan Jaya;-6.20430353;106.982326;15;operasional;85261348620;11/06/2019;Gardu Induk Bekasi;FTP;PLN;
+STA2259;AWS GI Jatirangon;Jawa Barat;Kab. Bekasi;Pondok Melati;Jati Murni;-6.32702643;106.923504;47;operasional;85261348620;11/12/2019;Gardu Induk Jatirangon;FTP;PLN;
+STA2261;AWS GI Cibatu;Jawa Barat;Kab. Bekasi;Cikarang Pusat;Cibatu;-6.377506;107.160399;68;operasional;85261348620;11/19/2019;Gardu Induk Cibatu;FTP;PLN;
+STA2262;AWS GI Cibabat;Jawa Barat;Kota Cimahi;Cimahi Utara;Cibabat;-6.88116189;107.5534057;765;operasional;85261348620;11/19/2019;Jl. JCC  Cinere  Depok  16514;;PT. PLN (Persero) Unit Induk Pusat Pengatur Beban;
+STA2263;AWS GI Cigereleng;Jawa Barat;Kota Bandung;Regol;Ciseureuh;-6.95184573;107.6137585;706;operasional;85261348620;12/22/2019;Gardu Induk Cigereleng;FTP;PLN;
+STA2264;AWS GI Gedebage;Jawa Barat;Kota Bandung;Gedebage;Rancanumpang;-6.96010155;107.7049894;676;operasional;85261348620;11/26/2019;Gardu Induk Gedebage;FTP;PLN;
+STA2265;AWS GI Dago Pakar;Jawa Barat;Kab. Bandung;Cimenyan;Cimenyan;-6.86961812;107.6694257;969;operasional;85261348620;11/26/2019;Gardu Induk Dago Pakar;FTP;PLN;
+STA2274;AWS GI Pelabuhan Ratu;Jawa Barat;Kab. Sukabumi;Pelabuhan Ratu;Cipatuguran;-7.023225;106.54575;8;operasional;85261348620;7/22/2020;Jl. JCC  Cinere  Depok - 16514;;PT. PLN (PERSERO) UNIT INDUK PUSAT PENGATUR BEBAN;
+STA2275;AWS GISTET Saguling;Jawa Barat;Kab. Bandung Barat;Cipatat;Rajamandala Kulon;-6.86445;107.353471;311;operasional;85261348620;08/06/2020;Jl. JCC  Cinere  Depok - 16514;;PT. PLN (PERSERO) UNIT INDUK PUSAT PENGATUR BEBAN;
+STA2276;AWS GI Cirata;Jawa Barat;Kab. Purwakarta;Tegal Waru;Cadassari;-6.672949;107.351153;276;operasional;85261348620;08/05/2020;Jl. JCC  Cinere  Depok - 16514;;PT. PLN (PERSERO) UNIT INDUK PUSAT PENGATUR BEBAN;
+STA2277;AWS GIS Indramayu;Jawa Barat;Kab. Indramayu;Sukra;Sumuradem;-6.276835;107.970733;3;operasional;85261348620;08/07/2020;Jl. JCC  Cinere  Depok - 16514;;PT. PLN (PERSERO) UNIT INDUK PUSAT PENGATUR BEBAN;
+STA5102;AWS Digi Stamet Kertajati;Jawa Barat;Kab. Majalengka;Kertajati;Kertajati;-6.627268;108.151598;35;operasional;;12/28/2017;;FTP;Stamet Kertajati;MMI-LSI
+STW1026;AWS PANGALENGAN;Jawa Barat;Kab. Bandung;Pangalengan;Sukamanah;-7.202387;107.600668;1532;operasional;87775567138;11/30/2022;Balai Benih Kentang Pangalengan Desa Sukamanah  Kec. Pangalengan  Kabupaten Bandung  Jawa Barat;;Balai Benih Kentang Pangalengan;BMKG-Campbell
+STW1057;AWS Sukaraja;Jawa Barat;Kab. Sukabumi;Sukaraja;Cisarua;-6.861181;106.977009;1061.1;operasional;85614321110;10/02/2023;Jl. Goalpara KM. 8;;PTPN VII Kebun Goalpara;BMKG-LSI
+13051710;AWS Jumantono;Jawa Tengah;Kab. Karanganyar;Jumantono;;-7.63017;110.9478;169;operasional;81904055039;08/01/2013;UNS;FTP;Universitas Negeri Solo;BMKG-Campbell
+14063051;AWS Selogiri;Jawa Tengah;Kab. Wonogiri;Selogiri;Kali Ancar;-7.781558;110.8897;113;operasional;85229231393;6/21/2014;Jl. Gunung Wijil Kali Ancar;FTP;BPP Dewi Sri Selogiri;BMKG-LSI
+14063065;AAWS Sukodono (AWS );Jawa Tengah;Kab. Sragen;Sukodono;Majenang/ Dkh. Harjosari;-7.3275;110.9662;93;operasional;8122623659;9/14/2016;Jl. Raya Sukodono Gesi Km. 1;FTP;BP3K Pragolopati;BMKG-LSI
+14093371;AWS SMPK Kandeman;Jawa Tengah;Kab. Batang;Kandeman;Kandeman;-6.932312;109.7611;34;operasional;82242951197;9/17/2014;Jl. Joho Sari Rt 001/05;FTP;BPP;BMKG-Campbell
+160010;AWS Tambi;Jawa Tengah;Kab. Wonosobo;Kejajar;Tambi;-7.26617;109.9576;1350;operasional;81578795626;9/13/2016;Desa Tambi-Kejajar;FTP;Tambi;BMKG-LSI
+160030;AWS UNDIP;Jawa Tengah;Kab. Semarang;Tembalang;Tembalang;-7.056383;110.440556;197;operasional;81325026762;9/19/2017;jl.Prof.H.Soedarto s.h;FTP;Universitas Dipenogoro;MMI-LSI
+STA2033;AWS Kajen;Jawa Tengah;Kab. Pekalongan;;;-7.023602;109.591;46.5;operasional;82328899660;9/13/2016;Pemerintahan Kabupaten Pekalongan;FTP;Kankesbangpol;BMKG-Campbell
+STA2075;AWS Pandanarum;Jawa Tengah;Kab. Banjarnegara;Pandanarum;Pandanarum;-7.25053;109.6024;696;operasional;8.21387E+11;9/13/2016;JL Raya Pandanarum;FTP;Kantor Kec Panadanarum;BMKG-Casella
+STA2102;AWS Patean;Jawa Tengah;Kab. Kendal;Patean;;-7.0905;110.091;533;operasional;87832841344;9/13/2016;Kantor Kecamatan Patean  Jl. Raya No. 2  Curug Sewu  Patean Kabupaten Kendal;FTP;Kantor Kec.patean Kendal;BMKG-Campbell
+STA2105;AWS Karanganyar;Jawa Tengah;Kab. Karanganyar;Karang Pandan;Karang Pandan;-7.61483;111.0675;545;operasional;81225860642;9/13/2016;Karang anyar;FTP;Kantor penyuluhan karang Pandan;BMKG-Casella
+STA2106;AWS Wonogiri;Jawa Tengah;Kab. Wonogiri;Tirtomoyo;Tirtomoyo;-7.949183;111.0622;176;operasional;81244442507;9/13/2016;-;FTP;BMKG;BMKG-LSI
+STA2107;AWS Juwana;Jawa Tengah;Kab. Pati;Juwana;Doro Payung;-6.72071;111.1462;7;operasional;85225664284;9/13/2016;JL Alun-alun No 1.;FTP;Kantor kec.Juwana;BMKG-LSI
+STA2108;AWS Klambu Grobogan;Jawa Tengah;Kab. Grobogan;Klambu;Penganten;-7.01738;110.8036;23;operasional;82133061833;9/13/2016;bendung Klambu.;FTP;Kantor Dinas Pengairan;BMKG-Campbell
+STA2111;AWS Sidareja;Jawa Tengah;Kab. Cilacap;Sidareja ;Sidareja ;-7.48975;108.7965;7;operasional;8232338008;9/13/2016;Sidareja;FTP;UPT Dinas Peternakan;BMKG-Casella
+STA2140;AWS Borobudur;Jawa Tengah;Kab. Magelang;Borobudur;Borobudur;-7.610173;110.208308;264;operasional;85536570326;9/13/2016;JL Badrawati Borobudur.;FTP;Balai Konserv Candi;BMKG-Jinyang
+STA2148;AWS Bantarkawung;Jawa Tengah;Kab. Brebes;Bantar Kawung ;Bantar Kawung ;-7.21362;108.9177;68;operasional;87719857298;9/13/2016;Bantar Kawung.;FTP;Kantor Kec.Bantar Kawung;BMKG-Casella
+STA2168;AWS Kutoarjo;Jawa Tengah;Kab. Purworejo;Kutoarjo;Kutoarjo;-7.713283;109.9145;19;operasional;81328002307;9/13/2016;kutoarjo;FTP;PSDA Kutoarjo;BMKG-Casella
+STA2173;AWS Maritim Semarang;Jawa Tengah;Kota Semarang;Semarang Utara;Tanjung Emas;-6.94351;110.43131;2;operasional;-;9/13/2016;-;FTP;BMKG;BMKG-Campbell
+STA2182;AWS Ungaran;Jawa Tengah;Kab. Semarang;Ungaran;Bandarjo;-7.110297;110.4045;302;operasional;81325780144;9/13/2016;komplek pertanian Tarubudaya Ungaran;FTP;BPTPH Jateng;BMKG-MSP
+STA2201;AWS Maritim Cilacap;Jawa Tengah;Kab. Cilacap;Cilacap selatan;Tegalkamulyan;-7.72488;109.022964;5;operasional;89627050430;9/13/2016;-;FTP;BMKG;BMKG-Campbell
+STA2220;AWS Staklim Jawa Tengah;Jawa Tengah;Kota Semarang;Semarang Barat;Krapyak;-6.98488;110.38097;3;operasional;8995839858;2/24/2007;Jl. Siliwangi No. 291 Semarang;FTP;Stasiun Klimatologi Jawa Tengah;BMKG-Campbell
+STA2221;AWS Stamet Pos Tunggul Wulung;Jawa Tengah;Kab. Cilacap;Jeruk Legi;Tritih lor;-7.6439066;109.0354614;24;operasional;89627050430;08/03/2016;Bandara Tunggul Wulung;FTP;BMKG;BMKG-Campbell
+STA2278;AWS GI Balapulang;Jawa Tengah;Kota Tegal;Balapulang;Jl. Raya Banjaranyar;-7.090856;109.088803;148;operasional;85261348620;08/10/2020;Jl. JCC  Cinere  Depok - 16514;;PT. PLN (PERSERO) UNIT INDUK PUSAT PENGATUR BEBAN;
+STA2285;AWS Batur Dieng;Jawa Tengah;Kab. Banjarnegara;Batur;Dien Kulon;-7.20399;109.91158;2078;operasional;85771597440;11/24/2020;Jl. Dieng No. 1;FTP;UPTD Kawasan Wisata Candi Dieng;
+STA3216;AWS Pemalang;Jawa Tengah;Kab. Pemalang;Taman;;-6.933597;109.40802;19;operasional;85290275410;09/10/2016;Desa Cibelok  Kec. Taman Pemalang;FTP;BPP Cibelok;BMKG-LSI
+STA3266;AWS Blora;Jawa Tengah;Kab. Blora;cepu;ngajuk;-6.92127;111.4413;33;operasional;85290733473;09/10/2016;Kantor Desa Nglanjuk  Kec. Cepu Kab. Blora;HTTP GET;Kantor Kelurahan;BMKG-LSI
+STA5052;AWS Digi Stamet Semarang;Jawa Tengah;Kota Semarang;Semarang Barat;Kalibanteng Kulon;-6.97611;110.378;4;operasional;87848674428;11/10/2016;Bandara A yani Semarang;FTP;Stamet A Yani Semarang;Arkan-Digitalisasi
+STA5092;AWS Digi Stamet Cilacap;Jawa Tengah;Kab. Cilacap;Cilacap Tengah;Sidanegara;-7.7186;109.0148;6;operasional;89627050430;12/17/2017;;FTP;BMKG;MMI-LSI
+STA5132;AWS Digi Stamet Maritim Tanjung Mas Semarang;Jawa Tengah;Kota Semarang;Semarang Utara;Tanjung Mas;-6.95;110.41817;7;operasional;8971545061;9/20/2018;jalan Yos Sudarso No. 58 Pelabuhan Tanjung Mas Semarang;FTP;BMKG;Arkan-Digitalisasi
+STW1025;AWS SMPK Untidar Bandongan;Jawa Tengah;Kab. Magelang;Bandongan;Desa Drojogan  Kelurahan Sidorejo;-7.450841;110.199643;417;operasional;81235883423;11/24/2022;Kampus Sidotopo Jl. Barito 1 No.2 Kedungsari  Kec. Magelang Utara  Kota Magelang  Jawa Tengah 59155;;Universitas Tidar;BMKG-Campbell
+STW1058;AWS Kledung;Jawa Tengah;Kab. Temanggung;Kledung;Sigaplok;-7.339611;110.0333013;1388;operasional;85601621380;10/02/2023;Kebun Benih Kentang Kledung;;Jl. Parakan Wonosobo Temanggung;BMKG-LSI
+160050;AWS UNIDA Gontor;Jawa Timur;Kab. Ponorogo;Siman;Demangan;-7.910921;111.483676;104;operasional;81330445724;11/29/2017;Jl.Raya Siman KM.5;FTP;UNIDA GONTOR;MMI-LSI
+STA2057;AWS SMPK Jombang;Jawa Timur;Kab. Jombang;Tembelang;Dompyong;-7.49361;112.233;30;operasional;85745609553;12/17/2013;JL Raya Bendungan No3;FTP;BPP Tembelang;BMKG-MSP
+STA2058;AWS Bondowoso;Jawa Timur;Kab. Bondowoso;Pakem;Patemon;-7.8560889;113.7514417;480;operasional;81339045551;02/03/2009;JL Pakem.;FTP;Kantor Kecamatan Pakem;BMKG-MSP
+STA2072;AWS Mayang;Jawa Timur;Kab. Jember;Mayang;Tegalrejo;-8.174542;113.797201;0;operasional;82232018839;08/01/2007;-;FTP;Kantor Kecamatan Mayang;BMKG-Campbell
+STA2091;AWS Maritim Perak II;Jawa Timur;Kota Surabaya;Pabean Cantian ;;-7.198852;112.7343;2;operasional;;9/20/2014;;FTP;BMKG;BMKG-Vaisala
+STA2092;AWS Maritim Ketapang;Jawa Timur;Kab. Banyuwangi;;;-8.142749;114.3991;4;operasional;;12/04/2016;;FTP;;BMKG-LSI
+STA2103;AWS Tanggul;Jawa Timur;Kab. Jember;Tanggul;Tanggul Kulon;-8.163;113.45;33;operasional;82257199288;9/13/2016;Jember;FTP;Kantor Kec. Tanggul;BMKG-Casella
+STA2104;AWS Tiris;Jawa Timur;Kab. Probolinggo;Tiris;Tiris;-7.96165;113.401;490;operasional;85258857738;7/30/2013;;FTP;Dinas Pengairan Probolinggo;BMKG-Campbell
+STA2109;AWS Kanigoro;Jawa Timur;Kab. Blitar;Kanigoro;Satriyan;-8.142875;112.2226;175;operasional;81559506939;9/13/2016;JL  Melati no satriyan kanigoro;FTP;BP3K Kanigoro;BMKG-Casella
+STA2113;AWS Sampang;Jawa Timur;Kab. Sampang;Sampang;Gunung Sekar;-7.1831861;113.2380472;7;operasional;87771615826;9/13/2016;sampang jatim;FTP;BMKG;BMKG-Casella
+STA2141;AWS Stageof Karangkates;Jawa Timur;Kab. Malang;Sumber Pucung;Karangkates;-8.15213;112.4506;284;operasional;85789982260;9/13/2016;Karangkates.;FTP;Stasiun Geofisika Karangkates;BMKG-Campbell
+STA2156;AWS SMPK Nganjuk;Jawa Timur;Kab. Nganjuk;Gondang;Tlogosari;-7.535648;111.984832;590;operasional;85234016204;08/01/2007;JL Raya Tlogosari 457 Tirtoyudo.;FTP;BMKG;BMKG-Campbell
+STA2170;AWS Lamongan;Jawa Timur;Kab. Lamongan;Sukodadi;Sukodadi;-7.09397;112.3298;25;operasional;81515257772;9/13/2016;Jl. Panglima Sudirman No. 24;FTP;UPT Pengairan Sumlaran;BMKG-Campbell
+STA2229;AWS Pelabuhan Probolinggo;Jawa Timur;Kab. Probolinggo;Mayangan kota;Mangunharjo;-7.7266055;113.225761;1;operasional;;11/27/2017;;FTP;BMKG;
+STA2243;AWS Situbondo;Jawa Timur;Kab. Situbondo;Arjasa;Arjasa;-7.71707;114.12265;27.4;operasional;85730285062;02/03/2009;;FTP;BMKG;
+STA2266;AWS GI Cerme;Jawa Timur;Kab. Gresik;Cerme;Banjarsari ;-7.18260674;112.5780451;40;operasional;85261348620;11/27/2019;Gardu Induk Cerme;FTP;PLN;
+STA2267;AWS GI Sambikerep;Jawa Timur;Kota Surabaya;Sambikerep;Bringin;-7.2630549;112.6432174;50;operasional;85261348620;11/28/2019;Gardu Induk Sambikerep;FTP;PLN;
+STA2268;AWS GI Karang Pilang;Jawa Timur;Kota Surabaya;Lakarsantri;Bangkingan;-7.32627202;112.6515634;37;operasional;85261348620;11/29/2019;Gardu Induk Karang Pilang;FTP;PLN;
+STA2269;AWS GI Balong Bendo;Jawa Timur;Kab. Sidoarjo;Balong Bendo;Jabaran;-7.41331614;112.5574259;40;operasional;85261348620;12/03/2019;Gardu Induk Balong Bendo;FTP;PLN;
+STA2270;AWS GI Sukolilo;Jawa Timur;Kota Surabaya;Sukolilo;Menur Pumpungan;-7.29018491;112.7699607;32;operasional;85261348620;12/02/2019;Gardu Induk Sukolilo;FTP;PLN;
+STA2271;AWS GI Buduran;Jawa Timur;Kab. Sidoarjo;Buduran;Sukorejo;-7.42324227;112.7209013;36;operasional;85261348620;12/02/2019;Gardu Induk Buduran;FTP;PLN;
+STA2279;AWS GI Mliwang;Jawa Timur;Kab. Tuban;Tambakboyo;Jl. Raya Glondong - Kerek;-6.819374;111.891537;40;operasional;85261348620;8/19/2020;Jl. JCC  Cinere  Depok - 16514;;PT. PLN (PERSERO) UNIT INDUK PUSAT PENGATUR BEBAN;
+STA2280;AWS GI Gondang Wetan;Jawa Timur;Kab. Pasuruan;Gondangwetan;Jl. KH. Mansyur;-7.687097;112.895266;20;operasional;85261348620;8/21/2020;Jl. JCC  Cinere  Depok - 16514;;PT. PLN (PERSERO) UNIT INDUK PUSAT PENGATUR BEBAN;
+STA2283;AWS STAGEOF SAWAHAN;Jawa Timur;Kab. Nganjuk;Sawahan;Bulurejo;-7.7341008;111.7653267;675;operasional;82338091820;11/04/2020;Jl.  Pasanggrahan No.10;FTP;Stasiun Geofisika Sawahan;BMKG-Campbell
+STA2293;AWS BROMO;Jawa Timur;Kab. Probolinggo;SUKAPURA;NGADISARI;-7.924668;112.965523;2061;operasional;82245030320;09/02/2021;DUSUN CEMOROLAWANG DESA NGADISARI;;BALAI BESAR TAMAN NASIONAL BROMO TENGGER SEMERU;
+STA3221;AWS Kediri;Jawa Timur;Kab. Kediri;Mojoroto;Mboro;-7.809051;111.973412;99;operasional;8.95347E+11;09/10/2016;;FTP;Dinas Pariwisata Kediri;BMKG-LSI
+STA4005;AWS Paron;Jawa Timur;Kab. Ngawi;Paron;Ngole;-7.409004;111.371434;54;operasional;85697827950;09/10/2016;;FTP;BMKG;BMKG-Casella
+STA4006;AWS Kandat;Jawa Timur;Kab. Kediri;Kandat;Margo Urip;-7.933889;112.0336;124;operasional;81234054805;09/10/2016;;FTP;Pabrik Gula Ngadirejo;BMKG-Campbell
+STA4007;AWS Panarukan;Jawa Timur;Kab. Situbondo;Panarukan;Wringin Anom;-7.7050028;113.9723;20;operasional;85336455570;09/10/2016;;FTP;BMKG;BMKG-Casella
+STA5003;AWS Digi Stamet Juanda Surabaya;Jawa Timur;Kota Surabaya;Sedati;Betro;-7.374164;112.781603;3;operasional;;09/10/2016;Bandara Juanda;FTP;;Arkan-Digitalisasi
+STA5093;AWS Digi Stamet Banyuwangi;Jawa Timur;Kab. Banyuwangi;Banyuwangi;Mojopanggungg;-8.215182;114.355407;50;operasional;;12/31/2017;Jl. Jaksa Agung Suprapto;FTP;Stamet Banyuwangi;Arkan-Digitalisasi
+STA5103;AWS Digi Stamet Kalianget;Jawa Timur;Kab. Sumenep;Kalianget;Kalianget Barat;-7.041415;113.90578;2;operasional;;12/14/2017;;FTP;;MMI-LSI
+STA5113;AWS Digi Stamet Tuban;Jawa Timur;Kab. Tuban;;;-6.823;111.98117;21;operasional;;01/01/2018;;FTP;;MMI-LSI
+STW1017;AWS Stageof Pasuruan;Jawa Timur;Kab. Pasuruan;Pandaan;;-7.66404;112.68912;230;operasional;81255746074;12/02/2022;;;Stasiun Geofisika Pasuruan;BMKG-Campbell
+STW1059;AWS Karangan;Jawa Timur;Kab. Trenggalek;Karangan;Karangan;-8.090585;111.663082;120;operasional;82334945540;10/02/2023;"""RT 17 RW 05 Dusun Cetok Desa Karangan  Kecamatan Karangan  Kabupaten Trenggalek  Jawa Timur. Kode Pos 66361""";;BPP Kecamatan Karangan;BMKG-LSI
+STW1070;AWS SMPK Sebayi;Jawa Timur;Kota Madiun;Gemarang;Sebayi;-7.5994;111.743;157;operasional;0;10/17/2024;Jl. Mundu  Sebayi  Kec. Gemarang  Kabupaten Madiun  Jawa Timur;;BMKG;BMKG-Campbell
+13051709;AWS Sekadau;Kalimantan Barat;Kab. Sekadau;Sekadau Hilir;Mungguk;0.005;110.95361;40;operasional;81345132020;7/26/2017;Jl. Sintang Km. 9 Komp. Kantor Bupati Sekadau;FTP;Dinas Pertanian  Peternakan dan Perikanan Sekadau;BMKG-LSI
+160043;AWS Sukadana;Kalimantan Barat;Kab. Kayong Utara;Sukadana;Sutra;-1.227788;109.962395;6;operasional;85349379516;10/21/2017;jl.Bayangkara Sukadana no.2;FTP;Diperta Sukadana;MMI-LSI
+160049;AWS Entikong;Kalimantan Barat;Kab. Sanggau;Entikong;Semanget;0.889139;110.398383;71;operasional;85245960898;10/18/2017;jl.Raya Sekayan Entikong;FTP;bp3k entikong;MMI-LSI
+STA2117;AWS Staklim Kalbar;Kalimantan Barat;Kab. Pontianak;Siantan;Sungai Nipah;0.07489;109.1905;2;operasional;82148817595;9/13/2016;JL Raya sungai Nipah 205;FTP;BMKG;BMKG-Campbell
+STA2118;AWS Mempawah Hilir;Kalimantan Barat;Kota Pontianak;Mempawah Hilir;Terusan;0.36367;108.9558;81;operasional;85251474759;9/13/2016;JL Raden Kusno No 61;FTP;DInas PPK;BMKG-Casella
+STA2199;AWS Maritim Pontianak;Kalimantan Barat;Kab. Pontianak;Pontianak Kota;Mariana;-0.02048;109.3378;5;operasional;89603576614;9/13/2016;-;FTP;BMKG;BMKG-Campbell
+STA4012;AWS Anjungan;Kalimantan Barat;Kab. Pontianak;Anjungan;;0.4199667;109.1723;21;operasional;8565305533;09/10/2016;;FTP;BBI ANJUNGAN;BMKG-Campbell
+STA4013;AWS Semelagi;Kalimantan Barat;Kab. Sambas;Selakau;Semelagi;0.927317;109.0559;21;operasional;85350557374;09/10/2016;;FTP;LPHP Sambas;BMKG-Campbell
+STA5042;AWS Digi Stamet Pontianak;Kalimantan Barat;Kab. Pontianak;Sungai Raya;Arang Linbung;-0.141861;109.403;10;operasional;81316316979;10/01/2016;Bandara Adisucipto;FTP;BMKG;Arkan-Digitalisasi
+STA5112;AWS Digi Stamet Nanga pinoh;Kalimantan Barat;Kab. Melawi;Nanga Pinoh;Paal;-0.35;111.75;44;operasional;85246162546;9/29/2018;;FTP;BMKG;MMI-LSI
+STA5123;AWS Digi Stamet Paloh;Kalimantan Barat;Kab. Sambas;Paloh;Liku;1.73784;109.322046;8;operasional;81386096324;01/06/2018;;FTP;BMKG;MMI-LSI
+STA5133;AWS Digi Stamet Putussibau;Kalimantan Barat;Kab. Kapuas Hulu;Putussibau;;0.838976;112.935357;32;operasional;85750616088;1/15/2018;;FTP;BMKG;MMI-LSI
+STA5143;AWS Digi Stamet Sintang;Kalimantan Barat;Kab. Sintang;Sintang;Kapuas Kanan Hulu;-0.040351;111.45708;32;operasional;89603620138;12/21/2017;;FTP;bmkg;MMI-LSI
+STA5153;AWS Digi Stamet Ketapang;Kalimantan Barat;Kab. Ketapang;Delta pawan;Kalinilam;-1.8;109.97;4.6;operasional;8119156161;12/03/2017;;FTP;BMKG;MMI-LSI
+STW1033;AWS  Mesonetwork  Sanggau;Kalimantan Barat;Kab. Sanggau;Kapuas;Penyeladi;0.060218;110.693;37;operasional;82157191798;08/03/2023;Bandara Supadio  Jl. Adi Sucipto Km  17  Pontianak   Kalimantan Barat  78381;;Stasiun  Meteorologi  Pontianak;BMKG-Campbell
+160035;AWS Kusan Hulu;Kalimantan Selatan;Kab. Tanah Bumbu;Kusan Hulu;Tibarau Panjang;-3.41519;115.7352;19;operasional;85248642215;10/05/2017;jl.Volgoson KM.7;FTP;BPP Kusan Hulu;MMI-LSI
+STA2025;AWS Sungai Tabuk;Kalimantan Selatan;Kab. Banjar;Sungai Tabuk;Gudang Hirang;-3.325907;114.681829;5;operasional;81649181239;01/01/2010;Gudang Hirang Km 11 5 Sungai Tabuk 70653;FTP;Laboratorium BPTPH;BMKG-MSP
+STA2069;AWS Staklim Banjarbaru;Kalimantan Selatan;Kota Banjar Baru;Banjarbaru Selatan;Sungai Besar;-3.461905;114.840725;48;operasional;87816694477;01/01/2007;Stakilm Banjarbaru Jln Trikora;FTP;BMKG;BMKG-Campbell
+STA2203;AWS Maritim Kotabaru;Kalimantan Selatan;Kab. Kotabaru;Pulau Laut Utara;Stagen;-3.27134;116.1801;8;operasional;81349490755;9/13/2016;Stagen  Kotabaru;FTP;Dinas Perikanan Kotabaru;BMKG-Campbell
+STA4015;AWS SMPK Kotabaru;Kalimantan Selatan;Kab. Kotabaru;Pulau Laut Timur;Berangas ;-3.38226;116.2381;6;operasional;85235077400;01/01/2014;Beramgas;FTP;BP3K Berangas;BMKG-Campbell
+STA5023;AWS Digi Stamet Banjarmasin;Kalimantan Selatan;Kota Banjarmasin;Landasan Ulin;Syamsudin Noor;-3.439;114.761;15.8;operasional;8125061600;10/20/2016;Bandara Syamsudin Noor;FTP;BMKG Banjarmasin;Arkan-Digitalisasi
+STA5163;AWS Digi Stamet Kotabaru;Kalimantan Selatan;Kab. Kotabaru;Pulau Laut Utara;Stagen;-3.2996;116.16721;6;operasional;8115729292;12/26/2017;Stagen  Kotabaru;FTP;Stasiun Meteorologi Gusti Syamsir Alam Kotabaru;MMI-LSI
+STW1042;AWS  Mesonetwork  Balangan;Kalimantan Selatan;Kab. Balangan;Batu Mandi;Hamparaya;-2.45358;115.4118;19;operasional;85393331797;08/04/2023;Jl. Trikora   Banjarbaru - Kalimantan  Selatan;;Stasiun  Klimatologi  Banjarbaru;BMKG-Campbell
+STW1060;AWS Hampang;Kalimantan Selatan;Kab. Kotabaru;Hampang;Desa Cantum Kanan;-2.91944;115.83722;61;operasional;82152732508;12/07/2023;Jl. Antuin Desa Cantum Kanan;;Kecamatan Hampang;BMKG-LSI
+STA2097;AWS Kumai;Kalimantan Tengah;Kab. Kota Waringin Barat;Kumai;Kubu;-2.7543;111.7152;0;operasional;0;05/01/2017;Jl. Bahagia;FTP;BPP;BMKG-Casella
+STA2114;AWS Pulang Pisau;Kalimantan Tengah;Kab. Pulang Pisau;Kahayan Hilir;Pulang Pisau;-2.7777;114.2558;10;operasional;82158660001;12/10/2017;Jl. H. Amur;FTP;BPBD Pulpis;BMKG-Campbell
+STA2213;AWS Stamet Sampit;Kalimantan Tengah;Kab. Kotawaringin Timur;Baamang;Baamang Hulu;-2.5015;112.9756;3;operasional;-;9/13/2016;Stamet Sampit;FTP;BMKG;BMKG-Campbell
+STA2291;AWS DADAHUP;Kalimantan Tengah;Kab. Kapuas;DADAHUP;BENTUK JAYA;-2.6748;114.669561;24;operasional;81351216557;8/29/2021;DESA BENTUK JAYA ;;BPP Dadahup;
+STA2292;AWS Belanti Siam;Kalimantan Tengah;Kab. Pulang Pisau;PANDIH;BELANTI SIAM;-3.14534195;114.1964291;6;operasional;85248315832;8/26/2021;JL.DIPONEGORO ;;Kantor Desa Blantisiam;
+STA3230;AWS Buntok;Kalimantan Tengah;Kab. Barito Selatan;Dusun Selatan;Raut;-1.678835;114.907917;4;operasional;81256123530;09/10/2016;;FTP;Dinas Lingkungan Hidup;BMKG-LSI
+STA3232;AWS Kapuas Murung;Kalimantan Tengah;Kab. Kapuas;Kapuas Murung;Mampai;-2.81104;114.5612;0;operasional;85249116336;09/10/2016;;FTP;BPP Kapuas Murung;BMKG-LSI
+STA3233;AWS Murung;Kalimantan Tengah;Kab. Murung Raya;Murung;Danau Sum;-0.617502;114.735098;0;operasional;85651123069;09/10/2016;;HTTP GET;BPP Lahung Tuhup;BMKG-LSI
+STA4003;AWS Lamandau;Kalimantan Tengah;Kab. Lamandau;Bulik;Nanga Bulik;-2.1848;111.4157;0;operasional;85332565544;09/10/2016;;FTP;BBPTH;BMKG-Campbell
+STA5013;AWS Digi Stamet Palangkaraya;Kalimantan Tengah;Kota Palangkaraya;Pahandut;Panarung;-2.2280557;113.9462222;25;operasional;0;10/16/2016;Bandara Cilik Riwut;FTP;Stasiun Meteorologi Tjilik Riwut Palangkaraya;Arkan-Digitalisasi
+STA5073;AWS Digi Stamet Pangkalanbun;Kalimantan Tengah;Kab. Kota Waringin Barat;Arut Selatan;Pasir panjang;-2.7045;111.6698;25;operasional;;9/26/2016;Bandara iskandar;FTP;BMKG Pangkalanbun;Arkan-Digitalisasi
+13051707;AWS Kombeng;Kalimantan Timur;Kab. Kutai Timur;Kombeng;Kongbeng;1.099665;116.9243;0;operasional;85250670085;08/04/2013;;FTP;UPT PENYULUHAN PERTANIAN PETERNAKAN DAN PERKEBUNAN;BMKG-MSP
+STA2123;AWS Balikpapan Timur;Kalimantan Timur;Kota Balikpapan;Balikpapan Selatan;Manggar Baru;-1.22301;116.9243;0;operasional;85247181;9/13/2016;Manggar Baru;FTP;BPBD KOTA BALIKAPAPAN;BMKG-Casella
+STA2228;AWS Pelabuhan Balikpapan;Kalimantan Timur;Kota Balikpapan;Balikpapan;Kariangau;-1.17291666;116.784377;1;operasional;0;11/27/2017;;FTP;Pelabuhan Peti Kemas Balikpapan;
+STA2237;AWS Stamet Temindung;Kalimantan Timur;Kota Samarinda;Sungai Pinang;Bandara;-0.482378;117.15618;10;operasional;82121268952;5/22/2018;Samarinda;FTP;Stamet Samarinda;BMKG-Campbell
+STA5183;AWS Digi Stamet Tanjung Redep;Kalimantan Timur;Kab. Berau;Teluk Bayur;Teluk Bayur;2.148109;117.433877;;operasional;;12/25/2017;;FTP;Stamet Tanjung Redep;MMI-LSI
+STA5233;AWS Digi Stamet APT Pranoto Samarinda;Kalimantan Timur;Kota Samarinda;Samarinda Utara;Sungai Siring;-0.3740948;117.263718;22;operasional;82121268952;10/30/2018;jl. Samarinda Bontang;FTP;Stamet APT Pranoto Samarinda;
+STW1061;AWS Barong Tongkok;Kalimantan Timur;Kab. Kutai Barat;Barong tongkok;Kampung engkuni pasek;-0.305369;115.658451;84;operasional;85246257049;10/02/2023;Jl. Kampung engkuni pasek RT.01;;Kantor balai  penyuluh pertanian (BPP);BMKG-LSI
+10004;AWS Maritim Nunukan;Kalimantan Utara;Kab. Nunukan;Nunukan;Nunukan Timur;4.1453247;117.6655385;2;operasional;81333304456;3/19/2019;Jl. Tien Soeharto;FTP;PT Pelindo IV Cabang Nunukan;
+160017;AWS Malinau;Kalimantan Utara;Kab. Malinau;Malinau Kota;Malinau Hulu;3.55052;116.622;25;operasional;82244497782;9/13/2016;JL Pusat perkantoran.;FTP;Dinas Pertanian;BMKG-LSI
+STA5173;AWS Digi Tanjung Selor;Kalimantan Utara;Kab. Bulungan;Tanjung Selor;Kel. Tanjung Selor Timur;2.8356828;117.3649626;6;operasional;82240119929;12/15/2017;;FTP;BMKG Stamet Tanjung Selor;MMI-LSI
+STA5213;AWS Digitasi Stamet Nunukan;Kalimantan Utara;Kab. Nunukan;Nunukan;;4.135;117.6658;11;operasional;85156628553;9/29/2018;;FTP;BMKG Stamet Nunukan;MMI-LSI
+14063049;AAWS Kelapa (AWS );Kepulauan Bangka Belitung;Kab. Bangka Barat;Kelapa;Kelapa;-1.889633;105.7009;39;operasional;82184466161;6/26/2014;Raya Pangkal Pinang;FTP;BPP Kelapa (Dinas Pertanian Bangka Barat);BMKG-LSI
+STA2162;AWS Stasiun Klimatologi Bangka Belitung;Kepulauan Bangka Belitung;Kab. Bangka Tengah;Koba;Koba;-2.5183;106.4224;5.8;operasional;82280190609;9/13/2016;Bangka Tengah;FTP;Stasiun Klimatologi Bangka Belitung;BMKG-Campbell
+STA2224;AWS Maritim Belinyu;Kepulauan Bangka Belitung;Kab. Bangka;Belinyu;;-1.630358;105.7429;2;operasional;81368999129;9/13/2016;-;FTP;Pelindo Belinyu;BMKG-Campbell
+STA5022;AWS Digi Stamet Pangkal Pinang;Kepulauan Bangka Belitung;Kota Pangkalpinang;Pangkalan Baru;Dul;-2.161514;106.137057;33;operasional;;10/23/2016;Bandara Depati Amir;FTP;BMKG Pangkal Pinang;Arkan-Digitalisasi
+STW1040;AWS  Mesonetwork  Pemali   Bangka;Kepulauan Bangka Belitung;Kab. Bangka;Mendo Barat;Petaling;-2.11377;106.0163;25;operasional;83160146359;08/04/2023;Padang Mulia   Koba  Kabuapten  Bangka Tengah   Kepulauan  Bangka Belitung  33681;;Stasiun  Klimatologi  Bangka;BMKG-Campbell
+160012;AWS Lagoi;Kepulauan Riau;Kab. Bintan (Kep.Riau);Teluk Sebung;Teluk Sebung;1.18188;104.4098;27;operasional;81372308070;9/13/2016;-;FTP;PT. Ria Bintan Golf;BMKG-LSI
+AAWS0401;AWS Maritim Tanjung Balai Karimun;Kepulauan Riau;Kab. Karimun;Tanjung Balai Karimun;Karimun;0.988173;103.4352;0;operasional;89635904543;7/18/2013;Taanjung Balai Karimun.;FTP;LANAL;BMKG-Campbell
+STA2230;AWS Maritim Batam;Kepulauan Riau;Kota Batam;Batu Ampar;Batam;1.1648583;103.996741;0;operasional;8127024934;11/27/2017;;FTP;Pelabuhan batu ampar;
+STA2245;AWS Batam Center;Kepulauan Riau;Kota Batam;Batam Kota;Teluk Tering;1.133378;104.041748;5;operasional;81276601606;12/01/2008;Teluk Tering;;Pengelolaan Air Limbah;BMKG-Vaisala
+STA2246;AWS Muka Kuning;Kepulauan Riau;Kota Batam;Sei Beduk;;1.066646255;104.0123688;35;operasional;82392287830;12/01/2008;Muka Kuning;;SPAM;BMKG-Vaisala
+STA2247;AWS Nongsa;Kepulauan Riau;Kota Batam;Nongsa;Sembau;1.166893;104.096086;18;operasional;8127048257;12/01/2008;Nongsa;;SPAM;BMKG-Vaisala
+STA2248;AWS Tanjung Uncang;Kepulauan Riau;Kota Batam;Batu Aji;Tanjung Uncang;1.055323;103.926467;14;operasional;85252252930;12/01/2008;Tanjung Uncang;;DAMRI;BMKG-Vaisala
+STA2249;AWS Piayu;Kepulauan Riau;Kota Batam;Sungai Beduk;Tanjung Paiyu;1.035973726;104.0602124;13;operasional;8127722003;12/01/2008;Tanjung Piayu;;SPAM;BMKG-Vaisala
+STA2250;AWS Pagoda Galang;Kepulauan Riau;Kota Batam;Galang;Sijantung;0.767699339;104.1902974;28;operasional;82268625448;12/01/2008;Sijantung;;Pagoda Camp Vietnam;BMKG-Vaisala
+STA2251;AWS Sei Harapan;Kepulauan Riau;Kota Batam;Sekupang;Tanjung Riau;1.100491;103.953595;11;operasional;8117776035;12/01/2008;;;SPAM;BMKG-Vaisala
+STA2252;AWS Sei Ladi;Kepulauan Riau;Kota Batam;Lubuk Baja;Baloi Indah;1.119524;104.007887;38;operasional;8117776034;12/01/2008;Sei Ladi;;SPAM;BMKG-Vaisala
+STA2253;AWS Sengkuang;Kepulauan Riau;Kota Batam;Batu Ampar;Tanjung Sengkuang;1.183118486;104.0148873;0;operasional;81270027035;12/01/2008;Tanjung Sengkuang;;Kantor Lurah Tanjung Sengkuang;BMKG-Vaisala
+STA5041;AWS Digi Stamet Batam;Kepulauan Riau;Kota Batam;Nongsa;Batu besar;1.11910124;104.1137991;24;operasional;81314707353;12/31/2017;Jl.Hang Nadim Batu Besar Batam 29466;FTP;BMKG;Arkan-Digitalisasi
+STA5061;AWS Digi Stamet Tanjung Pinang;Kepulauan Riau;Kota Tanjung Pinang;Tanjug Pinang Timur;Pincang Kencana;0.923199;104.52857;15;operasional;85264199639;12/22/2017;;FTP;BMKG;MMI-LSI
+STA5071;AWS Digi Tanjung Balai Karimun;Kepulauan Riau;Kab. Karimun;Tebing;Pamak ;1.050879;103.39237;3;operasional;89635904543;12/30/2017;;FTP;Stamet Karimun;MMI-LSI
+10001;Water Level Pulau Sebesi;Lampung;Kab. Lampung Selatan;;;-5.935697;105.512807;;operasional;;01/01/2019;Dermaga Pulau Sibesi;FTP;;
+14063043;AWS Labuhan Ratu;Lampung;Kab. Lampung Timur;Labuhan Ratu;Rajabasa Lama;-5.06652;105.69169;23;operasional;8.52661E+11;6/13/2014;Jl. Taman Nasional Way Kambas;FTP;PT Nusantara Tropical Farm / PT GGF;BMKG-LSI
+160004;AWS Staklim Lampung;Lampung;Kab. Pesawaran;Tegineneng;Sidobasuki;-5.172232;105.180371;70;operasional;81369762397;9/13/2016;JL Lintas Sumatera.;FTP;BMKG Staklim Lampung;BMKG-LSI
+160029;AWS Kampus ITERA;Lampung;Kab. Lampung Selatan;Jati Agung;way hui;-5.362208;105.31165;100;operasional;82379981381;09/05/2017;jl.terusan ryacudu institut teknologi sumatera;FTP;Kampus ITERA;MMI-LSI
+STA2050;AWS Krui;Lampung;Kab. Pesisir Barat;Krui Selatan;Pekon Serai;-5.21054;103.93867;47;operasional;85212324215;9/13/2016;Bandara Pekon serai;FTP;Bandara Taufik Kemas Pesibar Lampung;BMKG-MSP
+STA2051;AWS Liwa;Lampung;Kab. Lampung Barat;Balik Bukit;Way Mengaku;-5.01726;104.05843;934;operasional;85769208101;9/13/2016;Pos Geofisika Liwa JL Mawar.;FTP;bmkg terpadu Liwa  lampung Barat;BMKG-MSP
+STA2090;AWS Maritim Bakauheni ;Lampung;Kab. Lampung Selatan;bakauheni;;-5.869293;105.755;0;operasional;;12/01/2016;;FTP;;BMKG-Campbell
+STA2132;AWS Padang Cermin;Lampung;Kab. Pesawaran;Padang Cermin;Tambangan;-5.60459;105.09851;42;operasional;85347991242;9/13/2016;JL Raya Wates Way ratai;FTP;UPTD-BPPP Dinas Pertaniaan Pesawaran;BMKG-Casella
+STA2133;AWS Way Tenong;Lampung;Kab. Lampung Barat;Way Tenong;Muter Alam;-5.049;104.3919;864;operasional;85841364016;9/13/2016;-;FTP;Kantor Kecamatan Way Tenong;BMKG-MSP
+STA2134;AWS Banjit Way kanan;Lampung;Kab. Way Kanan;Banjit;Banjit;-4.79033;104.48544;231;operasional;85269355611;9/13/2016;Banjit;FTP;BPP Kantor dinas pertanian;BMKG-MSP
+STA2135;AWS Cahaya Negeri Abung Barat;Lampung;Kab. Lampung Utara;Abung Barat;Cahaya Negeri;-4.86485;104.66207;159;operasional;82317191368;9/13/2016;JL Raya Kotabumi;FTP;BPP Tanaman Industri;BMKG-Campbell
+STA2136;AWS Selagai Lingga;Lampung;Kab. Lampung Tengah;Pubian;Selagai Lingga;-5.02213;104.83918;124;operasional;82371388582;9/13/2016;JL Raya Selagai Lingga.;FTP;Kecamatan Selagai Lingga;BMKG-Campbell
+STA2137;AWS Way Jepara;Lampung;Kab. Lampung Timur;Way Jepara;Margototo;-5.16657;105.7054;44;operasional;85244137176;9/13/2016;Way jepara;FTP;UPTD Pengelolaan Sumber Daya Air Way Jepara;BMKG-Campbell
+STA2146;AWS Menggala;Lampung;Kab. Tulang Bawang;Menggala;Pekalongan;-4.49395;105.21808;33;operasional;82306524477;9/13/2016;JL Cemara komplek Pemda;FTP;Dinas Ketahanan Pangan Tulang Bawang;BMKG-Campbell
+STA5032;AWS Digi Stamet Lampung;Lampung;Kab. Lampung Selatan;Natar;Branti;-5.23943;105.17475;86;operasional;81369762397;10/20/2016;Bandara Branti Lampung;FTP;bmkg;Arkan-Digitalisasi
+STA5122;AWS Digi Maritim Panjang;Lampung;Kota Bandar Lampung;Panjang;Way Luwik ;-5.4555;105.3211;;operasional;;9/23/2018;;FTP;BMKG ;MMI-LSI
+STW1055;AWS Pakuan Ratu;Lampung;Kab. Way Kanan;Pakuan Ratu;Rumbih;-4.291414;104.805433;45.1;operasional;81271279636;10/02/2023;PT PSMI Divisi I  Waykanan - Lampung;;PT PSMI;BMKG-LSI
+160008;AWS Staklim Maluku;Maluku;Kab. Seram Bagian Barat;Kairatu;Kairatu;-3.3388;128.3684;0;operasional;;9/13/2016;JL Hunitetu;FTP;BMKG;BMKG-LSI
+STA2180;AWS Passo Baguala;Maluku;Kota Ambon;Baguala;Passo;-3.624222;128.2474;0;operasional;82298662037;9/13/2016;Passo Ambon;FTP;BMKG;BMKG-Casella
+STA2234;AWS Pelabuhan Ambon;Maluku;Kota Ambon;sirimau;Ambon;-3.69592777;128.173955;1;operasional;;11/27/2017;;FTP;BMKG;
+STA3241;AWS Amahai;Maluku;Kab. Maluku Tengah;Amahai;;-3.346111;128.9283;505;operasional;;09/10/2016;;HTTP GET;Stamet BMKG amahai;BMKG-LSI
+STA5054;AWS Digi Stamet Pattimura;Maluku;Kota Ambon;Teluk Ambon;Laha;-3.71094;128.086;15.4;operasional;;09/04/2016;Bandara Pattimura;FTP;BMKG Ambon;Arkan-Digitalisasi
+STW1011;AWS Digi Stamet Namlea;Maluku;Kab. Buru;Namlea;Namlea;-3.238778;127.0996;;operasional;0;12/03/2021;Jl. Raya Lala Namlea  BuruUtara Timur  Maluku Tengah  97571;;Stamet Namlea - Buru;
+STA2074;AWS Stageof Ternate;Maluku Utara;Kota Ternate;Ternate Selatan;Tabona;0.7658;127.3663;;operasional;8114331096;6/26/2021;Ternate;FTP;Sta. Geof Ternate;BMKG-Casella
+STA2232;AWS Pelabuhan Ternate;Maluku Utara;Kota Ternate;Ternate utara;Dufa Dufa;0.814072;127.389047;1;operasional;81340042148;11/15/2023;Dufa-Dufa;FTP;DKP Kota Ternate;
+STA2299;AWS Tobelo;Maluku Utara;Kab. Halmahera Utara;Tobelo;;1.73611111;128.0044444;11;operasional;82398031557;02/07/2024;;;AWS Tobelo;BMKG-Casella
+STA5044;AWS Digi Stamet Labuha;Maluku Utara;Kab. Halmahera Utara;Bacan;Hidayat;-0.6379944;127.5008;29;operasional;82395436245;09/10/2016;Bandara Oesman sadik;FTP;BMKG Oesman Sadik;Arkan-Digitalisasi
+160001;AWS Staklim Aceh;Nanggroe Aceh Darusalam;Kab. Aceh Besar;Indrapuri;Lampanah Ranjo;5.40358;95.464909;64;operasional;85261923611;09/01/2015;Jl. Banda Aceh-Medan KM 27 5 ;FTP;Stasiun Klimatologi Aceh;BMKG-LSI
+STA2129;AWS Pidie;Nanggroe Aceh Darusalam;Kab. Pidie;Keumala;Paloh Teungoh;5.23193;95.89978;56;operasional;81360217111;9/13/2016;JL Tangse KM 11.;FTP;Lab Hama Penyakit ;BMKG-LSI
+STA2236;AWS Pelabuhan Sabang;Nanggroe Aceh Darusalam;Kota Saban;sukakarya;Kota bawah barat;5.889736;95.31938;1;operasional;;11/27/2017;;FTP;BMKG;
+STA3253;AWS Tamiang Hulu;Nanggroe Aceh Darusalam;Kab. Aceh Tamiang;tamiang hulu;;4.167592;97.947282;34;operasional;85285804926;09/10/2016;;FTP;BPP Tamiang;BMKG-LSI
+STA4016;AWS SMPK Krueng Sabee;Nanggroe Aceh Darusalam;Kab. Aceh Jaya;Kreund sabee;;4.621232;95.618912;10;operasional;81260774922;09/11/2016;;FTP;Diperta aceh jaya;BMKG-LSI
+STA5011;AWS Digi Stamet Banda Aceh;Nanggroe Aceh Darusalam;Kab. Aceh Besar;Kuto Baro;Cot Mancang;5.521809;95.4171;;operasional;;10/26/2016;Bandara Sultan Iskandar;FTP;BMKG;Arkan-Digitalisasi
+STW1038;AWS  Mesonetwork  Bener Meriah;Nanggroe Aceh Darusalam;Kab. Bener Meriah;Bukit;Bale Atu;4.724192;96.84668;1421;operasional;82249464928;08/04/2023;Bandara Sultan  Iskandar Muda  Blangbintang   Banda Aceh;;Stasiun  Meteorologi  Banda Aceh;BMKG-Campbell
+STW1044;AWS Mesonetwork Singkil;Nanggroe Aceh Darusalam;Kab. Aceh Singkil;Singkil ;Tanah Merah;2.276053;97.95536;3;operasional;82363046145;08/04/2023;Bandara Sultan Iskandar Muda Blangbintang  Banda Aceh;;Stasiun Meteorologi Banda Aceh;BMKG-Campbell
+STW1053;AWS Bandar;Nanggroe Aceh Darusalam;Kab. Bener Meriah;Bandar;Pondok Gajah;4.753208;96.896438;1480;operasional;82225677895;9/13/2023;Jl. Pd. Baru  Pd. Gajah  Kec. Bandar  Kabupaten Bener Meriah  Aceh 24582;;Instalasi penelitian dan pengkajian teknologi (IP2TP) Gayo;SPL
+160042;AWS Labangka;Nusa Tenggara Barat;Kab. Sumbawa;Labangka;Sukadamai;-8.903696;117.716;47;operasional;82340704488;10/11/2017;Jl.Lintas Selatan;FTP;UPT PERTANIAN Kec Labangka;MMI-LSI
+STA2175;AWS Maritim Lembar;Nusa Tenggara Barat;Kab. Lombok Barat;Lembar;Lembar;-8.73025;116.0737;0;operasional;81237137279;9/13/2016;JL Raya pelabuhan lembar.;FTP;Pelabuhan Lembar;BMKG-Campbell
+STA2223;AWS Maritim Pemenang;Nusa Tenggara Barat;Kab. Lombok Utara;Pemenang;Pemenang;-8.39379;116.0994;2;operasional;;5/17/2017;BMKG Lombok;FTP;BMKG;BMKG-Campbell
+STA2287;AWS Pujut;Nusa Tenggara Barat;Kab. Lombok Tengah;Pujut;Sengkol;-8.892656;116.290025;25;operasional;81236133610;12/02/2020;Komplek Masjid Nurul Bilad . Jl. Pariwisata Pantai Kuta  Kuta  Pujut  Lombok Tengah;HTTP GET;PT.ITDC GWT (Ground Water Tank);
+STA4002;AWS SMPK Lape;Nusa Tenggara Barat;Kab. Sumbawa;Lape;Dete;-8.625171;117.601831;33;operasional;81916904935;09/10/2016;Jl.Labuan Kuris Lape;FTP;Dinas Pertanian Kec. Lape;BMKG-Campbell
+STA5043;AWS Digi Stamet Bima;Nusa Tenggara Barat;Kab. Bima;Palibelo;Belo;-8.54276;118.6928;2.67;operasional;;10/22/2016;Bandara Salahuddin;FTP;BMKG Bima;Arkan-Digitalisasi
+STA5053;AWS Digi Stamet Lombok;Nusa Tenggara Barat;Kab. Lombok Tengah;Praya Barat;Tanjung Awu;-8.76588;116.279;98.83;operasional;;10/20/2016;Jl. Pariwisata Tanak Awu;FTP;BMKG Lombok;Arkan-Digitalisasi
+STW1027;AWS Sigerongan;Nusa Tenggara Barat;Kab. Lombok Barat;Lingsar;Sigerongan;-8.566;116.16343;43;operasional;87848784505;11/28/2022;Pusat Pengembangan Agribisnis (SMKPP Sigerongan Lingsar);;SMKPP;BMKG-Campbell
+STW1043;AWS  Mesonetwork  Sumbawa  Besar;Nusa Tenggara Barat;Kab. Sumbawa;Empang Bawah;Empang;-8.74624;117.9953;10;operasional;81339722146;08/04/2023;l. Garuda No 43  Sumbawa Besar  84312;;Stasiun  Meteorologi  Sumbawa;BMKG-Campbell
+14063115;AAWS Waikabubak (AWS );Nusa Tenggara Timur;Kab. Sumba Barat;Waikabubak;Padaeweta;-9.62411;119.3912;449;operasional;81238652225;10/24/2014;jl.Adiyaksa no.43;FTP;Kantor Dinas Pertanian dan Perkebunan;BMKG-LSI
+160041;AWS Waibakul;Nusa Tenggara Timur;Kab. Sumba Tengah;Katikutana Selatan;Wairasa;-9.636043;119.546252;469.1;operasional;81238683440;11/08/2017;-;FTP;BP3K Sumba Tengah;MMI-LSI
+STA2145;AWS Staklim Kupang;Nusa Tenggara Timur;Kota Kupang;Kelapa lima;Lasiana;-10.139;123.6669;19;operasional;81337081760;5/25/2022;Lasiana;FTP;Staklim Nusa Tenggara Timur;BMKG-Campbell
+STA2197;AWS Maritim Maumere;Nusa Tenggara Timur;Kab. Sikka;alok;Kotauneng;-8.62125;122.2197;0;operasional;-;9/13/2016;-;FTP;BMKG;BMKG-Campbell
+STA2215;AWS Stamet Pos Ende;Nusa Tenggara Timur;Kab. Ende;Ende Selatan;Mantapaga;-8.848852;121.6632;15;operasional;-;9/13/2016;Bandar udara Ende;FTP;BMKG;BMKG-Campbell
+STA2233;AWS Pelabuhan Kupang;Nusa Tenggara Timur;Kota Kupang;Kupang;Tenau;-10.188697;123.527044;1;operasional;;11/27/2017;;FTP;;
+STA3249;AWS Naibonat;Nusa Tenggara Timur;Kab. Kupang;Kupang Timur;Naibonat;-10.105319;123.828373;38;operasional;85289699144;09/10/2016;Jl. Timor Raya KM.13;FTP;BPP Naibonat;BMKG-LSI
+STA3250;AWS Stamet Pos Tambolaka;Nusa Tenggara Timur;Kab. Sumba Barat Daya;Tambolaka;Payula Umbu;-9.411339;119.243154;0;operasional;;09/10/2016;Jl.Bandara Tambolaka;FTP;Posmet Tambolaka;BMKG-LSI
+STA5063;AWS Digi Stamet Kupang;Nusa Tenggara Timur;Kab. Kupang;Maulafa;Penfui;-10.16767;123.6704;33;operasional;81318142556;10/20/2016;Bandara Eltari Kupang;FTP;Stasiun Meteorologi Kelas II Eltari Kupang;Arkan-Digitalisasi
+STA5083;AWS Digi Stamet Ruteng;Nusa Tenggara Timur;Kab. Manggarai;Langke Rembong;Tenda;-8.597674;120.47712;1070;operasional;;12/12/2017;Jl. Satar Tacik;FTP;Stamet Ruteng;Arkan-Digitalisasi
+STA5193;AWS Digi Stamet Larantuka;Nusa Tenggara Timur;Kab. Flores Timur;Ile Mandiri;Tiwatori;-8.27638;122.99861;;operasional;;01/11/2018;;FTP;Stamet Larantuka;MMI-LSI
+STA5203;AWS Digi Stamet Mali - Alor;Nusa Tenggara Timur;Kab. Alor;Kabola;Kabola;-8.1356699;124.5928091;;operasional;85284092590;9/30/2018;Jl. Soekarno Hatta;FTP;Stamet Alor;MMI-LSI
+STA5223;AWS Digi Stamet Tardamu Sabu;Nusa Tenggara Timur;Kab. Sabu Raijua;Sabu Baray;Merba;-10.49281;121.84496;15.8;operasional;85156928148;10/14/2018;;FTP;Stasiun Meteorologi Tardamu Sabu;MMI-LSI
+STW1034;AWS  Mesonetwork  Oenenu;Nusa Tenggara Timur;Kab. Timor Tengah Utara;Bikomi  Tengah;Oenenu;-9.43082;124.4536;435;operasional;81317287882;08/03/2023;Jl. Timor Raya Km  10 7 Lasiana  Kupang  KP.  85361;;Stasiun  Klimatologi  Kupang;BMKG-Campbell
+STW1035;AWS  Mesonetwork  Ende;Nusa Tenggara Timur;Kab. Ende;Ende Timur;Mautapaga;-8.84832;121.6636;11;operasional;81338333223;08/04/2023;Stasiun  Meteorologi Wai  Oti Maumere;;Stasiun  Meteorologi  Maumere;BMKG-Campbell
+STW1036;AWS  Mesonetwork  Pailelang Alor;Nusa Tenggara Timur;Kab. Alor; Alor Barat  Laut;Pailelang;-8.24751;124.536;22;operasional;81339007363;08/04/2023;Jl. Soekarno  Hatta  Bandar  Udara Mali  Alor;;Stasiun  Meteorologi  Alor;BMKG-Campbell
+14083223;AAWS Nimboran (AWS );Papua;Kab. Jayapura;Nimboran;Tabri;-2.5925;140.1678;62;operasional;6.28524E+11;8/27/2014;jl.Raya yaring tabri no.69 Genyem;FTP;BMKG;BMKG-LSI
+STA2216;AWS Balai V;Papua;Kab. Jayapura;-;-;-2.57237;140.6926;15;operasional;81248026465;9/13/2016;Jayapura;FTP;bmkg;BMKG-Campbell
+STA2226;AWS Pelabuhan Jayapura;Papua;Kab. Jayapura;Jayapura;Jayapura;-2.535111;140.71838;1;operasional;;11/27/2017;;FTP;BMKG;
+STA2239;AWS Skouw;Papua;Kab. Jayapura;Muara Tami;Distrik Muara Tami;-2.6093;140.99722;32;operasional;0;11/04/2018;;FTP;BNPP;BMKG-Campbell
+STA2272;AWS Stamet enarotali;Papua;Kab. Paniai;Paniai Timur;Awabutu;-3.92688;136.38;1675;operasional;85244461730;2/20/2020;Jl. Ttitna Yogi Komplek Bandar Udara Enarotali;FTP;Stasiun Meteorologi Enarotali ;
+STA5005;AWS Digi Stamet Sentani Jayapura;Papua;Kab. Jayapura;Sentani;Sentani Kota;-2.578371;140.5206;20;operasional;;09/10/2016;Bandara Sentani jayapura;FTP;BMKG Sentani;Arkan-Digitalisasi
+STA5025;AWS Digi Stamet Biak;Papua;Kab. Biak Numfor;Biak Kota;Mandala;-1.190556;136.1037;12;operasional;;10/20/2016;Bandara Franskasiepo;FTP;BMKG Biak;Arkan-Digitalisasi
+STA5035;AWS Digi Stamet Timika;Papua;Kab. Mimika;Mimika Baru;Kwamki;-4.53;136.89;41;operasional;;10/28/2016;Bandara Timika;FTP;BMKG Timika;Arkan-Digitalisasi
+STA5045;AWS Digi Stamet Merauke;Papua;Kab. Merauke;Merauke;Rimba Jaya;-8.520737;140.4161;3;operasional;;9/14/2016;Bandara Mopah Merauke;FTP;BMKG Merauke;Arkan-Digitalisasi
+STA5055;AWS Digi Wamena;Papua;Kab. Jayawijaya;Wamena Kota;Wamena Kota;-4.088519;138.946189;1653;operasional;85156924215;12/15/2017;Jl Gatot Subroto;FTP;Stasiun Meteorologi Wamena;
+STA5065;AWS DIGI Dok II Jayapura;Papua;Kab. Jayapura;;;-2.536898;140.7157;3;operasional;;9/18/2018;Dok II;FTP;BMKG;MMI-LSI
+STA5075;AWS Digi Stamet Nabire;Papua;Kab. Nabire;Wanggar;Margo;-3.38489;135.40417;;operasional;;10/15/2018;;FTP;;MMI-LSI
+STW1069;AWS Arso;Papua;Kab. Keerom;ARSO;ASIAMAN;-2.869682;140.734828;10;operasional;0;6/14/2022;Jl. Yaring Tabri Genyem  Nimboran  Jayapura  Papua;;BMKG;BMKG-Campbell
+160009;AWS Staklim Papua Barat;Papua Barat;Kab. Manokwari Selatan;Ransiki;Ransiki;-1.5105;134.1771;20;operasional;82312124804;9/13/2016;JL Sujarwo Condronegoro;FTP;Staklim Papua Barat;BMKG-LSI
+160020;AWS GAW Vihara Klademark;Papua Barat;Kota Sorong;Sorong;Klakublik;-0.874536;131.2677;220;operasional;81249669739;9/13/2016;Bandara Jefman KP.127 sorong.;FTP;BMKG Sorong;BMKG-LSI
+STA2150;AWS Stamet Manokwari;Papua Barat;Kab. Manokwari;Manokwari Selatan;Sowi;-0.89021;134.0514;0;operasional;82248146917;9/13/2016;Jalan Trikora Rendani Manokwari  Papua Barat.;FTP;Kantor Stamet;BMKG-Casella
+STA2235;AWS Pelabuhan Sorong;Papua Barat;Kota Sorong;Sorong;sawo;-0.888586;131.266677;1;operasional;85244660880;11/27/2017;;FTP;BMKG Sorong;
+STA2288;AWS Manokwari Selatan;Papua Barat;Kab. Manokwari;Manokwari Selatan;Andai;-0.928055555;134.0255556;55;operasional;85358028903;12/12/2020;Jl. Brigjen Marinir purn. Abraham O.Autururi Arfai - Manokwari;FTP;Staklim Papua Barat;
+STA5015;AWS Digi Stamet Sorong;Papua Barat;Kota Sorong;Sorong Manoi;Sorong kota;-0.890673;131.2859;0;operasional;85244660880;10/30/2016;Komplek Bandara DEO Sorong;FTP;BMKG Sorong;Arkan-Digitalisasi
+STW1050;AWS  Mesonetwork  Kab Sorong;Papua Barat;Kota Sorong;Distrik  Mariat ;Mariayi;-1.02047;131.31781;80.5;operasional;81344280537;08/07/2023;Stasiun  Meteorologi  Jefman Sorong;;Stasiun  Meteorologi  Sorong;BMKG-Campbell
+STW1063;AWS Rasiei;Papua Barat;Kab. Teluk Wondama;Rasiei;Isei;-2.828214;134.5358;51;operasional;82397202268;10/02/2023;Kantor BPBD  Kompleks Perkantoran  Isei  Distrik Rasiei  Kabupaten Teluk Wondama  Papua Barat. 98362;;BPBD Teluk Wondama;BMKG-LSI
+STA2176;AWS Pekan Arba Indragiri Hilir;Riau;Kab. Indragri Hilir;Tembilahan;Pekan Arba;-0.297028;103.13228;3;operasional;81261762292;9/13/2016;Maranti Pandak  Pekan Arba;FTP;Balai Benih Pertanian;BMKG-Casella
+STA5021;AWS Digi Stamet Pekanbaru;Riau;Kota Pekanbaru;Marpoyan Damai;Maharatu;0.46083;101.444;27;operasional;81329113691;11/01/2016;Bandara Sultan Syarif Kasim II Pekanbaru;FTP;BMKG;Arkan-Digitalisasi
+STW1032;AWS Mesonetwork Rokan Hulu;Riau;Kab. Rokan Hulu;Rambah;Suka Maju ;0.841434;100.3375;66;operasional;0;08/02/2023;Bandar Udara Sultan Syarif Kasim II Pekanbaru  KP. 28284;;Stasiun Meteorologi Pekanbaru;BMKG-Campbell
+STW1037;AWS  Mesonetwork  Kampar;Riau;Kab. Kampar;Tapung;Petapahan  Jaya;0.614;100.9734;46;operasional;0812-7639- 8323;08/03/2023;Bandar Udara  Sultan Syarif  Kasim II  Pekanbaru  KP.  28284;;Stasiun  Meteorologi  Pekanbaru;BMKG-Campbell
+STW1054;AWS Bandar Laksamana Bengkalis;Riau;Kab. Bengkalis;Dumai;Sepahat;1.594608;101.817134;15;operasional;82390545968;10/02/2023;Jl. Arifin Ahmad desa Sepahat  Kec. Dumai  Bengkalis Riau ;;Pos jaga BPBD dan Damkar;BMKG-LSI
+14063113;AAWS Kalukku (AWS );Sulawesi Barat;Kab. Mamuju;Kalukku;Kalukku;-2.54399;119.0683;8;operasional;81241367314;11/24/2014;Jl. Akhmad Kiram Km. 27;FTP;BP3K Kalukku;BMKG-LSI
+STA2067;AWS Stamet Mamuju;Sulawesi Barat;Kab. Mamuju;Kaluku;Tampa Padang;-2.5708;119.0385;9;operasional;81356604993;9/13/2016;KOMPLEKS BANDAR UDARA TAMPA PADANG  Sinyonyoi  Kalukku  Kabupaten Mamuju  Sulawesi Barat;FTP;Bandara Mamuju;BMKG-Casella
+STA2286;AWS Simboro;Sulawesi Barat;Kab. Mamuju;Simboro;Rangas;-2.665827;118.85083;39;operasional;85848192873;12/03/2020;Komplek Perkantoran Pemprov  Sulbar;FTP;Kantor Camat Kolono;
+STA3240;AWS Dapurang;Sulawesi Barat;Kab. Mamuju Utara;Dapurang;Dapurang;-1.8227278;119.5947139;13;operasional;82337014183;09/10/2016;Jl. Lintas Mamuju Palu;FTP;Dinas Pertanian Tanaman Pangan;BMKG-LSI
+STA5014;AWS Digi Stamet Majene;Sulawesi Barat;Kab. Majene;Baggae Timur;Lembang;-3.550711;118.980528;29.313;operasional;85848192873;10/10/2016;Jl.Lettu M Yamin no.13;FTP;BMKG Majene;Arkan-Digitalisasi
+14063063;AWS Barru;Sulawesi Selatan;Kab. Barru;Barru;Mangempang;-4.39501;119.6237;9;operasional;81342182977;09/07/2016;jl.AA.baumasape.no.64;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-LSI
+14063064;AWS Mangkutana;Sulawesi Selatan;Kab. Luwu Timur;Mangkutana;Balai Kembang;-2.49716;120.7943;20;operasional;82304203555;6/21/2014;jl. Peternakan desa balai kembang;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-LSI
+160031;AWS Takkalalla;Sulawesi Selatan;Kab. Wajo;Takkalalla;Manyiti;-4.178612;120.28463;91.3;operasional;81342290666;9/28/2017;Jl. Poros Peneki;FTP;Stasiun Klimatologi Sulawesi Selatan;MMI-LSI
+160034;AWS Salomekko;Sulawesi Selatan;Kab. Bone;Salomekko;Pancaitana;-4.982336;120.267;93.7;operasional;85252376638;10/02/2017;Jl. Poros Sinjai Bone;FTP;Stasiun Klimatologi Sulawesi Selatan;MMI-LSI
+STA2076;AWS Stasiun Klimatologi Sulawesi Selatan;Sulawesi Selatan;Kab. Maros;Maros Baru;Baju Budoa;-4.9971196;119.5715342;13;operasional;8164394276;9/13/2016;;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-Campbell
+STA2124;AWS Uluere;Sulawesi Selatan;Kab. Bantaeng;Uluere;Bonto Marannu;-5.4451741;119.9130442;1098.1;operasional;81355032149;9/13/2016;uluere bantaeng;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-Casella
+STA2125;AWS Liliriaja;Sulawesi Selatan;Kab. Soppeng;Liliriaja;;-4.427732;119.9371332;95;operasional;85299432788;7/30/2013;;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-Campbell
+STA2126;AWS Tinggimoncong;Sulawesi Selatan;Kab. Gowa;Tinggimoncong;Patappang;-5.24935;119.9129;1021;operasional;85241467990;9/13/2016;Gowa;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-Casella
+STA2127;AWS Patampanua;Sulawesi Selatan;Kab. Pinrang;Patampanua;Teppo;-3.70583;119.6661111;8;operasional;85237046363;9/13/2016;Kecamatan Patampanua;FTP;Stasiun Klimatologi Sulawesi Selatan;BMKG-Casella
+STA2179;AWS Maritim Paotere;Sulawesi Selatan;Kota Makasar;Ujung Tanah;Gusung;-5.110364;119.419747;1.75;operasional;81390390782;9/13/2016;-;FTP;Stasiun Meteorologi Maritim Paotere;BMKG-Campbell
+STA5024;AWS Digi Stamet Hasanuddin Makassar;Sulawesi Selatan;Kab. Maros;Mandai;Baji Manggai;-5.071029;119.552244;17;operasional;82242285955;10/30/2016;Bandara Hasanuddin;FTP;Stasiun Meteorologi Hasanuddin;Arkan-Digitalisasi
+STA5074;AWS Digi Stamet Andi Jemma;Sulawesi Selatan;Kab. Luwu Utara;Masamba;Kapuna;-2.555;120.324;50;operasional;85218015785;10/06/2018;;FTP;Stasiun Meteorologi Andi Jemma;MMI-LSI
+STW1051;AWS DIGI Stasiun Meteorologi Maritim Paotere;Sulawesi Selatan;Kota Makasar;Biringkanaya;Untia;-5.068743;119.470606;3;operasional;81390390782;08/08/2023;Jl. Selodong Kec. Biringkanaya  Makassar 90243;;Stasiun Meteorologi Maritim Paotere - Makassar;BMKG-Campbell
+STW1062;AWS Polombangkeng Utara;Sulawesi Selatan;Kab. Takalar;Polombangkeng Utara;Pa'rappunganta;-5.357611;119.49778;23;operasional;82346337483;10/02/2023;Jl. Pabrik Gula Takalar  Polobangkeng Utara 92221;;Pabrik Gula Takalar;BMKG-LSI
+14063120;AAWS Lore Piore (AWS);Sulawesi Tengah;Kab. Poso;Lore Piore;Siliwanga;-1.530833;120.3283;1137;operasional;85299551781;10/09/2014;Siliwanga;FTP;BP3K Lore Piore;BMKG-LSI
+160018;AWS GAW Lore Lindu Bariri;Sulawesi Tengah;Kab. Poso;Lore Tengah;Hangira;-1.650042;120.183;1372;operasional;82283792357;9/13/2016;Palu;FTP;BMKG GAW Lore Lindu Bariri ;BMKG-LSI
+160037;AWS Lalundu;Sulawesi Tengah;Kab. Donggala;Rio Pavaka;Lalundu;-1.29306;119.509;628;operasional;82271519248;10/07/2017;;FTP;BPP Lalundu;MMI-LSI
+160038;AWS Dolago;Sulawesi Tengah;Kab. Parigi Mountong;Parigi Selatan;Dolago Padang;-0.895436;120.226292;11;operasional;81354436855;10/03/2017;;FTP;LPHP Dolago;MMI-LSI
+STA2096;AWS Labuan;Sulawesi Tengah;Kab. Donggala;Labuan;Gunung Bale;-0.633889;119.8505;8;operasional;85344004234;9/13/2016;Dusun Simou  Desa Labuan Taposo;FTP;BPP Simou;BMKG-Casella
+STW1046;AWS  Mesonetwork  Morowali;Sulawesi Tengah;Kab. Morowali;Bumi Raya ;Limbo  Makmur;-2.25311;121.6929;12;operasional;82291912916;08/04/2023;Komplek Bandara  Mutiara Palu Jl.  Abdurahman  Saleh Biroboli - Sulawesi Tengah;;Stasiun  Meteorologi  Palu;BMKG-Campbell
+14063118;AAWS Lantari Jaya (AWS );Sulawesi Tenggara;Kab. Bombana;Lantari Jaya;Lantari;-4.613333;121.9969;0;operasional;85274067423;10/20/2014;Jl. Ahmad Yani;FTP;BPP Lantari Jaya;BMKG-LSI
+160006;AWS Staklim Ranomeeto;Sulawesi Tenggara;Kab. Konawe Selatan;Ranameeto;Ronooha;-4.056219;122.4492;0;operasional;81343897908;9/13/2016;JL Poros Bandara Lorong Mekar.;FTP;Staklim BMKG;BMKG-LSI
+160019;AWS Samaturu;Sulawesi Tenggara;Kab. Kolaka;Samaturu;Konaweha;-3.98111;121.3642;0;operasional;85241650298;9/13/2015;-;FTP;BP3K;BMKG-LSI
+STA2194;AWS Maritim Kendari;Sulawesi Tenggara;Kota Kendari;Kendari;;-3.978315;122.5975;0;operasional;;9/13/2016;-;FTP;Distrik Navigasi Kelas III Kendari;BMKG-Campbell
+STA2225;AWS Maritim Bau-Bau;Sulawesi Tenggara;Kota Bau-Bau;Betoambari;Kotabengke;-5.454768;122.606203;0;operasional;;9/20/2017;Betoambari;FTP;BMKG Baubau;BMKG-Campbell
+STA3238;AWS Unaha Konawe;Sulawesi Tenggara;Kab. Konawe Kepulauan;Unaaha;Tumpus;-3.858333;122.0504;0;operasional;85242359273;09/10/2016;;FTP;BP3K;BMKG-Campbell
+STA5034;AWS Digi Stamet Bau-Bau;Sulawesi Tenggara;Kota Bau-Bau;Baubau;Betoambari;-5.483;122.6;35;operasional;8161628585;10/20/2016;Komplek bandara Betoambari;FTP;BMKG;Arkan-Digitalisasi
+STW1012;AWS Digi Stamet Maritim Kendari;Sulawesi Tenggara;Kota Kendari;Kendari;Kampung Salo;-3.970051;122.589608;2;operasional;82324105720;10/13/2021;Jl. Jendral Sudirman No.158  Kp. Salo  Kendari  Kota Kendari  Sulawesi Tenggara 93127;;Sta. Met Maritim Kendari;
+160036;AWS Bolaang Mongondow;Sulawesi Utara;Kab. Bolaaang Mongondow;Lolak;Lalow;0.881165;124.037098;6;operasional;82188917603;10/10/2017;Jl. Trans sulawesi;FTP;Dinas Pertanian;MMI-LSI
+STA2031;AWS Pandu;Sulawesi Utara;Kota Manado;Bunaken;Singkil Dua;1.575833;124.8783;46;operasional;85298075206;9/13/2016;JL Bengawan Solo komp wali lestari indah;FTP;Kebun Percobaan Pandu;BMKG-MSP
+STA2151;AWS BPTP Kalasey;Sulawesi Utara;Kota Manado;Malalayang;Danowudu;1.4417457;124.7707066;62;operasional;81344358069;11/25/2022;Bitung;FTP;BPTP Sulut;BMKG-Casella
+STA2152;AWS Staklim Minahasa Utara;Sulawesi Utara;Kab. Minahasa Utara;Talawaan;Paniki Atas;1.5011371;124.9182063;80;operasional;85966683098;9/13/2016;Jl.Raya Paniki Atas;FTP;Staklim Sulawesi Utara;BMKG-Campbell
+STA2153;AWS Amurang Timur;Sulawesi Utara;Kab. Minahasa Selatan;Amurang Timur;Pondang;1.2128;124.5978;14;operasional;85161276924;9/13/2016;Minahasa selatan;FTP;Kantor Kabupaten Minahasa Selatan;BMKG-Casella
+STA2202;AWS Maritim Bitung;Sulawesi Utara;Kota Bitung;Aertembaga;Dermaga Bimoli ;1.46040133;125.2177691;0;operasional;-;9/13/2016;Dermaga Bimoli Bitung;FTP;BMKG;BMKG-Campbell
+STA2208;AWS Stamet Melonguane;Sulawesi Utara;Kab. Kep. Talaud;Melonguane;Melonguane;4.006;126.6747;10;operasional;;9/20/2016;Melonguane;FTP;BMKG;BMKG-Campbell
+STA2294;AWS Pariwisata Likupang;Sulawesi Utara;Kab. Minahasa Utara;Likupang Timur;Kalinaun;1.630778;125.1458;29;operasional;82187307522;09/09/2021;Jl. Likupang - Gririan Kalinaun;;;
+STA4011;AWS SMPK Modoinding;Sulawesi Utara;Kab. Minahasa Selatan;Modoinding;Linelean;0.795862;124.4572;1081;operasional;85340230304;09/10/2016;-;FTP;Dinas Pertanian;BMKG-Campbell
+STA5004;AWS Digi Stamet Manado;Sulawesi Utara;Kota Manado;Mapanget;Lapangan;1.545949;124.9236;7;operasional;;09/10/2016;BMKG Samratulangi;FTP;BMKG Samratulangi;Arkan-Digitalisasi
+STA5064;AWS Digi Stamet Naha;Sulawesi Utara;Kab. Sangihe Talaud;Tabukan Utara;Naha;3.685353;125.530096;15\r\n\r\n;operasional;;2/14/2018;Bandara Naha Tahuna Sangihe Talaud;FTP;BMKG Naha;Arkan-Digitalisasi
+14063054;AAWS Harau (AWS );Sumatera Barat;Kab. Limapuluhkota;Harau;Ds. Kototuo;-0.16989;100.666;498;operasional;81363393942;6/30/2014;Jl. Raya Tanjung Pati Km. 7;FTP;Politeknik Pertanian Negeri Payakumbuh;BMKG-LSI
+160011;AWS Alahan Panjang;Sumatera Barat;Kab. Solok;Lembah Gumati;Alahan Panjang;-1.095582;100.7943;1607;operasional;85263689708;07/06/2014;Alahan Panjang;FTP;Kebun Penelitan UNAND;BMKG-LSI
+160040;AWS Pasaman Barat;Sumatera Barat;Kab. Pasaman Barat;Sukamenanti;Jorong Padang Timur;0.124304;99.868561;80;operasional;81363228033;10/18/2017;Komplek Pemkab Pasaman Barat;FTP;BBI Sukamenanti Pasaman Barat;MMI-LSI
+STA2195;AWS Maritim Bungus;Sumatera Barat;Kota Padang;Padang Selatan;Teluk bayur;-1.029558;100.395941;5;operasional;-;9/13/2016;-;FTP;BMKG;BMKG-Campbell
+STA5031;AWS Digi Stamet Padang;Sumatera Barat;Kab. Padang Pariaman;Batang Anai;Talao Mundam;-0.788914;100.287359;6.9;operasional;;10/12/2016;Jl.Mr.St.H.Mohd.Rasjid;FTP;BMKG - Padang;Arkan-Digitalisasi
+STW1049;AWS  Mesonetwork  Payakumbuh;Sumatera Barat;Kab. Limapuluhkota;Harau;Sarilamak;-0.15301;100.6589;504;operasional;81374373251;08/07/2023;Bandara Tabing  Padang;;Stasiun  Meteorologi  Padang;BMKG-Campbell
+160045;AWS Muara Padang;Sumatera Selatan;Kab. Banyuasin;Muara Padang;Daya Makmur;-2.597376;105.132643;7;operasional;81276727875;10/18/2017;;FTP;BP3K Kecamatan Muara Padang;MMI-LSI
+160046;AWS Tugu Mulyo ;Sumatera Selatan;Kab. Musi Rawas;Tugu Mulyo;Tegal Rejo;-3.219922;102.9419;79;operasional;81268938258;10/21/2017;Jl.Jendral Sudirman Komp.Balai Benih;FTP;Dinas Pertanian dan Peternakan;MMI-LSI
+STA2121;AWS Staklim Sumatera Selatan;Sumatera Selatan;Kota Palembang;Sako;Kenten;-2.927103;104.77187;4;operasional;8127851895;9/13/2016;JL Residen H.Amaludin Kenten Sako;FTP;Stasiun Klimatologi Sumatera Selatan;BMKG-Campbell
+STA2241;AWS Sembawa;Sumatera Selatan;Kab. Banyuasin;Banyuasin I;Lalang Sembawa;-2.92469;104.54676;17;operasional;81632123606;2/15/2018;;FTP;SMPA / SMK SPPN Sembawa;BMKG-Campbell
+STA4017;AWS SMPK Ogan Ilir;Sumatera Selatan;Kab. Ogan Ilir;Indralaya;Indralaya;-3.22258;104.6538;11;operasional;82185094084;09/10/2016;Jl.Palembang-Prabumulih KM.32;FTP;Universitas Sriwijaya;BMKG-Campbell
+STA5002;AWS Digi Stamet Palembang;Sumatera Selatan;Kota Palembang;Sukarami;Talang Betutu;-2.894545;104.7011;11;operasional;-;09/10/2016;-;FTP;BMKG Palembang;Arkan-Digitalisasi
+STW1028;AWS Digi Staklim Sumsel;Sumatera Selatan;Kota Palembang;Kertapati;Keramasan;-3.03224;104.72221;4;operasional;8127851895;11/28/2022;Jln. Mayjen Singadekane RT/RW 22/05 Kel. Keramasan  Kec. Kertapati Palembang;;Stasiun Klimatologi Sumatera Selatan;BMKG-Vaisala
+STW1039;AWS  Mesonetwork  Musi  Banyuasin;Sumatera Selatan;Kab. Musi Banyuasin;Sekayu;Kayu Ara;-2.86495;103.8642;14;operasional;82372190800;08/04/2023;Jl. SM  Badaruddin II Km  10 5 Palembang;;Stasiun  Meteorologi  Palembang;BMKG-Campbell
+160044;AWS Parapat;Sumatera Utara;Kab. Simalungun;Girsang SSimpang Bolon;Sibaganding;2.6629;98.9396;970;operasional;81370859314;11/14/2017;Jl. Lintas Sumatera - Parapat;FTP;Komplek Rumah Dinas Stasiun Geofisika Parapat;MMI-LSI
+160051;AWS Sosa;Sumatera Utara;Kab. Padang Lawas Utara;Sosa;UPT Ujung Batu Satu;1.08456;100.02178;113;operasional;85370494544;11/17/2017;Kebun Sosa;FTP;PTPN IV Sosa;MMI-LSI
+STA2068;AWS Staklim Deli Serdang;Sumatera Utara;Kab. Deliserdang;Percut Sei Tuan;Sampali;3.620844;98.71477;25;operasional;81396907439;9/13/2016;Jl. Meteorologi Raya No.17;FTP;BMKG Stasiun Klimatologi Deli Serdang;BMKG-Campbell
+STA2238;AWS Maritim Tigaras Danau Toba;Sumatera Utara;Kab. Simalungun;Dolok Pardamean;Tigaras;2.7980489;98.7885096;0;operasional;;7/21/2018;Balai I Medan;FTP;BBMKG I;BMKG-Campbell
+STA2295;AWS Dolok Sanggul;Sumatera Utara;Kab. Humban Hasundutan;Dolok Sanggul;Lumban Tobing;2.28833;98.74333;1415;operasional;85261764807;8/21/2021;Dinas Pertanian Kab. HH;;Dinas Pertanian Kab. Humbang Hasundutan;
+STA5001;AWS Digi Stamet Kualanamu Medan;Sumatera Utara;Kota Medan;Tanjung Morawa;Penara Kebun;3.64576;98.8849;23;operasional;;09/10/2016;Bandara Kualanamu;FTP;BMKG-Kualanamu;Arkan-Digitalisasi
+STA5051;AWS Digi Stamet Aek Godang;Sumatera Utara;Kab. Padang Lawas Utara;Batang Onang;Janji Manahan;1.40195;99.42653;289;operasional;81264411912;12/19/2017;;FTP;Stamet Aek Godang;MMI-LSI
+STW1052;AWS Jawa Maraja Bah Jambi;Sumatera Utara;Kab. Simalungun;Jawa Maraja Bah Jambi;Bah Jambi Bibitan;2.97467;99.21625253;186;operasional;82215265148;10/02/2023;Desa  Bah Jambi Bibitan  kec. Jawa Maraja Bah Jambi  kab. Simalungun - Sumatera Utara;;PT. PERKEBUNAN NUSANTARA IV MEDAN;BMKG-LSI
