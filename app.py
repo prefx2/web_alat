@@ -31,7 +31,7 @@ shapefile_folder = os.path.join(base_folder, 'shapefile')
 geojson_path = os.path.join(shapefile_folder, 'zom_s_simplified.geojson')
 
 # Load data CSV
-data_path = os.path.join(data_folder, f"{selected_alat}.csv")
+data_path = os.path.join(data_folder, f"{selected_alat.lower()}.csv")
 try:
     df = pd.read_csv(data_path, delimiter=';', encoding='utf-8', on_bad_lines='skip')
     df.columns = df.columns.str.strip()
